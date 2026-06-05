@@ -349,5 +349,41 @@
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1ee1/RBhBIY5lMOKEYmolWcVvu_GA7OWsEi.png",
     "desc": "Luxury black leather mat with glowing neon green edge."
+  },
+  {
+    "id": "51",
+    "name": "ECOM_EXTRACTION_FLEET",
+    "price": "00.00",
+    "status": "GOD_TIER",
+    "yield": "DIGITAL",
+    "img": "assets/ECOM_EXTRACTION_FLEET.png",
+    "desc": "Automated e-commerce extraction engine for massive fleet operations."
+  },
+  {
+    "id": "52",
+    "name": "OPEN_CLAW_GOD_TIER",
+    "price": "50.00",
+    "status": "GOD_TIER",
+    "yield": "DIGITAL",
+    "img": "assets/OPEN_CLAW_GOD_TIER.png",
+    "desc": "Elite bypass and system access utility. God-tier clearance."
+  },
+  {
+    "id": "54",
+    "name": "THE_OPERATOR_PACK",
+    "price": "20.00",
+    "status": "ELITE",
+    "yield": "PHYSICAL",
+    "img": "assets/THE_OPERATOR_PACK.png",
+    "desc": "Tactical hardshell gear for field operations. Advanced protection."
+  },
+  {
+    "id": "55",
+    "name": "THE_ROBOTICS_BIBLE",
+    "price": "5.00",
+    "status": "EDUCATIONAL",
+    "yield": "DIGITAL",
+    "img": "assets/THE_ROBOTICS_BIBLE.png",
+    "desc": "Complete visual guide to high-fidelity robotics and OS construction."
   }
 ]
