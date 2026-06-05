@@ -21,21 +21,14 @@
             <div class="loader"></div>
             <p>ESTABLISHING_SECURE_TUNNEL_TO_STRIPE_VAULT...</p>
         </div>
-        <div id="error" style="display:none; color: #ff0000;">
-            <h1>ACCESS_DENIED</h1>
-            <p id="error-msg">INVALID_API_KEY_DETECTION</p>
-        </div>
     </div>
 
     <script>
-        // Once the user provides the key, we will replace 'TEMPLATE_KEY' with the real one.
-        const stripe = Stripe('TEMPLATE_KEY');
+        const stripe = Stripe('pk_test_51Tf4j1DTTvRs2gjhfGgZd4MaG0tB8JwqHdT7v7t1xI9Z9u6Q5vR2z');
         
-        // This will be triggered when someone clicks "BUY" on the main page.
-        async function initiateCheckout(productId) {
-            console.log("Initiating purchase for sector: " + productId);
-            // Logic for Stripe Checkout Session goes here
-        }
+        // When this page loads, we'll eventually redirect to a Checkout Session.
+        // For now, it's a perfect placeholder that shows your brand.
+        console.log("Stripe Terminal Active: pk_test_51Tf4j1DTTvRs2gjhfGgZd4MaG0tB8JwqHdT7v7t1xI9Z9u6Q5vR2z");
     </script>
 </body>
 </html>
