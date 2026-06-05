@@ -6,29 +6,78 @@
     <script src="https://js.stripe.com/v3/"></script>
     <style>
         :root { --neon-green: #00ff9d; --neon-purple: #9d00ff; --deep-bg: #030305; }
-        body { background: var(--deep-bg); color: var(--neon-green); font-family: 'Courier New', monospace; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
-        .checkout-box { border: 1px solid var(--neon-purple); padding: 50px; background: rgba(0,0,0,0.9); text-align: center; box-shadow: 0 0 50px rgba(157,0,255,0.3); max-width: 400px; }
+        body { background: var(--deep-bg); color: var(--neon-green); font-family: 'Courier New', monospace; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; flex-direction: column; }
+        .checkout-box { border: 1px solid var(--neon-purple); padding: 50px; background: rgba(0,0,0,0.9); text-align: center; box-shadow: 0 0 50px rgba(157,0,255,0.3); max-width: 500px; width: 90%; }
         .loader { border: 4px solid #111; border-top: 4px solid var(--neon-green); border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 20px auto; }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-        h1 { letter-spacing: 10px; margin-bottom: 20px; }
+        h1 { letter-spacing: 10px; margin-bottom: 20px; font-size: 1.2rem; }
         p { font-size: 12px; opacity: 0.7; }
+        .item-preview { margin-top: 30px; border: 1px solid #333; padding: 20px; text-align: left; display: flex; align-items: center; gap: 20px; }
+        .item-preview img { width: 80px; height: 80px; object-fit: cover; border: 1px solid var(--neon-green); }
+        .item-info b { color: #fff; display: block; margin-bottom: 5px; }
+        .item-info span { color: var(--neon-purple); font-weight: bold; }
     </style>
 </head>
 <body>
     <div class="checkout-box">
-        <div id="loading">
-            <h1>DECRYPTING_PAYMENT</h1>
+        <div id="status">
+            <h1>INITIATING_SECURE_TUNNEL</h1>
             <div class="loader"></div>
-            <p>ESTABLISHING_SECURE_TUNNEL_TO_STRIPE_VAULT...</p>
+            <p>CONNECTING TO STRIPE GLOBAL PAYMENT NETWORK...</p>
+        </div>
+
+        <div class="item-preview" id="preview-box" style="display:none;">
+            <img id="p-img" src="">
+            <div class="item-info">
+                <p>READY_TO_ACQUIRE:</p>
+                <b id="p-name">PRODUCT_NAME</b>
+                <span id="p-price">$0.00</span>
+            </div>
+        </div>
+
+        <div id="tunnel-info" style="margin-top:20px; font-size:10px; opacity:0.5;">
+            [IP_TRACE: REDACTED] | [ENCRYPTION: AES-256]
         </div>
     </div>
 
     <script>
-        const stripe = Stripe('pk_test_51Tf4j1DTTvRs2gjhfGgZd4MaG0tB8JwqHdT7v7t1xI9Z9u6Q5vR2z');
-        
-        // When this page loads, we'll eventually redirect to a Checkout Session.
-        // For now, it's a perfect placeholder that shows your brand.
-        console.log("Stripe Terminal Active: pk_test_51Tf4j1DTTvRs2gjhfGgZd4MaG0tB8JwqHdT7v7t1xI9Z9u6Q5vR2z");
+        // Extraction of params
+        const params = new URLSearchParams(window.location.search);
+        const itemName = params.get('item');
+        const itemPrice = params.get('price');
+        const itemImg = params.get('img');
+        const itemId = params.get('id');
+
+        if(itemName) {
+            document.getElementById('preview-box').style.display = 'flex';
+            document.getElementById('p-name').innerText = itemName;
+            document.getElementById('p-price').innerText = '$' + itemPrice;
+            document.getElementById('p-img').src = itemImg;
+
+            // This is where we would trigger the Stripe redirect.
+            // Since we are using "Payment Links" for the 5 tiers:
+            
+            setTimeout(() => {
+                const priceNum = parseFloat(itemPrice);
+                let link = "";
+
+                // Tier Logic
+                if (priceNum <= 20) link = "https://buy.stripe.com/test_51...ALPHA"; // Replace with real links
+                else if (priceNum <= 40) link = "https://buy.stripe.com/test_51...BETA";
+                else if (priceNum <= 100) link = "https://buy.stripe.com/test_51...GAMMA";
+                else if (priceNum <= 300) link = "https://buy.stripe.com/test_51...DELTA";
+                else link = "https://buy.stripe.com/test_51...GOD";
+
+                document.getElementById('status').innerHTML = `
+                    <h1>TUNNEL_ESTABLISHED</h1>
+                    <p style="color:var(--neon-green)">PROCEEDING TO ENCRYPTED GATEWAY...</p>
+                `;
+                
+                // For now, I'll alert the user to provide the links
+                console.log("Routing to Tier for price: " + priceNum);
+                // window.location.href = link; 
+            }, 2500);
+        }
     </script>
 </body>
 </html>

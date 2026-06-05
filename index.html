@@ -63,7 +63,7 @@
                     <div style="font-size:12px; font-weight:bold;">${p.name}</div>
                     <div style="font-size:10px; opacity:0.6; margin:5px 0;">${p.desc}</div>
                     <div class="price">${p.price}</div>
-                    <a href="${store_url}" class="buy-btn">ORDER_SHIPMENT</a>
+                    <a href="${store_url}?item=${encodeURIComponent(p.name)}&price=${p.price.replace('$','')}&img=${encodeURIComponent(p.img)}&id=${p.id}" class="buy-btn">ORDER_SHIPMENT</a>
                 </div>
             `).join('');
 
@@ -71,8 +71,9 @@
                 <div class="card">
                     <div class="img-box"><img src="${p.img || 'https://v3b.fal.media/files/b/0a9d1cf8/41fy9teZUKdXCZswVd47v_3rX4DMNS.png'}"></div>
                     <div style="font-size:12px; font-weight:bold;">${p.name}</div>
+                    <div style="font-size:10px; opacity:0.6; margin:5px 0;">${p.desc || 'Encrypted Blueprint'}</div>
                     <div class="price">${p.price}</div>
-                    <a href="${store_url}" class="buy-btn">DECRYPT_ACCESS</a>
+                    <a href="${store_url}?item=${encodeURIComponent(p.name)}&price=${p.price.replace('$','')}&img=${encodeURIComponent(p.img || '')}&id=${p.id}" class="buy-btn">DECRYPT_ACCESS</a>
                 </div>
             `).join('');
         }
