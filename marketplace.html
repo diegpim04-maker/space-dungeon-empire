@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SPACE_DUNGEON_VAULT // SECURE_CHECKOUT</title>
+    <style>
+        :root { --neon-green: #00ff9d; --neon-purple: #9d00ff; --deep-bg: #030305; }
+        body { background: var(--deep-bg); color: var(--neon-green); font-family: 'Courier New', monospace; padding: 40px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 25px; }
+        .card { border: 1px solid var(--neon-purple); padding: 20px; background: rgba(0,0,0,0.8); position: relative; overflow: hidden; }
+        .card::before { content: ""; position: absolute; top:0; left:0; width:100%; height:2px; background: var(--neon-purple); animation: scan 2s linear infinite; }
+        @keyframes scan { 0% { top: 0; } 100% { top: 100%; } }
+        .title { font-size: 1.2rem; font-weight: bold; color: #fff; margin-bottom: 10px; }
+        .price { font-size: 1.8rem; margin: 15px 0; color: #fff; text-shadow: 0 0 10px var(--neon-green); }
+        .buy-btn { background: var(--neon-green); color: #000; padding: 15px; text-decoration: none; display: block; text-align: center; font-weight: bold; font-size: 14px; clip-path: polygon(10% 0, 100% 0, 90% 100%, 0 100%); transition: 0.3s; }
+        .buy-btn:hover { background: #fff; box-shadow: 0 0 30px var(--neon-green); }
+        .overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; border: 20px solid rgba(157, 0, 255, 0.05); }
+    </style>
+</head>
+<body>
+    <div class="overlay"></div>
+    <h1 style="text-align:center; letter-spacing: 15px; margin-bottom: 50px;">VAULT_ACCESS_TERMINAL</h1>
+    
+    <div id="product-grid" class="grid"></div>
+
+    <script>
+        const store_url = "https://diegpim.gumroad.com"; // Swapping this will update ALL buttons
+        
+        async function loadStore() {
+            const res = await fetch('inventory.json');
+            const products = await res.json();
+            const grid = document.getElementById('product-grid');
+            grid.innerHTML = products.map(p => `
+                <div class="card">
+                    <div style="font-size:9px; opacity:0.6;">CRYPT_ID: ${p.id}</div>
+                    <div class="title">${p.name}</div>
+                    <div style="font-size:10px;">RELIABILITY: ${p.yield} // STATUS: ${p.status}</div>
+                    <div class="price">${p.price}</div>
+                    <a href="${store_url}" class="buy-btn">DECRYPT_NOW</a>
+                </div>
+            `).join('');
+        }
+        loadStore();
+    </script>
+</body>
+</html>

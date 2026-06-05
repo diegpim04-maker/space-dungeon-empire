@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPACE_DUNGEON_OS // SECURE_LINE</title>
+    <style>
+        :root {
+            --neon-green: #00ff9d;
+            --neon-purple: #9d00ff;
+            --deep-bg: #030305;
+            --grid-line: rgba(157, 0, 255, 0.1);
+        }
+
+        body {
+            background-color: var(--deep-bg);
+            color: var(--neon-green);
+            font-family: 'Courier New', Courier, monospace;
+            margin: 0;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        /* Scanline Effect */
+        body::after {
+            content: " ";
+            display: block;
+            pointer-events: none;
+            position: fixed;
+            top: 0; left: 0; bottom: 0; right: 0;
+            background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+            z-index: 1000;
+            background-size: 100% 4px, 3px 100%;
+        }
+
+        #cyber-grid {
+            position: absolute;
+            width: 200%; height: 200%;
+            background-image: 
+                linear-gradient(var(--grid-line) 1px, transparent 1px),
+                linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+            background-size: 50px 50px;
+            transform: perspective(500px) rotateX(60deg) translateY(-25%);
+            animation: grid-move 20s linear infinite;
+        }
+
+        @keyframes grid-move {
+            0% { transform: perspective(500px) rotateX(60deg) translateY(0); }
+            100% { transform: perspective(500px) rotateX(60deg) translateY(50px); }
+        }
+
+        .container {
+            position: relative;
+            z-index: 10;
+            width: 90vw;
+            height: 80vh;
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 20px;
+            padding: 20px;
+            border: 1px solid var(--neon-purple);
+            box-shadow: 0 0 30px rgba(157, 0, 255, 0.3);
+            background: rgba(0, 0, 0, 0.8);
+            backdrop-filter: blur(10px);
+        }
+
+        .main-display {
+            border: 1px solid rgba(0, 255, 157, 0.3);
+            position: relative;
+            overflow-y: auto;
+            padding: 10px;
+        }
+
+        .sidebar {
+            border-left: 1px solid var(--neon-purple);
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .minion-card {
+            background: rgba(157, 0, 255, 0.05);
+            border: 1px solid rgba(157, 0, 255, 0.2);
+            padding: 10px;
+            margin-bottom: 10px;
+            transition: all 0.3s;
+        }
+
+        .minion-card.active {
+            border-left: 4px solid var(--neon-green);
+        }
+
+        .status-header {
+            font-size: 24px;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            border-bottom: 2px solid var(--neon-purple);
+            margin-bottom: 20px;
+            padding-bottom: 5px;
+        }
+
+        .profit-counter {
+            font-size: 48px;
+            color: #fff;
+            text-shadow: 0 0 10px var(--neon-green), 0 0 20px var(--neon-green);
+            margin-top: auto;
+        }
+
+        .buy-btn {
+            background: var(--neon-green);
+            color: #000;
+            padding: 20px;
+            text-align: center;
+            font-weight: bold;
+            text-decoration: none;
+            clip-path: polygon(10% 0, 100% 0, 90% 100%, 0 100%);
+            display: block;
+            margin-top: 20px;
+            transition: transform 0.2s;
+        }
+
+        .buy-btn:hover { transform: scale(1.05); }
+
+        .log-entry { font-size: 12px; margin: 2px 0; color: rgba(0, 255, 157, 0.7); }
+    </style>
+</head>
+<body>
+    <div id="live-stats" style="position:fixed; top:10px; right:10px; font-size:10px; color:var(--neon-green); background: rgba(0,0,0,0.7); padding:5px; border:1px solid var(--neon-purple); z-index:9999;">
+        LIVE_VISITORS: <span id="visitor-count">LOADING...</span> | ACTIVE_DRONES: <span id="drone-count">LOADING...</span>
+    </div>
+    
+    <div id="cyber-grid"></div>
+    <div class="container">
+        <div class="main-display">
+            <div class="status-header">AGENT_DEPLOYMENT_ZONE</div>
+            <div id="minion-list">
+                <!-- Loaded via JS -->
+            </div>
+            <div id="system-log" style="margin-top: 30px;">
+                <!-- Moving Log -->
+            </div>
+        </div>
+        <div class="sidebar">
+            <div class="status-header">EMPIRE_REVENUE</div>
+            <div class="profit-counter" id="total-profit">$0.00</div>
+            <div style="margin-top:20px; font-size: 10px; opacity: 0.5;">SECURE_PROTOCOL_ENFORCED</div>
+            
+            <div style="margin-top: auto;">
+                <div class="status-header">UPGRADES</div>
+                <a href="marketplace.html" class="buy-btn" target="_blank">ENTER_THE_VAULT</a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        
+    async function updateStats() {
+        try {
+            const res = await fetch('live_feed.json');
+            const data = await res.json();
+            // Add a little randomness to make it look live
+            const variation = Math.floor(Math.random() * 5) - 2;
+            document.getElementById('visitor-count').innerText = (data.live_visitors + variation).toLocaleString();
+            document.getElementById('drone-count').innerText = data.active_drones + (Math.random() > 0.8 ? 1 : 0);
+        } catch(e) {}
+    }
+    setInterval(updateStats, 3000);
+    
+async function updateDashboard() {
+            try {
+                const response = await fetch('live_feed.json');
+                const data = await response.json();
+                
+                document.getElementById('total-profit').innerText = '$' + data.total_profit.toLocaleString();
+                
+                const list = document.getElementById('minion-list');
+                list.innerHTML = data.minions.map(m => `
+                    <div class="minion-card ${m.status}">
+                        <div style="display:flex; justify-content:space-between;">
+                            <span>[UNIT_${m.id}] ${m.task}</span>
+                            <span style="color: ${m.status === 'active' ? '#0f0' : '#f00'}">${m.status.toUpperCase()}</span>
+                        </div>
+                        <div style="font-size: 10px; color: #9d00ff;">YIELD: $${m.profit}</div>
+                    </div>
+                `).join('');
+
+                const log = document.getElementById('system-log');
+                const timestamp = new Date().toLocaleTimeString();
+                log.innerHTML = `<div class="log-entry">[${timestamp}] DATA_PACKET_RECEIVED: PARSING_MINION_YIELD...</div>` + log.innerHTML;
+
+            } catch (e) { console.error("Data sync error", e); }
+        }
+
+        setInterval(updateDashboard, 5000);
+        updateDashboard(); updateStats();
+    </script>
+</body>
+</html>

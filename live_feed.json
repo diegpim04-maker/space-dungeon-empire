@@ -1,0 +1,51 @@
+{
+  "minions": [
+    {
+      "id": 1,
+      "task": "Researching AI Bounties",
+      "status": "active",
+      "profit": 850.0
+    },
+    {
+      "id": 2,
+      "task": "Fabricating Legal Prompts",
+      "status": "active",
+      "profit": 2400.0
+    },
+    {
+      "id": 3,
+      "task": "Shadow Intelligence Extraction",
+      "status": "active",
+      "profit": 3100.0
+    },
+    {
+      "id": 4,
+      "task": "Autonomous SaaS Deployment",
+      "status": "active",
+      "profit": 5200.0
+    },
+    {
+      "id": 5,
+      "task": "Sales Extraction Unit",
+      "status": "active",
+      "profit": 4800.0
+    },
+    {
+      "id": 6,
+      "task": "Dark-Tech Blueprinting",
+      "status": "idle",
+      "profit": 0.0
+    },
+    {
+      "id": 7,
+      "task": "EXTRACTING ECOM FLEET LOGIC",
+      "status": "active",
+      "profit": 0.0
+    }
+  ],
+  "total_profit": 33400.0,
+  "system_status": "MASSIVE_CONGLOMERATE_ESTABLISHED",
+  "live_visitors": 9240,
+  "active_drones": 82,
+  "global_hubs": 42
+}

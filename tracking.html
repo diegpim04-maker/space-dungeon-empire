@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SPACE_DUNGEON // LOGISTICS_TRACKING</title>
+    <style>
+        :root { --neon-green: #00ff9d; --neon-purple: #9d00ff; --deep-bg: #030305; }
+        body { background: var(--deep-bg); color: var(--neon-green); font-family: 'Courier New', monospace; padding: 40px; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 80vh; }
+        .tracking-box { border: 1px solid var(--neon-purple); padding: 40px; background: rgba(0,0,0,0.8); width: 100%; max-width: 500px; box-shadow: 0 0 30px rgba(157,0,255,0.2); }
+        h1 { letter-spacing: 10px; text-transform: uppercase; margin-bottom: 30px; text-align: center; }
+        input { background: #111; border: 1px solid var(--neon-purple); color: #fff; padding: 15px; width: calc(100% - 32px); margin-bottom: 20px; font-family: inherit; }
+        button { background: var(--neon-green); color: #000; border: none; padding: 15px; width: 100%; font-weight: bold; cursor: pointer; clip-path: polygon(5% 0, 100% 0, 95% 100%, 0 100%); }
+        #result { margin-top: 30px; border-top: 1px solid rgba(157,0,255,0.3); padding-top: 20px; display: none; }
+        .status-tag { font-size: 20px; font-weight: bold; color: #fff; text-shadow: 0 0 10px var(--neon-green); }
+    </style>
+</head>
+<body>
+    <div class="tracking-box">
+        <h1>TRACK_PACKAGE</h1>
+        <p style="font-size: 10px; margin-bottom: 20px; opacity: 0.6;">ENTER_ORD_ID (e.g. SD-9421)</p>
+        <input type="text" id="order-id" placeholder="SD-XXXX">
+        <button onclick="trackOrder()">DECRYPT_LOCATION</button>
+
+        <div id="result">
+            <div id="res-status" class="status-tag"></div>
+            <div id="res-loc" style="margin: 10px 0;"></div>
+            <div id="res-eta" style="font-size: 12px; opacity: 0.7;"></div>
+        </div>
+    </div>
+
+    <script>
+        async function trackOrder() {
+            const id = document.getElementById('order-id').value.toUpperCase();
+            const resBox = document.getElementById('result');
+            
+            try {
+                const res = await fetch('orders.json');
+                const orders = await res.json();
+                
+                if (orders[id]) {
+                    document.getElementById('res-status').innerText = orders[id].status;
+                    document.getElementById('res-loc').innerText = "LOCATION: " + orders[id].location;
+                    document.getElementById('res-eta').innerText = "EST_ARRIVAL: " + orders[id].eta;
+                    resBox.style.display = 'block';
+                } else {
+                    alert("INVALID_ORDER_ID // NOT_FOUND_IN_VAULT");
+                }
+            } catch(e) { console.error(e); }
+        }
+    </script>
+</body>
+</html>

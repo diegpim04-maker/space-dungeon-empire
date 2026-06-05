@@ -1,0 +1,20 @@
+{
+  "SD-9421": {
+    "status": "IN_TRANSIT",
+    "location": "Hong Kong Hub",
+    "eta": "3 Days",
+    "product": "NEON_WAX_CANDLE"
+  },
+  "SD-8822": {
+    "status": "DELIVERED",
+    "location": "New York, NY",
+    "eta": "COMPLETE",
+    "product": "OPERATOR_MUG"
+  },
+  "SD-7734": {
+    "status": "PROCESSING",
+    "location": "Dungeon Factory 01",
+    "eta": "5 Days",
+    "product": "OPEN CLAW BLUEPRINT"
+  }
+}
