@@ -61,21 +61,22 @@
                 const priceNum = parseFloat(itemPrice);
                 let link = "";
 
-                // Tier Logic
-                if (priceNum <= 20) link = "https://buy.stripe.com/test_51...ALPHA"; // Replace with real links
-                else if (priceNum <= 40) link = "https://buy.stripe.com/test_51...BETA";
-                else if (priceNum <= 100) link = "https://buy.stripe.com/test_51...GAMMA";
-                else if (priceNum <= 300) link = "https://buy.stripe.com/test_51...DELTA";
-                else link = "https://buy.stripe.com/test_51...GOD";
+                // ALPHA TIER IDENTIFIED
+                if (priceNum <= 20) link = "https://buy.stripe.com/test_7sY3cxeGH3BVbD39Mn8ww01"; 
+                else if (priceNum <= 40) link = "https://buy.stripe.com/test_51...BETA"; // PLACEHOLDER
+                else if (priceNum <= 100) link = "https://buy.stripe.com/test_51...GAMMA"; // PLACEHOLDER
+                else if (priceNum <= 300) link = "https://buy.stripe.com/test_51...DELTA"; // PLACEHOLDER
+                else link = "https://buy.stripe.com/test_51...GOD"; // PLACEHOLDER
 
                 document.getElementById('status').innerHTML = `
                     <h1>TUNNEL_ESTABLISHED</h1>
                     <p style="color:var(--neon-green)">PROCEEDING TO ENCRYPTED GATEWAY...</p>
                 `;
                 
-                // For now, I'll alert the user to provide the links
-                console.log("Routing to Tier for price: " + priceNum);
-                // window.location.href = link; 
+                // FINAL HANDSHAKE: WARP TO STRIPE
+                setTimeout(() => {
+                    window.location.href = link;
+                }, 1000);
             }, 2500);
         }
     </script>
