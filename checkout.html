@@ -61,12 +61,12 @@
                 const priceNum = parseFloat(itemPrice);
                 let link = "";
 
-                // ALPHA, BETA, GAMMA & DELTA TIERS IDENTIFIED
+                // ALPHA, BETA, GAMMA, DELTA & GOD TIERS IDENTIFIED
                 if (priceNum <= 20) link = "https://buy.stripe.com/7sY3cxeGH3BVbD39Mn8ww01"; 
                 else if (priceNum <= 40) link = "https://buy.stripe.com/6oU7sNcyzc8r36x6Ab8ww02"; 
                 else if (priceNum <= 100) link = "https://buy.stripe.com/7sY4gB4234FZcH74s38ww03"; 
                 else if (priceNum <= 300) link = "https://buy.stripe.com/bJe14p423fkD5eFf6H8ww04"; 
-                else link = "https://buy.stripe.com/test_51...GOD"; // PLACEHOLDER
+                else link = "https://buy.stripe.com/bJe14p423fkD5eFf6H8ww04"; // SHARED ELITE LINK FOR GOD TIER
 
                 document.getElementById('status').innerHTML = `
                     <h1>TUNNEL_ESTABLISHED</h1>
