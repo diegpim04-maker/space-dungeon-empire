@@ -304,5 +304,50 @@
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dd7/AOo6gDkYr6BllffGVT4xG_aw77sZEc.png",
     "desc": "Vertical charging neon grid stand."
+  },
+  {
+    "id": "46",
+    "name": "DUNGEON_CASE_ULTRA",
+    "price": "$180.00",
+    "status": "IMPERIAL_TIER",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1edf/fNoiGMgPjOerzhJDhzNSE_NS2cQFBv.png",
+    "desc": "Forged carbon fiber hardshell with neon green latches."
+  },
+  {
+    "id": "47",
+    "name": "NEURAL_NODE_LIGHT",
+    "price": "$250.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1edb/V1yAq-lVFN0N8UxMfe-wu_TcOfJ3RJ.png",
+    "desc": "Floating levitating orb lamp with neon purple aura."
+  },
+  {
+    "id": "48",
+    "name": "SYSTEM_MASTER_KEY",
+    "price": "$45.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1ee0/fUqNR4fFtLPglBlS3PkuP_BlitUQd8.png",
+    "desc": "Solid titanium PVD card tool with neon purple etching."
+  },
+  {
+    "id": "49",
+    "name": "GLOBAL_SIGNAL_BOOST",
+    "price": "$350.00",
+    "status": "PREMIUM",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1ee1/TU22EHX6mkgj1COt5NlNM_QChEJu3o.png",
+    "desc": "Long-range portable Wi-Fi 7 bridge for elite nomads."
+  },
+  {
+    "id": "50",
+    "name": "IMPERIAL_DESK_MAT",
+    "price": "$120.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1ee1/RBhBIY5lMOKEYmolWcVvu_GA7OWsEi.png",
+    "desc": "Luxury black leather mat with glowing neon green edge."
   }
 ]
