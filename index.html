@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIOMECH_EMPIRE // HUMAN_EVOLUTION</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="bio-grid"></div>
+    <div class="scanline"></div>
+
+    <header>
+        <div class="logo">
+            <span class="glitch" data-text="BIOMECH_EMPIRE">BIOMECH_EMPIRE</span>
+        </div>
+        <nav>
+            <a href="#">AUGMENTS</a>
+            <a href="#">NEURAL_LINK</a>
+            <a href="#">LAB_REPORTS</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="hero">
+            <h1>EVOLVE_BEYOND_BIOLOGY</h1>
+            <p class="tagline">ELITE SYNTHETIC AUGMENTATION // GRADE_5_TITANIUM // NEURAL_FLOW</p>
+        </div>
+
+        <section id="catalog" class="product-grid">
+            <!-- Products injected by JS -->
+        </section>
+    </main>
+
+    <!-- Modal for Product Details -->
+    <div id="productModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">[CLOSE_SYSTEM]</span>
+            <div class="modal-body">
+                <div class="modal-info">
+                    <h2 id="modalTitle"></h2>
+                    <p id="modalPrice" class="price"></p>
+                    <div id="modalOverview" class="overview-section"></div>
+                    <div id="modalSpecs" class="specs-grid"></div>
+                    <div id="modalIntel" class="intel-block"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function loadProducts() {
+            try {
+                const response = await fetch('inventory.json');
+                const products = await response.json();
+                const grid = document.querySelector('.product-grid');
+                
+                grid.innerHTML = products.map(p => `
+                    <div class="product-card" onclick="openProduct('${p.id}')">
+                        <div class="card-bg"></div>
+                        <img src="${p.img}" alt="${p.name}">
+                        <h3>${p.name}</h3>
+                        <p class="price">$${p.price}</p>
+                        <span class="status ${p.status}">${p.status.replace(/_/g, ' ')}</span>
+                    </div>
+                `).join('');
+                
+                window.productsData = products;
+            } catch (err) {
+                console.error("Critical System Failure: Product Sync Interrupted", err);
+            }
+        }
+
+        function openProduct(id) {
+            const p = window.productsData.find(item => item.id === id);
+            if (!p) return;
+
+            document.getElementById('modalTitle').innerText = p.name;
+            document.getElementById('modalPrice').innerText = `$${p.price}`;
+            
+            // Clean bullets for modal
+            const overview = p.bullets.find(b => b.includes('OVERVIEW')) || '';
+            const specs = p.bullets.find(b => b.includes('TACTICAL_SPECS')) || '';
+            const intel = p.bullets.find(b => b.includes('USER_INTEL') || b.includes('OPERATOR_INTEL')) || '';
+
+            document.getElementById('modalOverview').innerHTML = `<h3>SYSTEM_OVERVIEW</h3><p>${overview}</p><p>${p.desc}</p>`;
+            document.getElementById('modalSpecs').innerHTML = `<h3>TECHNICAL_GUTS</h3><p>${specs}</p>`;
+            document.getElementById('modalIntel').innerHTML = `<div class="intel-box">${intel}</div>`;
+
+            document.getElementById('productModal').style.display = 'flex';
+        }
+
+        document.querySelector('.close-btn').onclick = () => {
+            document.getElementById('productModal').style.display = 'none';
+        };
+
+        window.onclick = (event) => {
+            if (event.target == document.getElementById('productModal')) {
+                document.getElementById('productModal').style.display = 'none';
+            }
+        };
+
+        loadProducts();
+    </script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+[
+   {
+     "id": "SC-01",
+     "name": "THE SPINE_ENFORCER_V4",
+     "price": "149.00",
+     "status": "VIP_ACCESS",
+     "yield": "PHYSICAL_BUNDLE",
+     "img": "https://v3b.fal.media/files/b/0a9d2c84/O4cWFiQQUFKvpUhStf660_Z9REq1xt.png",
+     "desc": "The gold standard in postural optimization. This carbon-fiber exoskeleton brace uses haptic-feedback nodes to train your biological core for 100% mission efficiency. Includes the 'NEURAL_POSTURE' digital training module.",
+     "bullets": [
+       "🛡️ <b>OVERVIEW:</b> Aerospace-grade carbon fiber posture corrector with integrated haptic correction sensors.",
+       "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: 3K Twill Carbon Fiber | SENSORS: 6-Axis Bio-Feedback Gyro | BATTERY: 72h Mission Life.",
+       "🕹️ <b>SYSTEM_BONUS:</b> Includes [DIGITAL_CODE] for the 'Roblox Strength-Sim' Auto-Posture Script.",
+       "💬 <b>USER_INTEL:</b> 'Gone are the back pains. I look like I'm wearing a futuristic armor plate under my shirt. 10/10 elite gear.'"
+     ]
+   },
+   {
+     "id": "SC-02",
+     "name": "NEURAL_SYNC_HEADBAND",
+     "price": "299.00",
+     "status": "BEST_SELLER",
+     "yield": "PHYSICAL_BUNDLE",
+     "img": "https://v3b.fal.media/files/b/0a9d2ca0/BWPx1YmDlxmksx3TwpC8e_KQJKn1sY.png",
+     "desc": "Optimize your cognitive bandwidth. The Neural-Sync Headband uses low-frequency EEG monitoring to identify deep-flow states and provide auditory feedback to keep you locked on mission targets.",
+     "bullets": [
+       "🛡️ <b>OVERVIEW:</b> High-fidelity EEG monitoring headband with integrated bone-conduction haptics.",
+       "⚙️ <b>TACTICAL_SPECS:</b> SENSOR: 12-Channel Dry EEG Array | CONNECTIVITY: Bluetooth 5.4 Low-Latency | WEIGHT: 85g.",
+       "🕹️ <b>SYSTEM_BONUS:</b> Includes [PREMIUM_DOC] the '24-Hour Deep Flow' binaural beat library.",
+       "💬 <b>USER_INTEL:</b> 'I pull 12-hour work sessions and feel like my brain is at 100% the whole time. The emerald glow looks sick, too.'"
+     ]
+   },
+   {
+     "id": "SC-03",
+     "name": "HAPTIC_COMPRESSION_SLEEVE",
+     "price": "125.00",
+     "status": "IN_STOCK",
+     "yield": "PHYSICAL",
+     "img": "https://v3b.fal.media/files/b/0a9d2ca1/D2Hum7Aei1drf2G1YQow9_FfrFqpgI.png",
+     "desc": "Industrial-grade arm optimization. This compression sleeve uses micro-vibration haptics to stimulate blood flow and reduce muscle fatigue during high-intensity field gear usage or long-range driving.",
+     "bullets": [
+       "🛡️ <b>OVERVIEW:</b> Medical-grade compression sleeve with integrated micro-vibration blood-flow stimulants.",
+       "⚙️ <b>TACTICAL_SPECS:</b> MATERIAL: Bio-Polymer Mesh + Carbon Ribbing | HAPTICS: 8x N52 Micro-Motors | COMPRESSION: 20-30 mmHg.",
+       "🕹️ <b>CORE_LOGIC:</b> Variable frequency haptics respond to muscle strain levels to prevent fatigue-lock.",
+       "💬 <b>USER_INTEL:</b> 'My arms don't get tired during 24-hour tow missions anymore. The glowing LEDs make it look like tech-veins.'"
+     ]
+   },
+   {
+     "id": "SC-04",
+     "name": "TITANIUM_BIO_RING",
+     "price": "199.00",
+     "status": "ELITE_TIER",
+     "yield": "PHYSICAL",
+     "img": "https://v3b.fal.media/files/b/0a9d2ca1/kQOSMqfZwgiPvdNnSTORw_lsoSPY16.png",
+     "desc": "The ultimate aesthetic biometric tracker. Forged from Grade 5 titanium, this ring monitors heart-rate variability, blood-oxygen, and stress levels, broadcasting data to your SynthCore dashboard via the glowing green inner core.",
+     "bullets": [
+       "🛡️ <b>OVERVIEW:</b> Minimalist biometric tracker forged from Grade 5 black titanium with a glowing emerald core.",
+       "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Grade 5 Titanium | SENSORS: PPG Optical + Thermal | DEPTH_RATING: 50m Waterproof.",
+       "🕹️ <b>CORE_LOGIC:</b> Proprietary 'Flow-Sense' algorithm tracks recovery states in real-time.",
+       "💬 <b>USER_INTEL:</b> 'Cleaner than a watch. It matches my tech-wear perfectly and the battery lasts a full mission week.'"
+     ]
+   }
+]
