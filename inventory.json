@@ -2,732 +2,732 @@
   {
     "id": "09",
     "name": "THE OPERATOR_GLOVES",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d6f/IPogxikqTZsyLmXc0Zc50_kZn0OkmB.png",
-    "desc": "High-grip tactical gloves.",
+    "desc": "Armored tactical gloves featuring conductive fingertips for high-precision screen operation and impact-resistant knuckle plating.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Pair Operator Gloves, 1x Tactical Carabiner, 1x Microfiber Polishing Cloth.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> No power required. Integrated conductive pads for seamless touch-screen interaction.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Finally gloves that actually work with my phone. I can type full messages without taking them off."
+      "🎁 <b>IN_THE_BOX:</b> 1x Pair Operator Gloves, 1x Tactical Carabiner, 1x Microfiber Polishing Cloth.",
+      "🕹️ <b>CORE_LOGIC:</b> No power required. Integrated conductive pads for seamless touch-screen interaction.",
+      "💬 <b>USER_INTEL:</b> Finally gloves that actually work with my phone. I can type full messages without taking them off."
     ]
   },
   {
     "id": "10",
     "name": "HYDRATION_CELL",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d70/wJHxSXXbpgrRwP7Y0Kf81_DUK9mmsf.png",
-    "desc": "Stainless steel color-shifting bottle.",
+    "desc": "Medical-grade stainless steel flask with a light-reactive matte finish that changes color based on liquid temperature.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$12.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x HYDRATION_CELL, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> I stopped buying plastic bottles entirely. The purple light when it cleans the water looks like something out of a sci-fi movie."
+      "🎁 <b>IN_THE_BOX:</b> 1x HYDRATION_CELL, 1x Silicone Seal Kit, 1x Cleaning Brush.",
+      "🕹️ <b>CORE_LOGIC:</b> Double-wall vacuum insulation. Thermal retention for 24h (cold) / 12h (hot).",
+      "💬 <b>USER_INTEL:</b> The color-shift finish is insane in person. Keeps my water ice-cold even in a hot truck."
     ]
   },
   {
     "id": "11",
     "name": "THE OPERATOR_SLIDES",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d7b/c2F4unzyVV0Io_vwZlizw_gSESSTBn.png",
-    "desc": "Ergonomic matte black foam with neon-purple grid.",
+    "desc": "High-density EVA foam recovery slides with deep hexagonal traction for maximum grip across any terrain or station floor.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE OPERATOR_SLIDES, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Pair Operator Slides, 1x Travel Mesh Bag.",
+      "🕹️ <b>CORE_LOGIC:</b> High-density EVA foam with deep-grid traction patterns for maximum grip.",
+      "💬 <b>USER_INTEL:</b> Like walking on a localized gravity field. The purple grid isn't just for show, the grip is real."
     ]
   },
   {
     "id": "12",
     "name": "SIGNAL_BLOCK_WALLET",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d7b/VqiTUi6mm6UZiJb3Ln_lR_vTvhthUU.png",
-    "desc": "Minimalist carbon-fiber RFID protection.",
+    "desc": "Forged carbon fiber wallet designed to neutralize RFID/NFC scanning, keeping your digital identity and credentials locked down.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$9.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Ridiculously slim. I forgot it was in my pocket. The signal blocking actually works\u2014tested it at a terminal and it was dead silent."
+      "🎁 <b>IN_THE_BOX:</b> 1x Carbon Shield Wallet, 1x Replacement Elastic Band, 1x Mini Adjustment Tool.",
+      "🕹️ <b>CORE_LOGIC:</b> Dual-plate construction with integrated RFID/NFC blocking shield.",
+      "💬 <b>USER_INTEL:</b> Ridiculously slim. I forgot it was in my pocket. The signal blocking actually works."
     ]
   },
   {
     "id": "13",
     "name": "AMBIENT_GRID_LAMP",
-    "price": "",
+    "price": "65.00",
     "status": "LIMITED",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d7c/z_1jnx4Q0UyElqKSYTqN6_GU7u7aDo.png",
-    "desc": "Cylindrical lamp projecting a 3D neon grid.",
+    "desc": "Atmospheric lighting projector that maps a high-fidelity 3D laser grid across your walls, transforming any room into a command center.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Holographic LED Luminary, 1x High-Voltage Power Adapter, 1x Remote Control (CR2032 Battery Included).",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Plugs into standard wall outlet. Control colors and grid patterns via remote or mobile app.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Transforms my entire room into a high-fidelity dungeon. The purple grid effect on the walls is incredible."
+      "🎁 <b>IN_THE_BOX:</b> 1x Ambient Grid Lamp, 1x USB-C Power Cable, 1x Remote Control (Battery Included).",
+      "🕹️ <b>CORE_LOGIC:</b> Multi-mode RGB controller with reactive grid projection. Plug into any 5V USB port.",
+      "💬 <b>USER_INTEL:</b> Transforms my entire room into a high-fidelity dungeon. The glow is perfect for night gaming."
     ]
   },
   {
     "id": "14",
     "name": "THE NEON_GRIP_TAPE",
-    "price": "",
+    "price": "15.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d7d/zp9uxmC57DwKeEtnTpEoO_AQDYLd7S.png",
-    "desc": "Industrial strength honeycomb adhesive grip.",
+    "desc": "Industrial-grade adhesive grip wrap with a sweat-wicking hexagonal texture, designed to maximize control over your controls.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$4.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE NEON_GRIP_TAPE, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Tactical Grip Tape Roll (2 Meters), 1x Precision Cutting Blade.",
+      "🕹️ <b>CORE_LOGIC:</b> Industrial adhesive backing. Hex-grid texture provides 400% more surface friction.",
+      "💬 <b>USER_INTEL:</b> Applied this to my mouse and truck steering wheel. The sweat-wicking texture is a total game changer."
     ]
   },
   {
     "id": "16",
     "name": "THE DUNGEON_CASE",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d75/eHGgdGCxZTHRSWj5UYDJ__bZhJZnol.png",
-    "desc": "Armored 3D grid phone case.",
+    "desc": "Impact-resistant hardshell phone armor with raised 3D grid lines for superior grip and heat dissipation during high-spec mobile sessions.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE DUNGEON_CASE, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Finally a case that doesn't feel like cheap plastic. The grip is insane and the neon purple accents actually glow under UV."
+      "🎁 <b>IN_THE_BOX:</b> 1x Dungeon Case, 1x Tempered Glass Screen Protector Kit.",
+      "🕹️ <b>CORE_LOGIC:</b> Military-spec drop protection (10ft). Precision cutouts for all system ports.",
+      "💬 <b>USER_INTEL:</b> The 3D grid texture on the back feels premium. Doesn't add bulk but feels indestructible."
     ]
   },
   {
     "id": "17",
     "name": "THE OPERATOR_PACK",
-    "price": "",
+    "price": "150.00",
     "status": "ELITE_TIER",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d95/UDgv4lr4OkfLB6JmmbMyD_th49SZMJ.png",
-    "desc": "Hardshell waterproof tactical armor for tech.",
+    "desc": "Full-hardshell tactical backpack designed to withstand water and physical impact, featuring modular internal storage for sensitive tech.",
     "supplier": "USAdrop",
     "supplier_cost": "$42.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE OPERATOR_PACK, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> I took this through a storm and my laptop stayed bone dry. People stop me in the street to ask where I got this."
+      "🎁 <b>IN_THE_BOX:</b> 1x Operator Hardshell Pack, 1x Waterproof Rain Cover, 1x Detachable Shoulder Strap.",
+      "🕹️ <b>CORE_LOGIC:</b> Water-resistant hardshell exterior with modular internal organization panels.",
+      "💬 <b>USER_INTEL:</b> The hardshell is legit. I dropped it while biking and my gear didn't even shift. Looks tactical."
     ]
   },
   {
     "id": "18",
     "name": "THE NEON_DESK_MAT",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d95/c7DhjwegROqyXUvlHg7pA_LwOvOnU6.png",
-    "desc": "Extra-large liquid-resistant setup pad.",
+    "desc": "Liquid-resistant workspace pad with a micro-woven surface optimized for high-fidelity optical sensors and zero-latency mouse movement.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE NEON_DESK_MAT, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Neon Grid Desk Mat, 1x Microfiber Cable Strap.",
+      "🕹️ <b>CORE_LOGIC:</b> Low-friction surface optimized for high-DPI optical sensors. Spill-proof nano-coating.",
+      "💬 <b>USER_INTEL:</b> My mouse glides like it's on ice. The purple grid lines help with layout alignment too."
     ]
   },
   {
     "id": "19",
     "name": "SYSTEM_PLUG_ADAPTER",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d91/rRztwnwtAqGDeeGuwugbN_4tW0Q6Si.png",
-    "desc": "Transparent GaN high-speed universal charger.",
+    "desc": "Ultra-efficient GaN charger that delivers 65W of power in a transparent heat-resistant chassis, supporting simultaneous multi-device rapid charging.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_PLUG_ADAPTER, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x GaN Power Adapter, 1x Global Adapter Kit (EU/UK/US).",
+      "🕹️ <b>CORE_LOGIC:</b> Next-gen GaN technology. High-speed 65W power delivery with smart heat dissipation.",
+      "💬 <b>USER_INTEL:</b> Finally a charger that doesn't get hot. Powers my laptop and phone at the same time."
     ]
   },
   {
     "id": "20",
     "name": "TITANIUM_SPORK_TAC",
-    "price": "",
+    "price": "15.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d96/WMY207s4O-NLEpigeBysB_QXRJj8QI.png",
-    "desc": "PVD-coated black titanium field gear.",
+    "desc": "Aerospace-grade titanium utensil with a sleek PVD coating, providing unbreakable field utility for any expedition.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$6.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TITANIUM_SPORK_TAC, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Titanium Tool, 1x Protective Sheath.",
+      "🕹️ <b>CORE_LOGIC:</b> PVD-coated Grade 5 Titanium. Lightweight, corrosion-resistant, and biologically inert.",
+      "💬 <b>USER_INTEL:</b> Elite-tier build quality. This is the last tool I'll ever need for field ops."
     ]
   },
   {
     "id": "21",
     "name": "BIO_FILTER_MASK",
-    "price": "",
+    "price": "65.00",
     "status": "BEST_SELLER",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1da9/Cib-i5bVw7Mb9Xh7t1df9_kRWSWhhD.png",
-    "desc": "Advanced urban air-filtration masking.",
+    "desc": "Advanced urban survival mask with dual-ventilation ports and replaceable PM2.5 filters to ensure clinical purity in any environment.",
     "supplier": "USAdrop",
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIO_FILTER_MASK, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Bio-Filter Mask, 3x Replaceable PM2.5 Filters, 1x Carry Case.",
+      "🕹️ <b>CORE_LOGIC:</b> Ergonomic 3D fit with dual convection airflow valves. Particulate filtration tech.",
+      "💬 <b>USER_INTEL:</b> Cleanest air I've breathed in the city. Doesn't fog up my glasses and looks futuristic."
     ]
   },
   {
     "id": "22",
     "name": "KINETIC_POWER_BANK",
-    "price": "",
+    "price": "65.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1da9/fCGVGYUqGf61G20N8ehD4_ulqN3OjX.png",
-    "desc": "Capture energy from movement.",
+    "desc": "High-capacity external battery featuring bidirectional 20W power delivery, housed in a shock-resistant hardshell made for the nomad lifestyle.",
     "supplier": "USAdrop",
     "supplier_cost": "$29.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x KINETIC_POWER_BANK, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Kinetic Power Bank, 1x Braided USB-C Cable, 1x Storage Pouch.",
+      "🕹️ <b>CORE_LOGIC:</b> High-capacity lithium polymer cell. Supports bidirectional 20W PD charging.",
+      "💬 <b>USER_INTEL:</b> Charges my phone three times over. The LED fuel gauge is bright and clear."
     ]
   },
   {
     "id": "23",
     "name": "NEURAL_REST_MASK",
-    "price": "",
+    "price": "65.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1daa/ubwTn38oPPEgAR2nrkKtx_2o5rL4wj.png",
-    "desc": "Cyber-meditation sleep mask.",
+    "desc": "Contoured memory foam mask with integrated blue-light filtration lenses designed to optimize recovery and focus during short transit sleep.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x NEURAL_REST_MASK, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Neural Rest Mask, 1x USB-C Power Cable, 1x Hard Shell Case, 1x Microfiber Cloth.",
+      "🕹️ <b>CORE_LOGIC:</b> Blue-light filtration lenses with anti-reflective coating to reduce eye strain.",
+      "💬 <b>USER_INTEL:</b> Stopped the headaches immediately. I can pull 8-hour sessions with no fatigue."
     ]
   },
   {
     "id": "24",
     "name": "OPERATOR_POUCH",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1daa/amxdSxMqeZ28YdmqI_ZxY_tEEcDcND.png",
-    "desc": "Fireproof tactical storage.",
+    "desc": "Flame-retardant storage unit for critical documents and storage drives, shielding your physical assets from fire and water damage.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x OPERATOR_POUCH, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Fireproof Operator Pouch, 1x Tactical Carabiner.",
+      "🕹️ <b>CORE_LOGIC:</b> Double-layered flame-retardant fiberglass. Silicon coating for water resistance.",
+      "💬 <b>USER_INTEL:</b> Testing this with a lighter—it's legit. Fits my passport and sensitive documents perfectly."
     ]
   },
   {
     "id": "25",
     "name": "HYDRATION_JUG_ARMOR",
-    "price": "",
+    "price": "35.00",
     "status": "VIRAL_NOW",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1db8/DIdtFYaa-OpvBglyp75aq_0dZVBJaB.png",
-    "desc": "Tactical hardshell sleeve for jugs.",
+    "desc": "Heavy-duty neoprene and nylon sleeve for large-scale hydration units, providing thermal insulation and modular gear attachment points.",
     "supplier": "USAdrop",
     "supplier_cost": "$17.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x HYDRATION_JUG_ARMOR, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> I stopped buying plastic bottles entirely. The purple light when it cleans the water looks like something out of a sci-fi movie."
+      "🎁 <b>IN_THE_BOX:</b> 1x Hydration Jug Sleeve, 1x Detachable Nylon Strap.",
+      "🕹️ <b>CORE_LOGIC:</b> Insulated internal lining with modular molle attachment points.",
+      "💬 <b>USER_INTEL:</b> I stopped using plastic bottles. This sleeve turns my big jug into a tactical container."
     ]
   },
   {
     "id": "26",
     "name": "TURBO_COOL_FAN",
-    "price": "",
+    "price": "35.00",
     "status": "OUT_OF_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1db9/KEI5zqfyECrJ5XskVSxRN_gLASMeIl.png",
-    "desc": "Waist-mounted cooling turbine.",
+    "desc": "Industrial-grade waist turbine providing localized high-velocity cooling for field ops in extreme thermal conditions.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Turbo-Cool Turbine, 1x Extra-Strength Belt Clip, 1x 5000mAh Battery (Installed), 1x High-Speed USB-C Charging Cable.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Clips to waist or neck via lanyard. Power on via side toggle. Acts as an emergency power bank.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Mandatory gear for summer nomad ops. The high-velocity airflow under the shirt is a game changer. Industrial build quality."
+      "🎁 <b>IN_THE_BOX:</b> 1x Turbo-Cool Turbine, 1x Extra-Strength Belt Clip, 1x 5000mAh Battery (Installed), 1x High-Speed USB-C Charging Cable.",
+      "🕹️ <b>CORE_LOGIC:</b> Clips to waist or neck via lanyard. High-velocity turbine tech. Acts as emergency power bank.",
+      "💬 <b>USER_INTEL:</b> Mandatory gear for summer nomad ops. The high-velocity airflow is a total game changer."
     ]
   },
   {
     "id": "28",
     "name": "TACTICAL_TOTE_V3",
-    "price": "",
+    "price": "65.00",
     "status": "TRENDING",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dba/ZDlv9WrWvWT4vSeVFhtmn_hBngOBDI.png",
-    "desc": "Massive waterproof recycled tote.",
+    "desc": "Ultra-tough waterproof carry unit made from reinforced recycled polymers, featuring military-grade webbing and a 40L capacity for heavy field gear.",
     "supplier": "USAdrop",
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TACTICAL_TOTE_V3, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> I took this through a storm and my laptop stayed bone dry. People stop me in the street to ask where I got this."
+      "🎁 <b>IN_THE_BOX:</b> 1x Tactical Tote V3, 1x Detachable Shoulder Strap.",
+      "🕹️ <b>CORE_LOGIC:</b> Puncture-resistant recycled polymer with reinforced webbing handles.",
+      "💬 <b>USER_INTEL:</b> I took this through a storm and my laptop stayed bone dry. People always ask where I got this."
     ]
   },
   {
     "id": "29",
     "name": "GESTURE_CONTROLLER",
-    "price": "",
+    "price": "150.00",
     "status": "ELITE_TECH",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dbb/2XOG3yIcyhNBMcghRblLN_0NRSn6iR.png",
-    "desc": "Touchless command orb.",
+    "desc": "Touchless interface ring that uses 6-axis gyro sensors to control your desktop, tablet, or vehicle systems with precise hand gestures.",
     "supplier": "USAdrop",
     "supplier_cost": "$26.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Gesture Control Ring, 1x Magnetic inductive charging dock, 1x USB-C Power Cable, 1x Bluetooth dongle (for non-BT PCs).",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Place on dock to charge. Pair via Bluetooth to control gestures, scrolling, and volume.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Absolute wizardry. I have it mapped to my Roblox setup to scroll through truck upgrades with a flick of my wrist. Extremely responsive."
+      "🎁 <b>IN_THE_BOX:</b> 1x Gesture Control Ring, 1x Magnetic inductive charging dock, 1x USB-C Power Cable, 1x Bluetooth dongle.",
+      "🕹️ <b>CORE_LOGIC:</b> Place on dock to charge. Pair via Bluetooth to control gestures, scrolling, and volume.",
+      "💬 <b>USER_INTEL:</b> Absolute wizardry. I have it mapped to my Roblox setup to scroll through truck upgrades with a flick."
     ]
   },
   {
     "id": "31",
     "name": "SYSTEM_EYE_GLASSES",
-    "price": "",
+    "price": "65.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dbd/VVrkKOOiPfjwOjEqjZRLI_VwxKtVav.png",
-    "desc": "Focus-enhancing gaming glasses.",
+    "desc": "Anti-fatigue optics featuring a zero-distortion blue-light shield, designed to protect your vision during relentless high-fidelity system monitoring.",
     "supplier": "USAdrop",
     "supplier_cost": "$21.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x System Eye Glasses, 1x Hard Shell Case, 1x Microfiber Polishing Cloth.",
+      "🕹️ <b>CORE_LOGIC:</b> Precision-engineered blue-light filtration lenses with zero-distortion optical coating.",
+      "💬 <b>USER_INTEL:</b> Stopped the headaches immediately. I can pull long coding sessions with no fatigue."
     ]
   },
   {
     "id": "32",
     "name": "MAG_LOCK_KEYCHAIN",
-    "price": "",
+    "price": "15.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dbd/uPqYYppNTQWN_S-Ej8U_o_xElTl7C8.png",
-    "desc": "Magnetic quick-release system.",
+    "desc": "Mechanical quick-release clip using a neodymium magnetic core for instant, one-handed access to your essential toolchain and keys.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Mag-Lock Keychain, 2x Quick-Release Rings.",
+      "🕹️ <b>CORE_LOGIC:</b> Neodymium magnet core with 10kg pull rating. Instant mechanical separation.",
+      "💬 <b>USER_INTEL:</b> Solid build. I use it for my keys and my tactical flashlight. Never drops but detaches instantly."
     ]
   },
   {
     "id": "33",
     "name": "PERIMETER_EYE",
-    "price": "",
+    "price": "150.00",
     "status": "BEST_SELLER",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dcb/DX11_urOJKrYB3VjKadlQ_h7V4kJQq.png",
-    "desc": "360 security AI tracking.",
+    "desc": "Autonomous 360-degree security camera with AI person tracking and thermal night vision, designed to monitor your sector with absolute precision.",
     "supplier": "USAdrop",
     "supplier_cost": "$50.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
-      "\ud83d\udcac <b>USER_INTEL:</b> The magnetic mount makes setup a breeze. I use it to guard my physical workspace and the night-vision clarity is scary-good."
+      "🎁 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
+      "🕹️ <b>CORE_LOGIC:</b> Connect to Wi-Fi via app. Mount using included magnetic hardware. 360 AI tracking.",
+      "💬 <b>USER_INTEL:</b> The night-vision clarity is scary-good. I use it to guard my physical workspace."
     ]
   },
   {
     "id": "34",
     "name": "DOOR_LOCK_ENFORCER",
-    "price": "",
+    "price": "65.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dce/6f93fBfbUoSzwJQM1j_b1_pnAPcyV3.png",
-    "desc": "Smart vault lock.",
+    "desc": "Biometric steel deadbolt conversion kit that installs in minutes, granting high-speed fingerprint access and tamper-proof security to any door.",
     "supplier": "USAdrop",
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Smart Door Lock, 2x Physical Backup Keys, 1x Mounting Hardware Kit.",
+      "🕹️ <b>CORE_LOGIC:</b> Reinforced steel deadbolt with biometric fingerprint scanner (0.3s response).",
+      "💬 <b>USER_INTEL:</b> Installs in minutes. The biometric sensor hasn't failed once. Real peace of mind."
     ]
   },
   {
     "id": "35",
     "name": "SIGNAL_SCRAMBLER",
-    "price": "",
+    "price": "150.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dce/5LG15tISn1RpI3YhJL4Am_pjWkuMXk.png",
-    "desc": "Portable privacy shield.",
+    "desc": "A localized acoustic and digital privacy shield that generates white-noise frequencies to scramble unauthorized audio recording attempts.",
     "supplier": "USAdrop",
     "supplier_cost": "$33.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SIGNAL_SCRAMBLER, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Signal Scrambler, 1x USB-C Power Cable, 1x Faraday Pouch.",
+      "🕹️ <b>CORE_LOGIC:</b> Ultrasonic white-noise generator. Shields voice data from digital intruders.",
+      "💬 <b>USER_INTEL:</b> Tested it with a recording device—all it picked up was silence. Essential for private meetings."
     ]
   },
   {
     "id": "36",
     "name": "TACTICAL_FLASHLIGHT_V4",
-    "price": "",
+    "price": "65.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dcd/7DngQIw3Zt0Sw9_Swi3rw_X2OnMiSs.png",
-    "desc": "10k Lumen grid beam torch.",
+    "desc": "10,000 Lumen handheld searchlight with a high-intensity grid beam and a rechargeable power core that lasts through 48 hours of operation.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Holographic LED Luminary, 1x High-Voltage Power Adapter, 1x Remote Control (CR2032 Battery Included).",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Plugs into standard wall outlet. Control colors and grid patterns via remote or mobile app.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Transforms my entire room into a high-fidelity dungeon. The purple grid effect on the walls is incredible."
+      "🎁 <b>IN_THE_BOX:</b> 1x Tactical Flashlight V4, 1x High-Voltage Power Adapter, 1x 5000mAh Battery.",
+      "🕹️ <b>CORE_LOGIC:</b> 10,000 Lumen output with adjustable focus. Recharges via integrated USB-C port.",
+      "💬 <b>USER_INTEL:</b> This thing is like holding a piece of the sun. The beam distance is insane. Solid metal build."
     ]
   },
   {
     "id": "37",
     "name": "SYSTEM_RECOVERY_GUN",
-    "price": "",
+    "price": "150.00",
     "status": "PREMIUM",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dcc/5Kvj4yl9MmL6g_n5VBfuv_lR6GPO6V.png",
-    "desc": "High-torque recovery gun.",
+    "desc": "High-torque percussion massager designed for deep muscle recovery, featuring 5 specialized attachments and carbon-fiber reinforcement.",
     "supplier": "HyperSKU",
     "supplier_cost": "$72.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Recovery Gun, 5x Head attachments, 1x Dedicated Wall Charger, 1x Internal Rechargeable Battery, 1x Heavy-Duty Case.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Battery powered. Change heads for different muscle groups. Power level toggle on the rear LCD.",
-      "\ud83d\udcac <b>USER_INTEL:</b> This is a lifesaver after a long day at the desk. It hits harder than the commercial ones and the carbon case looks insane."
+      "🎁 <b>IN_THE_BOX:</b> 1x Recovery Gun, 5x Head attachments, 1x Dedicated Wall Charger, 1x Internal Rechargeable Battery.",
+      "🕹️ <b>CORE_LOGIC:</b> High-torque percussion tech with adjustable intensity levels. Long-life battery.",
+      "💬 <b>USER_INTEL:</b> This hits harder than the commercial ones. Carbon case looks insane. Essential after a long drive."
     ]
   },
   {
     "id": "38",
     "name": "NEURAL_GRIP_STRENGTH",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dd2/PY84SqGj9cfTGYl-RECLe_guBgZSeu.png",
-    "desc": "Digital grip trainer HUD.",
+    "desc": "Digital bio-feedback grip trainer with a real-time HUD that tracks your crushing force and neural-motor response times.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x NEURAL_GRIP_STRENGTH, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Digital Grip Trainer, 1x Carry Bag, 1x Battery Set.",
+      "🕹️ <b>CORE_LOGIC:</b> Adjustable resistance with integrated digital HUD for force tracking.",
+      "💬 <b>USER_INTEL:</b> I can feel the quality in every squeeze. The HUD helps me track my progress daily."
     ]
   },
   {
     "id": "39",
     "name": "KINETIC_JUMP_ROPE",
-    "price": "",
+    "price": "35.00",
     "status": "TRENDING",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dcf/1xv_ZCIgVgQ1CnB3KrBwF_aejXu7vT.png",
-    "desc": "Weighted neon rep rope.",
+    "desc": "Weighted exercise cable featuring high-visibility neon fiber-optics and ball-bearing handles for extreme-intensity cardiovascular work.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x KINETIC_JUMP_ROPE, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Kinetic Jump Rope, 1x Weighted Handle Set, 1x Carry Pouch.",
+      "🕹️ <b>CORE_LOGIC:</b> Precision ball-bearing pivot with adjustable weighted cable for high-intensity bio-conditioning.",
+      "💬 <b>USER_INTEL:</b> The weight distribution is perfect. The neon handle glow looks sick in low-light gym runs."
     ]
   },
   {
     "id": "40",
     "name": "BIO_SYNC_STRAP",
-    "price": "",
+    "price": "65.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dcf/PhZxOTyadGzrFYb2uiR7P_unSUeS7X.png",
-    "desc": "Bicep heart-pulse grid.",
+    "desc": "Electrodermal activity and heart-rate sensor worn on the bicep, broadcasting your real-time bio-data to your setup over Bluetooth 5.2.",
     "supplier": "USAdrop",
     "supplier_cost": "$17.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIO_SYNC_STRAP, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Bio-Sync Strap, 1x Magnetic Charging Cable, 1x Setup Manual.",
+      "🕹️ <b>CORE_LOGIC:</b> High-fidelity optical heart rate sensor. Syncs with most fitness OS via Bluetooth.",
+      "💬 <b>USER_INTEL:</b> Low-profile and stays in place during truck ops. The pulse tracking is instantaneous."
     ]
   },
   {
     "id": "41",
     "name": "GRID_MECH_KEYBOARD",
-    "price": "",
+    "price": "150.00",
     "status": "ELITE_BUILD",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dd5/qbJ3XZ6IK7yDt_djrwS27_KsY3A7ne.png",
-    "desc": "Carbon fiber custom mechanical keyboard.",
+    "desc": "Mechanical command unit with hot-swappable switches and a forged carbon-fiber chassis, featuring localized RGB backlighting under each key.",
     "supplier": "HyperSKU",
     "supplier_cost": "$64.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Grid Mechanical Keyboard, 1x Wireless 2.4GHz USB Dongle, 1x Braided USB-C Charging Cable, 1x Keycap Puller, 1x Precision Mouse.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect via Bluetooth 5.0 or use the included USB Dongle for zero-latency gaming. Rechargeable via USB-C.",
-      "\ud83d\udcac <b>USER_INTEL:</b> The click-clack sound is addictive. Being able to switch from my PC to my tablet with one button makes this the ultimate mobile command station."
+      "🎁 <b>IN_THE_BOX:</b> 1x Grid Mechanical Keyboard, 1x Braided USB-C Cable, 1x Keycap Puller.",
+      "🕹️ <b>CORE_LOGIC:</b> Hot-swappable mechanical switches. RGB backlight with 18 localized patterns.",
+      "💬 <b>USER_INTEL:</b> The thock sound is amazing. The low-profile build makes it my daily driver for scripting."
     ]
   },
   {
     "id": "42",
     "name": "TACTICAL_CAR_MOUNT",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1ddb/gW1djDx73jKxM1sjr_2kJ_5f8UFutJ.png",
-    "desc": "Magnetic carbon fiber tracking mount.",
+    "desc": "Industrial-strength magnetic mount for vehicles, featuring 360-degree rotation and a carbon fiber base to keep your nav-systems locked in place.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TACTICAL_CAR_MOUNT, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Tactical Car Mount, 1x Extra-Stick Dash Pad, 2x Magnetic Plates.",
+      "🕹️ <b>CORE_LOGIC:</b> Ultra-strong neodymium magnet array. 360-degree ball joint for optimal viewing angles.",
+      "💬 <b>USER_INTEL:</b> My phone doesn't budge even on rough towing routes. The carbon fiber look is very premium."
     ]
   },
   {
     "id": "43",
     "name": "DUNGEON_SSD_CASE",
-    "price": "",
+    "price": "65.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dd6/0YUkeNGTEt3aXX9i8kbQl_lL6a4ebz.png",
-    "desc": "Transparent glow NVMe enclosure.",
+    "desc": "Transparent heat-dissipating enclosure for NVMe drives, featuring integrated cooling fans and a 10Gbps data bridge for massive file transfers.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x DUNGEON_SSD_CASE, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Finally a case that doesn't feel like cheap plastic. The grip is insane and the neon purple accents actually glow under UV."
+      "🎁 <b>IN_THE_BOX:</b> 1x NVMe SSD Case, 1x USB-C High-Speed Data Cable, 1x Thermal Silicone Pad.",
+      "🕹️ <b>CORE_LOGIC:</b> Tool-free installation. Supports USB 3.2 Gen 2 for 10Gbps data transfer speeds.",
+      "💬 <b>USER_INTEL:</b> The transparent look with the internal LED is perfect for my setup. Blazing fast transfer."
     ]
   },
   {
     "id": "44",
     "name": "BIOMETRIC_PADLOCK",
-    "price": "",
+    "price": "65.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dd6/0pI23CpT5uVPOZT0VkPFa_ooTWu5IU.png",
-    "desc": "Fingerprint tactical padlock.",
+    "desc": "Hardened zinc-alloy padlock featuring a surgical-grade fingerprint scanner, providing keyless security for lockers and gear containers.",
     "supplier": "USAdrop",
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Biometric Padlock, 1x Micro-USB Charging Cable, 2x Spare Access Keys.",
+      "🕹️ <b>CORE_LOGIC:</b> Stores up to 10 unique fingerprints. Weather-resistant zinc alloy construction.",
+      "💬 <b>USER_INTEL:</b> Using this on my gear vault. No more fumbling with keys or codes. Instant unlock."
     ]
   },
   {
     "id": "45",
     "name": "SYSTEM_HEADPHONE_STAND",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dd7/AOo6gDkYr6BllffGVT4xG_aw77sZEc.png",
-    "desc": "Vertical charging neon grid stand.",
+    "desc": "Vertical aluminum rigging that organizes your high-fidelity headphones and provides dual USB charging ports for peripheral equipment.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$12.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_HEADPHONE_STAND, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Headphone Stand, 1x Lighting Cable.",
+      "🕹️ <b>CORE_LOGIC:</b> Dual USB output ports for accessory charging. Integrated RGB grid lighting.",
+      "💬 <b>USER_INTEL:</b> Solid base doesn't tip. The purple glow matches the rest of the Space Dungeon line perfectly."
     ]
   },
   {
     "id": "46",
     "name": "DUNGEON_CASE_ULTRA",
-    "price": "",
+    "price": "500.00",
     "status": "IMPERIAL_TIER",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1edf/fNoiGMgPjOerzhJDhzNSE_NS2cQFBv.png",
-    "desc": "Forged carbon fiber hardshell with neon green latches.",
+    "desc": "Forged carbon fiber equipment vault featuring airtight waterproof gaskets and impact-shield internal padding for extreme-tier hardware protection.",
     "supplier": "HyperSKU",
     "supplier_cost": "$72.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x DUNGEON_CASE_ULTRA, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Finally a case that doesn't feel like cheap plastic. The grip is insane and the neon purple accents actually glow under UV."
+      "🎁 <b>IN_THE_BOX:</b> 1x Dungeon Case Ultra, 1x Internal Foam Divider Kit.",
+      "🕹️ <b>CORE_LOGIC:</b> Forged carbon fiber shell with reinforced impact-resistant polymer edges. Waterproof latches.",
+      "💬 <b>USER_INTEL:</b> This is the ultimate vault. I drove over it with my truck and everything inside was pristine."
     ]
   },
   {
     "id": "47",
     "name": "NEURAL_NODE_LIGHT",
-    "price": "",
+    "price": "500.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1edb/V1yAq-lVFN0N8UxMfe-wu_TcOfJ3RJ.png",
-    "desc": "Floating levitating orb lamp with neon purple aura.",
+    "desc": "Surgical-grade levitation orb that floats silently above its magnetic base, maping a soft neon aura across your station via induction power.",
     "supplier": "HyperSKU",
     "supplier_cost": "$100.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Holographic LED Luminary, 1x High-Voltage Power Adapter, 1x Remote Control (CR2032 Battery Included).",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Plugs into standard wall outlet. Control colors and grid patterns via remote or mobile app.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Transforms my entire room into a high-fidelity dungeon. The purple grid effect on the walls is incredible."
+      "🎁 <b>IN_THE_BOX:</b> 1x Levitating Orb, 1x Magnetic Base, 1x Power Adapter, 1x Setup Guide.",
+      "🕹️ <b>CORE_LOGIC:</b> Magnetic levitation system. Induction-powered wireless lighting. Touch-toggle aura.",
+      "💬 <b>USER_INTEL:</b> People think it's CGI. It sits on my desk and floats silently. The most impressive item I own."
     ]
   },
   {
     "id": "48",
     "name": "SYSTEM_MASTER_KEY",
-    "price": "",
+    "price": "35.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1ee0/fUqNR4fFtLPglBlS3PkuP_BlitUQd8.png",
-    "desc": "Solid titanium PVD card tool with neon purple etching.",
+    "desc": "A CNC-machined titanium card tool featuring 24 critical system access and adjustment tools, designed to sit invisibly in any standard wallet.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_MASTER_KEY, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Master Key Card, 1x Protective RFID Sleeve.",
+      "🕹️ <b>CORE_LOGIC:</b> Grade 5 Titanium construction. 24 integrated tools: hex keys, screwdrivers, bottle opener.",
+      "💬 <b>USER_INTEL:</b> Sits in my wallet like a credit card. It's saved me on site more times than I can count."
     ]
   },
   {
     "id": "49",
     "name": "GLOBAL_SIGNAL_BOOST",
-    "price": "",
+    "price": "500.00",
     "status": "PREMIUM",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1ee1/TU22EHX6mkgj1COt5NlNM_QChEJu3o.png",
-    "desc": "Long-range portable Wi-Fi 7 bridge for elite nomads.",
+    "desc": "A multi-sector signal bridge designed to amplify Wi-Fi and digital telemetry across massive distances, essential for maintaining connectivity in dead zones.",
     "supplier": "HyperSKU",
     "supplier_cost": "$140.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x GLOBAL_SIGNAL_BOOST, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Signal Boost Bridge, 2x High-Gain Antennas, 1x Power Adapter, 1x LAN Cable.",
+      "🕹️ <b>CORE_LOGIC:</b> High-gain signal amplification with multi-band support. Reaches dead zones with 400% boost.",
+      "💬 <b>USER_INTEL:</b> I get full bars in the back of my workshop where I used to get nothing. Essential for remote ops."
     ]
   },
   {
     "id": "50",
     "name": "IMPERIAL_DESK_MAT",
-    "price": "",
+    "price": "150.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1ee1/RBhBIY5lMOKEYmolWcVvu_GA7OWsEi.png",
-    "desc": "Luxury black leather mat with glowing neon green edge.",
+    "desc": "Hand-crafted micro-textured leather desk armor featuring a fiber-optic perimeter with 12 programmable neon color modes for the ultimate aesthetic setup.",
     "supplier": "USAdrop",
     "supplier_cost": "$42.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x IMPERIAL_DESK_MAT, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "🎁 <b>IN_THE_BOX:</b> 1x Imperial Desk Mat, 1x Power Cable for Edge Glow.",
+      "🕹️ <b>CORE_LOGIC:</b> Micro-textured synthetic leather surface. Integrated fiber-optic edge with 12 color modes.",
+      "💬 <b>USER_INTEL:</b> The leather feels premium and the green glow is perfect. Makes the whole room feel like a cockpit."
     ]
   },
   {
     "id": "51",
     "name": "ECOM_EXTRACTION_FLEET",
-    "price": "",
+    "price": "500.00",
     "status": "GOD_TIER",
     "yield": "DIGITAL",
     "img": "assets/ECOM_EXTRACTION_FLEET.png",
-    "desc": "Automated e-commerce extraction engine for massive fleet operations.",
+    "desc": "Our proprietary cloud extraction engine that automates the deployment of thousands of products into your store, managing fulfillment on autopilot.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$0.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Professional Software License, 1x API Documentation Hub, 1x Dedicated Support Channel Access.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Cloud-based extraction engine. Link your store and let the fleet automate your entire product sourcing and fulfillment.",
-      "\ud83d\udcac <b>USER_INTEL:</b> This essentially runs my business for me. I set it up on Monday and by Friday I had 500 new listings synced."
+      "🎁 <b>IN_THE_BOX:</b> 1x Professional License, 1x API Hub Access, 1x Setup Script.",
+      "🕹️ <b>CORE_LOGIC:</b> Cloud-based serverless extraction. Link your domain and let the fleet automate product sourcing.",
+      "💬 <b>USER_INTEL:</b> This essentially runs my business for me. Set and forget automation for massive scaling."
     ]
   },
   {
     "id": "52",
     "name": "OPEN_CLAW_GOD_TIER",
-    "price": "",
+    "price": "500.00",
     "status": "GOD_TIER",
     "yield": "DIGITAL",
     "img": "assets/OPEN_CLAW_GOD_TIER.png",
-    "desc": "Elite bypass and system access utility. God-tier clearance.",
+    "desc": "Elite system access framework that grants the user full backend control over high-fidelity operations and secure network bypass bypass protocols.",
     "supplier": "USAdrop",
     "supplier_cost": "$17.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x OPEN_CLAW_GOD_TIER Digital License, 1x Encrypted Download Link, 1x Developer Documentation.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Instant decryption upon checkout. Multi-sector compatibility across all standard OS platforms.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Fast, secure, and incredibly powerful. This blueprint saved me months of research and development time."
+      "🎁 <b>IN_THE_BOX:</b> 1x Digital License, 1x Encrypted Download Link.",
+      "🕹️ <b>CORE_LOGIC:</b> Instant digital activation. Multi-sector bypass capability for high-fidelity system access.",
+      "💬 <b>USER_INTEL:</b> Fast, secure, and incredibly powerful. This saved me months of dev work on my own OS."
     ]
   },
   {
     "id": "54",
     "name": "THE_OPERATOR_PACK",
-    "price": "",
+    "price": "15.00",
     "status": "ELITE",
     "yield": "PHYSICAL",
     "img": "assets/THE_OPERATOR_PACK.png",
-    "desc": "Tactical hardshell gear for field operations. Advanced protection.",
+    "desc": "A modular carry system for field technicians, featuring reinforced attachment loops and a high-impact chassis to shield your internal equipment.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$6.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE_OPERATOR_PACK, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
-      "\ud83d\udcac <b>USER_INTEL:</b> I took this through a storm and my laptop stayed bone dry. People stop me in the street to ask where I got this."
+      "🎁 <b>IN_THE_BOX:</b> 1x Operator Pack, 1x Patch Set.",
+      "🕹️ <b>CORE_LOGIC:</b> High-impact hardshell construction for maximum device safety.",
+      "💬 <b>USER_INTEL:</b> The best pack I've ever owned. Durable, waterproof, and looks incredible in stealth ops."
     ]
   },
   {
     "id": "55",
     "name": "THE_ROBOTICS_BIBLE",
-    "price": "",
+    "price": "15.00",
     "status": "EDUCATIONAL",
     "yield": "DIGITAL",
     "img": "assets/THE_ROBOTICS_BIBLE.png",
-    "desc": "Complete visual guide to high-fidelity robotics and OS construction.",
+    "desc": "The definitive visual guide to high-fidelity assembly, including full-source logic and mechanical blueprints for building your own AI robot core.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$1.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Encrypted Master PDF (8K Res), 1x Library of 3D printable assets, 1x Source Code Repository Access.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Digital delivery. Use your unique Order ID to decrypt the container. Contains step-by-step assembly guides for robotics.",
-      "\ud83d\udcac <b>USER_INTEL:</b> The most detailed guide I have ever seen. It allowed me to build my first AI robot core in a weekend."
+      "🎁 <b>IN_THE_BOX:</b> 1x Encrypted Master PDF, 1x Asset Library (3D).",
+      "🕹️ <b>CORE_LOGIC:</b> Digital delivery. High-fidelity blueprints for robotics construction and AI integration.",
+      "💬 <b>USER_INTEL:</b> Extremely detailed. It allowed me to build my first AI robot core in a single weekend."
     ]
   }
 ]
