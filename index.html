@@ -51,7 +51,31 @@
     </div>
     <div class="footer">OPERATED BY SPACE_DUNGEON_OS // SECURE ACCESS ONLY</div>
 
+    <!-- LIVE_FOMO_TRANSMISSION -->
+    <div id="fomo-box" style="position: fixed; bottom: 20px; left: 20px; background: rgba(0,0,0,0.9); border: 1px solid var(--neon-purple); padding: 15px; display: none; z-index: 1000; box-shadow: 0 0 15px var(--neon-purple); font-size: 10px; width: 250px;">
+        <div style="color:var(--neon-green); font-weight:bold; margin-bottom:5px;">[SECURE_ACQUISITION_DETECTED]</div>
+        <div id="fomo-text" style="color:#fff;"></div>
+    </div>
+
     <script>
+        // FOMO SYSTEM
+        const users = ["User_992", "Commander_X", "Agent_Alpha", "Nomad_88", "Specter_V", "Void_Walker"];
+        const products = ["GOD_TIER_BLUEPRINT", "OPERATOR_PACK", "SYSTEM_RECOVERY_GUN", "HYDRATION_CELL", "SIGNAL_BLOCK_WALLET"];
+        
+        function triggerFomo() {
+            const fomoBox = document.getElementById('fomo-box');
+            const user = users[Math.floor(Math.random() * users.length)];
+            const prod = products[Math.floor(Math.random() * products.length)];
+            
+            document.getElementById('fomo-text').innerText = `${user} just decrypted ${prod} access.`;
+            fomoBox.style.display = 'block';
+            
+            setTimeout(() => {
+                fomoBox.style.display = 'none';
+            }, 5000);
+        }
+        setInterval(triggerFomo, 15000); // Trigger every 15s
+
         async function loadStore() {
             const res = await fetch('inventory.json');
             const products = await res.json();
