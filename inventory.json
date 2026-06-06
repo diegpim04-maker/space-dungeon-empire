@@ -2,7 +2,7 @@
   {
     "id": "09",
     "name": "THE OPERATOR_GLOVES",
-    "price": "$25.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d6f/IPogxikqTZsyLmXc0Zc50_kZn0OkmB.png",
@@ -14,7 +14,7 @@
   {
     "id": "10",
     "name": "HYDRATION_CELL",
-    "price": "$40.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d70/wJHxSXXbpgrRwP7Y0Kf81_DUK9mmsf.png",
@@ -26,7 +26,7 @@
   {
     "id": "11",
     "name": "THE OPERATOR_SLIDES",
-    "price": "$35.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d7b/c2F4unzyVV0Io_vwZlizw_gSESSTBn.png",
@@ -38,7 +38,7 @@
   {
     "id": "12",
     "name": "SIGNAL_BLOCK_WALLET",
-    "price": "$30.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d7b/VqiTUi6mm6UZiJb3Ln_lR_vTvhthUU.png",
@@ -50,7 +50,7 @@
   {
     "id": "13",
     "name": "AMBIENT_GRID_LAMP",
-    "price": "$55.00",
+    "price": ".00",
     "status": "LIMITED",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d7c/z_1jnx4Q0UyElqKSYTqN6_GU7u7aDo.png",
@@ -62,7 +62,7 @@
   {
     "id": "14",
     "name": "THE NEON_GRIP_TAPE",
-    "price": "$15.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d7d/zp9uxmC57DwKeEtnTpEoO_AQDYLd7S.png",
@@ -74,7 +74,7 @@
   {
     "id": "16",
     "name": "THE DUNGEON_CASE",
-    "price": "$25.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d75/eHGgdGCxZTHRSWj5UYDJ__bZhJZnol.png",
@@ -86,7 +86,7 @@
   {
     "id": "17",
     "name": "THE OPERATOR_PACK",
-    "price": "$120.00",
+    "price": ".00",
     "status": "ELITE_TIER",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d95/UDgv4lr4OkfLB6JmmbMyD_th49SZMJ.png",
@@ -98,7 +98,7 @@
   {
     "id": "18",
     "name": "THE NEON_DESK_MAT",
-    "price": "$35.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d95/c7DhjwegROqyXUvlHg7pA_LwOvOnU6.png",
@@ -110,7 +110,7 @@
   {
     "id": "19",
     "name": "SYSTEM_PLUG_ADAPTER",
-    "price": "$45.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d91/rRztwnwtAqGDeeGuwugbN_4tW0Q6Si.png",
@@ -122,7 +122,7 @@
   {
     "id": "20",
     "name": "TITANIUM_SPORK_TAC",
-    "price": "$20.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1d96/WMY207s4O-NLEpigeBysB_QXRJj8QI.png",
@@ -134,7 +134,7 @@
   {
     "id": "21",
     "name": "BIO_FILTER_MASK",
-    "price": "$65.00",
+    "price": ".00",
     "status": "BEST_SELLER",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1da9/Cib-i5bVw7Mb9Xh7t1df9_kRWSWhhD.png",
@@ -146,7 +146,7 @@
   {
     "id": "22",
     "name": "KINETIC_POWER_BANK",
-    "price": "$85.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1da9/fCGVGYUqGf61G20N8ehD4_ulqN3OjX.png",
@@ -158,7 +158,7 @@
   {
     "id": "23",
     "name": "NEURAL_REST_MASK",
-    "price": "$55.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1daa/ubwTn38oPPEgAR2nrkKtx_2o5rL4wj.png",
@@ -170,7 +170,7 @@
   {
     "id": "24",
     "name": "OPERATOR_POUCH",
-    "price": "$25.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1daa/amxdSxMqeZ28YdmqI_ZxY_tEEcDcND.png",
@@ -182,7 +182,7 @@
   {
     "id": "25",
     "name": "HYDRATION_JUG_ARMOR",
-    "price": "$50.00",
+    "price": ".00",
     "status": "VIRAL_NOW",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1db8/DIdtFYaa-OpvBglyp75aq_0dZVBJaB.png",
@@ -194,7 +194,7 @@
   {
     "id": "26",
     "name": "TURBO_COOL_FAN",
-    "price": "$35.00",
+    "price": ".00",
     "status": "OUT_OF_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1db9/KEI5zqfyECrJ5XskVSxRN_gLASMeIl.png",
@@ -206,7 +206,7 @@
   {
     "id": "28",
     "name": "TACTICAL_TOTE_V3",
-    "price": "$65.00",
+    "price": ".00",
     "status": "TRENDING",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dba/ZDlv9WrWvWT4vSeVFhtmn_hBngOBDI.png",
@@ -218,7 +218,7 @@
   {
     "id": "29",
     "name": "GESTURE_CONTROLLER",
-    "price": "$75.00",
+    "price": ".00",
     "status": "ELITE_TECH",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dbb/2XOG3yIcyhNBMcghRblLN_0NRSn6iR.png",
@@ -230,7 +230,7 @@
   {
     "id": "31",
     "name": "SYSTEM_EYE_GLASSES",
-    "price": "$60.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dbd/VVrkKOOiPfjwOjEqjZRLI_VwxKtVav.png",
@@ -242,7 +242,7 @@
   {
     "id": "32",
     "name": "MAG_LOCK_KEYCHAIN",
-    "price": "$25.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dbd/uPqYYppNTQWN_S-Ej8U_o_xElTl7C8.png",
@@ -254,7 +254,7 @@
   {
     "id": "33",
     "name": "PERIMETER_EYE",
-    "price": "$145.00",
+    "price": ".00",
     "status": "BEST_SELLER",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dcb/DX11_urOJKrYB3VjKadlQ_h7V4kJQq.png",
@@ -266,7 +266,7 @@
   {
     "id": "34",
     "name": "DOOR_LOCK_ENFORCER",
-    "price": "$65.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dce/6f93fBfbUoSzwJQM1j_b1_pnAPcyV3.png",
@@ -278,7 +278,7 @@
   {
     "id": "35",
     "name": "SIGNAL_SCRAMBLER",
-    "price": "$95.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dce/5LG15tISn1RpI3YhJL4Am_pjWkuMXk.png",
@@ -290,7 +290,7 @@
   {
     "id": "36",
     "name": "TACTICAL_FLASHLIGHT_V4",
-    "price": "$55.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dcd/7DngQIw3Zt0Sw9_Swi3rw_X2OnMiSs.png",
@@ -302,7 +302,7 @@
   {
     "id": "37",
     "name": "SYSTEM_RECOVERY_GUN",
-    "price": "$180.00",
+    "price": ".00",
     "status": "PREMIUM",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dcc/5Kvj4yl9MmL6g_n5VBfuv_lR6GPO6V.png",
@@ -314,7 +314,7 @@
   {
     "id": "38",
     "name": "NEURAL_GRIP_STRENGTH",
-    "price": "$45.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dd2/PY84SqGj9cfTGYl-RECLe_guBgZSeu.png",
@@ -326,7 +326,7 @@
   {
     "id": "39",
     "name": "KINETIC_JUMP_ROPE",
-    "price": "$35.00",
+    "price": ".00",
     "status": "TRENDING",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dcf/1xv_ZCIgVgQ1CnB3KrBwF_aejXu7vT.png",
@@ -338,7 +338,7 @@
   {
     "id": "40",
     "name": "BIO_SYNC_STRAP",
-    "price": "$50.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dcf/PhZxOTyadGzrFYb2uiR7P_unSUeS7X.png",
@@ -350,7 +350,7 @@
   {
     "id": "41",
     "name": "GRID_MECH_KEYBOARD",
-    "price": "$160.00",
+    "price": ".00",
     "status": "ELITE_BUILD",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dd5/qbJ3XZ6IK7yDt_djrwS27_KsY3A7ne.png",
@@ -362,7 +362,7 @@
   {
     "id": "42",
     "name": "TACTICAL_CAR_MOUNT",
-    "price": "$45.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1ddb/gW1djDx73jKxM1sjr_2kJ_5f8UFutJ.png",
@@ -374,7 +374,7 @@
   {
     "id": "43",
     "name": "DUNGEON_SSD_CASE",
-    "price": "$55.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dd6/0YUkeNGTEt3aXX9i8kbQl_lL6a4ebz.png",
@@ -386,7 +386,7 @@
   {
     "id": "44",
     "name": "BIOMETRIC_PADLOCK",
-    "price": "$65.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dd6/0pI23CpT5uVPOZT0VkPFa_ooTWu5IU.png",
@@ -398,7 +398,7 @@
   {
     "id": "45",
     "name": "SYSTEM_HEADPHONE_STAND",
-    "price": "$40.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1dd7/AOo6gDkYr6BllffGVT4xG_aw77sZEc.png",
@@ -410,7 +410,7 @@
   {
     "id": "46",
     "name": "DUNGEON_CASE_ULTRA",
-    "price": "$180.00",
+    "price": ".00",
     "status": "IMPERIAL_TIER",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1edf/fNoiGMgPjOerzhJDhzNSE_NS2cQFBv.png",
@@ -422,7 +422,7 @@
   {
     "id": "47",
     "name": "NEURAL_NODE_LIGHT",
-    "price": "$250.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1edb/V1yAq-lVFN0N8UxMfe-wu_TcOfJ3RJ.png",
@@ -434,7 +434,7 @@
   {
     "id": "48",
     "name": "SYSTEM_MASTER_KEY",
-    "price": "$45.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1ee0/fUqNR4fFtLPglBlS3PkuP_BlitUQd8.png",
@@ -446,7 +446,7 @@
   {
     "id": "49",
     "name": "GLOBAL_SIGNAL_BOOST",
-    "price": "$350.00",
+    "price": ".00",
     "status": "PREMIUM",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1ee1/TU22EHX6mkgj1COt5NlNM_QChEJu3o.png",
@@ -458,7 +458,7 @@
   {
     "id": "50",
     "name": "IMPERIAL_DESK_MAT",
-    "price": "$120.00",
+    "price": ".00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
     "img": "https://v3b.fal.media/files/b/0a9d1ee1/RBhBIY5lMOKEYmolWcVvu_GA7OWsEi.png",
@@ -470,7 +470,7 @@
   {
     "id": "51",
     "name": "ECOM_EXTRACTION_FLEET",
-    "price": "00.00",
+    "price": ".00",
     "status": "GOD_TIER",
     "yield": "DIGITAL",
     "img": "assets/ECOM_EXTRACTION_FLEET.png",
@@ -482,7 +482,7 @@
   {
     "id": "52",
     "name": "OPEN_CLAW_GOD_TIER",
-    "price": "50.00",
+    "price": ".00",
     "status": "GOD_TIER",
     "yield": "DIGITAL",
     "img": "assets/OPEN_CLAW_GOD_TIER.png",
@@ -494,7 +494,7 @@
   {
     "id": "54",
     "name": "THE_OPERATOR_PACK",
-    "price": "20.00",
+    "price": ".00",
     "status": "ELITE",
     "yield": "PHYSICAL",
     "img": "assets/THE_OPERATOR_PACK.png",
@@ -506,7 +506,7 @@
   {
     "id": "55",
     "name": "THE_ROBOTICS_BIBLE",
-    "price": "5.00",
+    "price": ".00",
     "status": "EDUCATIONAL",
     "yield": "DIGITAL",
     "img": "assets/THE_ROBOTICS_BIBLE.png",
