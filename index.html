@@ -8,11 +8,12 @@
         body { background: var(--deep-bg); color: #fff; font-family: 'Courier New', monospace; margin: 0; padding: 0; overflow-x: hidden; }
         
         /* MODAL STYLES */
-        .modal { display: none; position: fixed; z-index: 2000; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.95); backdrop-filter: blur(5px); }
-        .modal-content { background: #000; margin: 5% auto; padding: 30px; border: 1px solid var(--neon-purple); width: 80%; max-width: 900px; position: relative; box-shadow: 0 0 50px rgba(157,0,255,0.2); }
-        .close-modal { position: absolute; right: 20px; top: 10px; color: var(--neon-green); font-size: 30px; cursor: pointer; }
-        .modal-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; }
-        .modal-img-container { width: 100%; position: relative; border: 1px solid #333; height: 400px; background: #000; overflow: hidden; display: flex; flex-direction: column; cursor: grab; }
+        .modal { display: none; position: fixed; z-index: 2000; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.95); backdrop-filter: blur(5px); overflow-y: auto; }
+        .modal-content { background: #000; margin: 2% auto; padding: 40px; border: 1px solid var(--neon-purple); width: 90%; max-width: 1000px; position: relative; box-shadow: 0 0 50px rgba(157,0,255,0.2); }
+        .close-modal { position: absolute; right: 25px; top: 15px; color: var(--neon-green); font-size: 35px; cursor: pointer; z-index: 10; }
+        .modal-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; }
+        @media (max-width: 800px) { .modal-grid { grid-template-columns: 1fr; } }
+
         .modal-img-container:active { cursor: grabbing; }
         .modal-main-img { width: 100%; height: 320px; object-fit: contain; border-bottom: 1px solid #222; background: #050505; transition: transform 0.1s linear; pointer-events: none; }
         .thumbnail-row { display: flex; gap: 10px; padding: 10px; background: #000; justify-content: center; }
@@ -88,9 +89,19 @@
                         <ul id="modal-specs" class="specs-list"></ul>
                     </div>
 
-                    <div id="modal-price" style="font-size:2rem; margin:20px 0;">$0.00</div>
-                    <a id="modal-buy-btn" href="#" class="buy-btn">AUTHORIZE_ACQUISITION</a>
-                </div>
+                    <div id="modal-price" style="font-size:2.5rem; margin:30px 0; color: #fff; font-weight: bold;">$0.00</div>
+                    <a id="modal-buy-btn" href="#" class="buy-btn" style="font-size: 1.2rem; padding: 20px;">AUTHORIZE_ACQUISITION</a>
+                    
+                    <div style="margin-top: 50px; border-top: 1px solid #222; padding-top: 30px;">
+                        <h4 style="color: var(--neon-green); letter-spacing: 3px;">EXTRA_INTEL_REPORT</h4>
+                        <p style="font-size: 12px; opacity: 0.7; line-height: 1.6;">Each Space Dungeon acquisition is tracked via the Global Extraction Fleet. Shipments are processed within 24 hours of authorization. Digital blueprints are delivered immediately to your secure terminal. Material integrity is guaranteed for 12 months under the Imperial Support Protocol.</p>
+                        <ul style="font-size: 11px; color: var(--neon-purple); list-style: none; padding: 0;">
+                            <li>[+] REAL-TIME TELEMETRY ENABLED</li>
+                            <li>[+] ENCRYPTED FULFILLMENT PIPE</li>
+                            <li>[+] 24/7 COMMAND CHANNEL ACCESS</li>
+                        </ul>
+                    </div>
+
             </div>
         </div>
     </div>
