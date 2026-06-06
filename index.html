@@ -12,8 +12,9 @@
         .modal-content { background: #000; margin: 5% auto; padding: 30px; border: 1px solid var(--neon-purple); width: 80%; max-width: 900px; position: relative; box-shadow: 0 0 50px rgba(157,0,255,0.2); }
         .close-modal { position: absolute; right: 20px; top: 10px; color: var(--neon-green); font-size: 30px; cursor: pointer; }
         .modal-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; }
-        .modal-img-container { width: 100%; position: relative; border: 1px solid #333; height: 400px; background: #000; overflow: hidden; display: flex; flex-direction: column; }
-        .modal-main-img { width: 100%; height: 320px; object-fit: contain; border-bottom: 1px solid #222; background: #050505; }
+        .modal-img-container { width: 100%; position: relative; border: 1px solid #333; height: 400px; background: #000; overflow: hidden; display: flex; flex-direction: column; cursor: grab; }
+        .modal-img-container:active { cursor: grabbing; }
+        .modal-main-img { width: 100%; height: 320px; object-fit: contain; border-bottom: 1px solid #222; background: #050505; transition: transform 0.1s linear; pointer-events: none; }
         .thumbnail-row { display: flex; gap: 10px; padding: 10px; background: #000; justify-content: center; }
         .thumb { width: 60px; height: 60px; border: 1px solid #333; cursor: pointer; opacity: 0.5; transition: 0.3s; object-fit: cover; }
         .thumb:hover, .thumb.active { opacity: 1; border-color: var(--neon-green); }
@@ -72,11 +73,11 @@
             <span class="close-modal" onclick="closeModal()">&times;</span>
             <div class="modal-grid">
                 <div>
-                    <div class="modal-img-container">
+                    <div class="modal-img-container" id="interactionZone">
                         <img id="modal-img" src="" class="modal-main-img">
                         <div id="thumbnail-row" class="thumbnail-row"></div>
                     </div>
-                    <p style="font-size: 10px; color: var(--neon-purple); text-align: center; margin-top: 10px;">[MULTI_ANGLE_VISUAL_ARRAY] - SELECT TO INSPECT</p>
+                    <p style="font-size: 10px; color: var(--neon-purple); text-align: center; margin-top: 10px;">[3D_PERSPECTIVE_OS_ACTIVE] - DRAG TO ROTATE</p>
                 </div>
                 <div>
                     <h2 id="modal-title" style="color:var(--neon-green); letter-spacing:5px; margin-top: 0;">ITEM_NAME</h2>
@@ -95,10 +96,36 @@
     </div>
 
     <script>
+        // 3D ROTATION LOGIC
+        let isDragging = false;
+        let startX = 0;
+        let currentRotation = 0;
+
+        const zone = document.getElementById('interactionZone');
+        const mainImg = document.getElementById('modal-img');
+
+        zone.addEventListener('mousedown', (e) => {
+            isDragging = true;
+            startX = e.clientX;
+        });
+
+        window.addEventListener('mousemove', (e) => {
+            if (!isDragging) return;
+            const deltaX = e.clientX - startX;
+            startX = e.clientX;
+            currentRotation += deltaX * 0.5;
+            mainImg.style.transform = `scale(1.2) perspective(1000px) rotateY(${currentRotation}deg) rotateX(10deg)`;
+        });
+
+        window.addEventListener('mouseup', () => { isDragging = false; });
+
         function changeAngle(el, src) {
             document.getElementById('modal-img').src = src;
             document.querySelectorAll('.thumb').forEach(t => t.classList.remove('active'));
             el.classList.add('active');
+            // Reset 3D transform on angle change
+            currentRotation = 0;
+            mainImg.style.transform = `scale(1.2) perspective(1000px) rotateY(0deg) rotateX(10deg)`;
         }
 
         function openModal(id) {
@@ -110,6 +137,9 @@
             document.getElementById('modal-price').innerText = p.price;
             document.getElementById('modal-img').src = p.img;
             
+            currentRotation = 0;
+            mainImg.style.transform = `scale(1.2) perspective(1000px) rotateY(0deg) rotateX(10deg)`;
+
             const thumbRow = document.getElementById('thumbnail-row');
             const gallery = [p.img, ...(p.gallery || [])];
             thumbRow.innerHTML = gallery.map((src, i) => `
@@ -143,7 +173,7 @@
                 <div class="card" onclick="openModal('${p.id}')">
                     <div class="img-box"><img src="${p.img}"></div>
                     <div style="font-size:12px; font-weight:bold;">${p.name}</div>
-                    <div style="font-size:10px; opacity:0.6; margin:5px 0;">${p.desc}</div>
+                    <div style="font-size:10px; opacity:0.6; margin:5px 0;">${p.desc.substring(0, 60)}...</div>
                     <div class="price">${p.price}</div>
                     <div class="buy-btn">VIEW_ITEM</div>
                 </div>
@@ -153,7 +183,7 @@
                 <div class="card" onclick="openModal('${p.id}')">
                     <div class="img-box"><img src="${p.img}"></div>
                     <div style="font-size:12px; font-weight:bold;">${p.name}</div>
-                    <div style="font-size:10px; opacity:0.6; margin:5px 0;">${p.desc}</div>
+                    <div style="font-size:10px; opacity:0.6; margin:5px 0;">${p.desc.substring(0, 60)}...</div>
                     <div class="price">${p.price}</div>
                     <div class="buy-btn">VIEW_ITEM</div>
                 </div>
