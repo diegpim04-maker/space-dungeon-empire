@@ -1,5 +1,23 @@
 [
   {
+    "id": "72",
+    "name": "NEURAL_LINK_RING_X1",
+    "price": "175.00",
+    "status": "ELITE_TIER",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9d2cb4/-96ukf7Uys4f1-4c8vLlf_8HUiyd91.png",
+    "desc": "The apex of tactile-digital convergence. A matte black zirconia ceramic smart ring capable of mapping physical kinetic gestures to digital execution. Includes the 'CORE_RECON' Roblox biometric script for automated character performance scaling.",
+    "supplier": "USAdrop",
+    "supplier_cost": "$45.00",
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Aerospace-grade ceramic smart ring with 6-axis biometric kinetic tracking.",
+      "⚙️ <b>TACTICAL_SPECS:</b> MATERIAL: Zirconia Ceramic | SENSOR: Bio-Impulse 6.0 | BATTERY: 7-Day Active Mission Cycle.",
+      "🕹️ <b>SYSTEM_BONUS:</b> Includes [NEURAL_SCRIPT] for Roblox AI-driven character movement optimization.",
+      "💬 <b>OPERATOR_INTEL:</b> 'The bridge between physical movement and in-game performance is finally closed. Sleek, dark, and lethal.'"
+    ]
+  },
+  {
     "id": "09",
     "name": "THE OPERATOR_GLOVES",
     "price": "35.00",
@@ -256,27 +274,33 @@
     ]
   },
   {
-    "id": "21",
-    "name": "BIO_FILTER_MASK",
-    "price": "65.00",
+    "id": "33",
+    "name": "PERIMETER_EYE",
+    "price": "150.00",
     "status": "BEST_SELLER",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1da9/Cib-i5bVw7Mb9Xh7t1df9_kRWSWhhD.png",
-    "gallery": [
-      "https://v3b.fal.media/files/b/0a9d2a44/7CkWD6fAa0UMTbVzEPW2t_siG1Kro3.png",
-      "https://v3b.fal.media/files/b/0a9d2a40/zOUDqbGIaqjVgR1WpMncE_u2HeqJM2.png"
-    ],
-    "desc": "Advanced urban survival mask with dual-ventilation ports and replaceable PM2.5 filters to ensure clinical purity in any environment.",
-    "supplier": "USAdrop",
-    "supplier_cost": "$22.75",
-    "fulfillment_id": "PENDING_SKU",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9d1dcb/DX11_urOJKrYB3VjKadlQ_h7V4kJQq.png",
+    "desc": "Absolute sector visibility. The Perimeter Eye is an autonomous reconnaissance unit featuring a 4K neural-link thermal sensor. Includes the 'ROBLOX_TERRAIN_SCAN' digital mapping algorithm for elite navigation.",
     "bullets": [
-      "🎁 <b>IN_THE_BOX:</b> 1x Bio-Filter Mask, 3x Replaceable PM2.5 Filters, 1x Carry Case.",
-      "🕹️ <b>CORE_LOGIC:</b> Ergonomic 3D fit with dual convection airflow valves. Particulate filtration tech.",
-      "⚙️ <b>TECH_SPECS:</b> FILTRATION: Triple-Layer PM2.5 Grid",
-      "⚙️ <b>TECH_SPECS:</b> OS: Convection Breathing Logic",
-      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Medical-Grade Silicone + Nylon",
-      "💬 <b>USER_INTEL:</b> Cleanest air I've breathed in the city. Doesn't fog up my glasses and looks futuristic."
+      "🛡️ <b>OVERVIEW:</b> 360-degree AI surveillance unit with thermal night-vision and movement-locking logic.",
+      "🕹️ <b>SYSTEM_BONUS:</b> Includes [AUTONOMOUS_NAV] scripts for Roblox trucking and towing simulation.",
+      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Impact-Resistant Polymer | SENSOR: 4K Thermal CMOS | RANGE: 250m Recon.",
+      "💬 <b>OPERATOR_INTEL:</b> 'The night vision is crisp. But the nav-script it unlocked for my truck is better than any mod I've used.'"
+    ]
+  },
+  {
+    "id": "71",
+    "name": "COMMAND_POD_X1",
+    "price": "125.00",
+    "status": "VIRAL_TECH",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9d2ca2/XrEU1HgdiYiK_764NEgTn_T2kNpDde.png",
+    "desc": "The ultimate housing for your Legion Go. This hardshell pod features integrated high-velocity cooling fans and a 20,000mAh backup cell to ensure your command session never ends. Includes the 'ELITE_OVERCLOCK' digital guide.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Hardshell thermal-management pod for handheld gaming units with integrated backup power.",
+      "⚙️ <b>TACTICAL_SPECS:</b> COOLING: Dual-Turbine 8,000 RPM Fans | POWER: 20,000mAh Li-Po Cell | CHASSIS: Shock-Resistant Polymer.",
+      "🕹️ <b>SYSTEM_BONUS:</b> Includes [DIGITAL_CODE] for the 'Legion-Go-Optimized' custom theme OS.",
+      "💬 <b>USER_INTEL:</b> 'My Legion Go stays ice-cold now even on high-spec missions. The purple neon matches my setup perfectly.'"
     ]
   },
   {
@@ -486,21 +510,29 @@
     "name": "PERIMETER_EYE",
     "price": "150.00",
     "status": "BEST_SELLER",
-    "yield": "PHYSICAL",
+    "yield": "PHYSICAL_BUNDLE",
     "img": "https://v3b.fal.media/files/b/0a9d1dcb/DX11_urOJKrYB3VjKadlQ_h7V4kJQq.png",
-    "gallery": [
-      "https://v3b.fal.media/files/b/0a9d29ee/eONZAPVmV6P1zPfuh---o_q34jszBC.png",
-      "https://v3b.fal.media/files/b/0a9d29eb/S6DrUDGbojdoSnUHZuR7C_fvF63hub.png"
-    ],
-    "desc": "Absolute sector visibility. The Perimeter Eye is an autonomous reconnaissance unit featuring a 4K neural-link thermal sensor. It uses on-board AI to distinguish between organic and mechanical movement.",
-    "supplier": "USAdrop",
-    "supplier_cost": "$50.75",
-    "fulfillment_id": "PENDING_SKU",
+    "desc": "Absolute sector visibility. The Perimeter Eye is an autonomous reconnaissance unit featuring a 4K neural-link thermal sensor. Includes the 'ROBLOX_TERRAIN_SCAN' digital mapping algorithm for elite navigation.",
     "bullets": [
       "🛡️ <b>OVERVIEW:</b> 360-degree AI surveillance unit with thermal night-vision and movement-locking logic.",
-      "⚙️ <b>TACTICAL_SPECS:</b> SENSOR: 4K Thermal CMOS | FIELD: 360 Horizon View | STREAM: AES-256 Encrypted WiFi-7.",
-      "🕹️ <b>CORE_LOGIC:</b> Neural-Engine running Edge-AI for real-time person tracking and sector-breach alerts.",
-      "💬 <b>OPERATOR_INTEL:</b> 'The tracking is scary-good. It literally follows me as I walk around the truck. Night vision is crystal clear.'"
+      "🕹️ <b>SYSTEM_BONUS:</b> Includes [AUTONOMOUS_NAV] scripts for Roblox trucking and towing simulation.",
+      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Impact-Resistant Polymer | SENSOR: 4K Thermal CMOS | RANGE: 250m Recon.",
+      "💬 <b>OPERATOR_INTEL:</b> 'The night vision is crisp. But the nav-script it unlocked for my truck is better than any mod I've used.'"
+    ]
+  },
+  {
+    "id": "71",
+    "name": "COMMAND_POD_X1",
+    "price": "125.00",
+    "status": "VIRAL_TECH",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9d2ca2/XrEU1HgdiYiK_764NEgTn_T2kNpDde.png",
+    "desc": "The ultimate housing for your Legion Go. This hardshell pod features integrated high-velocity cooling fans and a 20,000mAh backup cell to ensure your command session never ends. Includes the 'ELITE_OVERCLOCK' digital guide.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Hardshell thermal-management pod for handheld gaming units with integrated backup power.",
+      "⚙️ <b>TACTICAL_SPECS:</b> COOLING: Dual-Turbine 8,000 RPM Fans | POWER: 20,000mAh Li-Po Cell | CHASSIS: Shock-Resistant Polymer.",
+      "🕹️ <b>SYSTEM_BONUS:</b> Includes [DIGITAL_CODE] for the 'Legion-Go-Optimized' custom theme OS.",
+      "💬 <b>USER_INTEL:</b> 'My Legion Go stays ice-cold now even on high-spec missions. The purple neon matches my setup perfectly.'"
     ]
   },
   {
@@ -1121,6 +1153,81 @@
       "⚙️ <b>TECH_SPECS:</b> OS: Fluid-Motion Motor Logic (Ver. 2.0)",
       "⚙️ <b>TECH_SPECS:</b> SPECS: Visual-Sensor Integration Script Array",
       "💬 <b>USER_INTEL:</b> V1 was good, but V2 is god-tier. My prototype robot is now navigating the workshop autonomously thanks to these blueprints."
+    ]
+  },
+  {
+    "id": "66",
+    "name": "STEALTH_COURIER_POD",
+    "price": "150.00",
+    "status": "NEW_ARRIVAL",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d2bbc/ztJfc-7GqWWOeehLlwZi5_Snzvytm9.png",
+    "desc": "A hardened transport module for highly sensitive physical assets. This hardshell pod features a biometric locking mechanism and an internal climate-control system to protect cargo from environmental extremes.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Impact-resistant courier vessel with integrated biometric security and thermal stabilization.",
+      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Reinforced High-Density Polymer | SECURITY: Sub-Dermal Biometric Lock | CAPACITY: 15L Secure Volume.",
+      "🕹️ <b>CORE_LOGIC:</b> Passive Thermal Shielding remains active for 48h without external power sync.",
+      "💬 <b>OPERATOR_INTEL:</b> 'The only way I'll transport sensitive hard drives. It survived a 20ft drop and the lock stayed perfectly engaged.'"
+    ]
+  },
+  {
+    "id": "67",
+    "name": "NEURAL_LINK_VISOR",
+    "price": "500.00",
+    "status": "GOD_TIER",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d2bbd/G0p8d8g3glfy3tcVfflA2_MhytVpHi.png",
+    "desc": "The ultimate AR interface for the elite fleet commander. This visor overlays real-time telemetry, pathfinding vectors, and asset status directly onto your field of vision, synchronized with the Space Dungeon OS.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Multi-spectral AR visor with integrated neural-link data bridge and transparent OLED display.",
+      "⚙️ <b>TACTICAL_SPECS:</b> DISPLAY: Dual 4K Transparent OLED | REFRESH: 120Hz Zero-Latency | SENSORS: Multi-Spectral LiDAR + Thermal.",
+      "🕹️ <b>CORE_LOGIC:</b> Real-time spatial mapping logic overlays fleet diagnostics onto physical objects.",
+      "💬 <b>OPERATOR_INTEL:</b> 'I can see my trucks through walls in the warehouse. It's like having X-ray vision for my entire empire.'"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "FIELD_REPAIR_DRONE",
+    "price": "150.00",
+    "status": "ELITE_TECH",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d2bbd/xUk-KsN45xR9U_1OXxZ6R_P7iLD5XT.png",
+    "desc": "An autonomous maintenance unit designed for field-strip repairs. This multi-legged crawler features advanced sensor eyes and precision manipulators to diagnose and fix mechanical issues in the wild.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Multi-legged autonomous repair unit with integrated diagnostic sensor array.",
+      "⚙️ <b>TACTICAL_SPECS:</b> LOCOMOTION: 6-Axis Hexapedal Drive | SENSORS: 4K Macro-Diagnostic Lens | BATTERY: 2h Active Mission Runtime.",
+      "🕹️ <b>CORE_LOGIC:</b> Autonomous Diagnostic OS identified mechanical fatigue before critical system failure occurs.",
+      "💬 <b>OPERATOR_INTEL:</b> 'It crawled under my truck, found a loose hydraulic line, and tightened it before I even knew there was a leak.'"
+    ]
+  },
+  {
+    "id": "69",
+    "name": "TITANIUM_MULTI_CARABINER",
+    "price": "35.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d2bbe/MN8IZOIUsrloUSU06oVZu_feegQVv6.png",
+    "desc": "A god-tier tool for the modern nomad. This Grade 5 titanium carabiner houses an integrated OLED screen for system status and an NFC chip for instant secure authorization.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Aerospace-grade titanium carabiner with integrated OLED display and secure NFC bridge.",
+      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Grade 5 Titanium | DISPLAY: 0.91\" Monochromatic OLED | WEIGHT: 45g.",
+      "🕹️ <b>CORE_LOGIC:</b> Integrated NFC emulator stores up to 4 secure access profiles. Display shows real-time system alerts.",
+      "💬 <b>OPERATOR_INTEL:</b> 'Toughest clip I've ever owned. The screen shows my wallet balance—I don't even need to take my phone out.'"
+    ]
+  },
+  {
+    "id": "70",
+    "name": "TACTICAL_COOLING_VEST",
+    "price": "150.00",
+    "status": "TRENDING",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d2bbe/1ueOe-dQKeFj2oZ7nekma_glvUUmGD.png",
+    "desc": "Industrial-grade thermal management for the active operator. This vest features integrated high-velocity fans and phase-change cooling panels to keep your core temperature stabilized in high-heat sectors.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Multi-panel thermal management vest with integrated hardshell armor and active turbine cooling.",
+      "⚙️ <b>TACTICAL_SPECS:</b> COOLING: Quad-Turbine Airflow Array | CHASSIS: 1000D Ballistic Mesh | POWER: 10,000mAh Swappable Power Cell.",
+      "🕹️ <b>CORE_LOGIC:</b> Variable-speed fan controller responds to internal temperature sensors to maintain 72°F core stability.",
+      "💬 <b>OPERATOR_INTEL:</b> 'I can work in a 110-degree desert and feel like I'm in an air-conditioned office. Mandatory gear for summer ops.'"
     ]
   }
 ]

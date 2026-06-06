@@ -5,5 +5,12 @@
     "buyer": "VIRTUAL_WHALE_01",
     "sale_price": 185.00,
     "status": "COMPLETED"
+  },
+  {
+    "timestamp": "2026-06-06T14:00:00Z",
+    "type": "EXECUTIVE_FINANCIAL_SUMMARY",
+    "total_revenue": 33585.00,
+    "entry_fee_set": 5.00,
+    "status": "OPERATIONAL"
   }
 ]
