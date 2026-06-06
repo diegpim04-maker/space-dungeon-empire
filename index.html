@@ -5,179 +5,173 @@
     <title>SPACE_DUNGEON_COLLECTION // PHYSICAL_&_DIGITAL</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&family=Roboto+Mono:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <style>
         :root { 
             --neon-green: #00ff9d; 
             --neon-purple: #9d00ff; 
-            --deep-bg: #010102; 
-            --text-main: #f0f0f0;
-            --text-dim: #777;
-            --border: #1a1a1c;
+            --deep-bg: #000000; 
+            --text-main: #ffffff;
+            --text-dim: #666666;
+            --border: #111111;
         }
 
         * { box-sizing: border-box; }
         body { 
             background: var(--deep-bg); 
             color: var(--text-main); 
-            font-family: 'Inter', sans-serif; 
+            font-family: 'Outfit', sans-serif; 
             margin: 0; 
             padding: 0; 
             overflow-x: hidden; 
-            line-height: 1.5;
+            line-height: 1.4;
             -webkit-font-smoothing: antialiased;
         }
 
-        /* TYPOGRAPHY */
+        /* PREMIUM TYPOGRAPHY */
         h1, h2, h3, h4, .mono { 
-            font-family: 'Roboto Mono', monospace; 
+            font-family: 'Space Mono', monospace; 
             text-transform: uppercase;
-            letter-spacing: 0.15em;
+            letter-spacing: 0.2em;
         }
 
-        .hero { height: 50vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; background-image: radial-gradient(circle at center, #0a0a15 0%, transparent 70%); }
+        .hero { height: 60vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; border-bottom: 1px solid var(--border); }
         .hero h1 { 
-            font-size: 4rem; 
-            font-weight: 700;
-            letter-spacing: 0.3em; 
+            font-size: 5rem; 
+            font-weight: 800;
+            letter-spacing: 0.4em; 
             color: #fff;
             margin: 0;
-            text-shadow: 0 0 20px rgba(157,0,255,0.2);
+            line-height: 1;
         }
-        .hero p { font-family: 'Roboto Mono', monospace; font-size: 0.7rem; color: var(--neon-purple); letter-spacing: 0.6em; margin-top: 15px; opacity: 0.8; }
+        .hero p { font-family: 'Space Mono', monospace; font-size: 0.65rem; color: #444; letter-spacing: 0.8em; margin-top: 25px; font-style: italic; }
 
-        .nav-links { margin-top: 40px; display: flex; gap: 20px; }
         .btn-outline { 
-            color: var(--text-dim); 
-            font-family: 'Roboto Mono', monospace; 
+            color: #555; 
+            font-family: 'Space Mono', monospace; 
             text-decoration: none; 
-            border: 1px solid var(--border); 
-            padding: 10px 30px; 
-            font-size: 11px; 
-            transition: 0.3s;
-            letter-spacing: 2px;
+            border: 1px solid #222; 
+            padding: 12px 35px; 
+            font-size: 10px; 
+            transition: 0.4s;
+            letter-spacing: 3px;
         }
-        .btn-outline:hover { color: var(--neon-green); border-color: var(--neon-green); }
+        .btn-outline:hover { color: #fff; border-color: #fff; background: #fff; color: #000; }
 
-        .container { max-width: 1300px; margin: 0 auto; padding: 60px 40px; }
+        .container { max-width: 1400px; margin: 0 auto; padding: 100px 60px; }
         .section-title { 
-            font-size: 0.8rem; 
-            color: var(--text-dim); 
+            font-size: 0.7rem; 
+            color: #333; 
             border-left: 2px solid var(--neon-green); 
-            padding-left: 20px; 
-            margin: 100px 0 40px 0; 
-            letter-spacing: 4px;
+            padding-left: 30px; 
+            margin: 120px 0 50px 0; 
+            letter-spacing: 6px;
+            font-family: 'Space Mono', monospace;
         }
 
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 50px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 80px; }
         
         .card { 
-            background: #050507; 
+            background: transparent; 
             padding: 0; 
-            transition: 0.4s cubic-bezier(0.2, 1, 0.3, 1); 
+            transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1); 
             position: relative; 
             cursor: pointer; 
-            border: 1px solid var(--border);
         }
-        .card:hover { transform: translateY(-10px); border-color: #333; box-shadow: 0 20px 40px rgba(0,0,0,0.8); }
+        .card:hover { transform: translateY(-15px); }
         
-        .img-box { width: 100%; height: 350px; background: #000; overflow: hidden; position: relative; }
-        .img-box img { width: 100%; height: 100%; object-fit: cover; opacity: 0.85; transition: transform 0.8s cubic-bezier(0.2, 1, 0.3, 1); }
-        .card:hover .img-box img { transform: scale(1.1); opacity: 1; }
+        .img-box { width: 100%; height: 450px; background: #050505; overflow: hidden; position: relative; border: 1px solid #111; }
+        .img-box img { width: 100%; height: 100%; object-fit: cover; opacity: 0.7; transition: 0.8s cubic-bezier(0.19, 1, 0.22, 1); }
+        .card:hover .img-box img { transform: scale(1.1); opacity: 1; filter: grayscale(0); }
 
-        .card-info { padding: 30px; }
-        .card-name { font-size: 14px; font-weight: 500; color: #fff; margin-bottom: 5px; letter-spacing: 1px; }
-        .price { font-family: 'Roboto Mono', monospace; font-size: 1.2rem; color: var(--neon-green); font-weight: 400; margin-top: 15px; }
+        .card-info { padding: 40px 0; }
+        .card-name { font-size: 16px; font-weight: 600; color: #fff; margin-bottom: 8px; letter-spacing: 2px; }
+        .price { font-family: 'Space Mono', monospace; font-size: 1.1rem; color: #555; font-weight: 400; }
 
         /* MODAL STYLES */
-        .modal { display: none; position: fixed; z-index: 3000; left: 0; top: 0; width: 100%; height: 100%; background: #000; overflow-y: auto; }
-        .modal-content { max-width: 1200px; margin: 0 auto; padding: 80px 40px; }
-        .close-modal { position: fixed; right: 40px; top: 40px; color: #fff; font-size: 40px; cursor: pointer; opacity: 0.3; transition: 0.3s; z-index: 4000; }
-        .close-modal:hover { opacity: 1; transform: rotate(90deg); }
+        .modal { display: none; position: fixed; z-index: 5000; left: 0; top: 0; width: 100%; height: 100%; background: #000; overflow-y: auto; }
+        .modal-content { max-width: 1300px; margin: 0 auto; padding: 120px 60px; }
+        .close-modal { position: fixed; right: 60px; top: 60px; color: #fff; font-size: 30px; cursor: pointer; opacity: 0.2; transition: 0.4s; z-index: 6000; }
+        .close-modal:hover { opacity: 1; transform: rotate(180deg); }
         
-        .modal-grid { display: grid; grid-template-columns: 1.3fr 1fr; gap: 80px; }
-        @media (max-width: 1000px) { .modal-grid { grid-template-columns: 1fr; } }
+        .modal-grid { display: grid; grid-template-columns: 1.5fr 1fr; gap: 120px; }
+        @media (max-width: 1100px) { .modal-grid { grid-template-columns: 1fr; gap: 80px; } }
 
-        .modal-img-container { width: 100%; aspect-ratio: 1; background: #050507; border: 1px solid var(--border); overflow: hidden; position: relative; cursor: grab; display: flex; align-items: center; justify-content: center; }
-        .modal-img-container { width: 100%; position: relative; border: 1px solid #111; height: 500px; background: #000; overflow: hidden; display: flex; flex-direction: column; cursor: grab; align-items: center; justify-content: center; }
-        .modal-main-img { width: 90%; height: 80%; object-fit: contain; transition: transform 0.1s linear; pointer-events: none; }
-        .thumbnail-row { display: flex; gap: 15px; padding: 20px; background: #000; justify-content: center; min-height: 100px; flex-wrap: wrap; border-top: 1px solid #111; }
-        .thumb { width: 70px; height: 70px; border: 1px solid #222; cursor: pointer; opacity: 0.3; transition: 0.3s; object-fit: cover; border-radius: 2px; }
-        .thumb:hover, .thumb.active { opacity: 1; border-color: var(--neon-green); transform: scale(1.05); }
+        .modal-img-container { width: 100%; height: 600px; background: #050505; border: 1px solid #111; overflow: hidden; position: relative; cursor: grab; display: flex; align-items: center; justify-content: center; }
+        .modal-main-img { width: 85%; height: 85%; object-fit: contain; transition: transform 0.1s linear; pointer-events: none; }
+        
+        .thumbnail-row { display: flex; gap: 20px; margin-top: 30px; justify-content: flex-start; }
+        .thumb { width: 100px; height: 100px; border: 1px solid #111; cursor: pointer; opacity: 0.2; transition: 0.4s; object-fit: cover; grayscale(100%); }
+        .thumb:hover, .thumb.active { opacity: 1; border-color: #fff; grayscale(0%); }
 
-        .modal-title { font-size: 3.5rem; font-weight: 700; color: #fff; margin: 0 0 15px 0; line-height: 1.1; letter-spacing: -1px; }
-        .modal-desc { font-size: 1.1rem; color: var(--text-dim); line-height: 1.8; margin-bottom: 40px; font-weight: 400; }
-
-        .specs-list { list-style: none; padding: 0; margin: 40px 0; }
-        .specs-list li { margin-bottom: 15px; padding-bottom: 12px; border-bottom: 1px solid var(--border); font-size: 13px; color: #ccc; display: flex; justify-content: space-between; }
-        .specs-list li b { color: var(--neon-green); font-family: 'Roboto Mono', monospace; font-size: 10px; text-transform: uppercase; }
+        .modal-title { font-size: 4.5rem; font-weight: 800; color: #fff; margin: 0 0 30px 0; line-height: 0.9; letter-spacing: -2px; }
+        .modal-desc { font-size: 1rem; color: #666; line-height: 2; margin-bottom: 60px; font-weight: 400; text-transform: lowercase; }
+        
+        .specs-list { list-style: none; padding: 0; margin: 60px 0; border-top: 1px solid #111; }
+        .specs-list li { padding: 20px 0; border-bottom: 1px solid #111; font-size: 12px; color: #999; display: flex; justify-content: space-between; font-family: 'Space Mono'; }
+        .specs-list li b { color: #fff; font-size: 10px; }
 
         .buy-now-btn { 
             background: #fff; 
             color: #000; 
             border: none; 
-            padding: 25px 40px; 
-            font-family: 'Roboto Mono', monospace; 
+            padding: 30px 50px; 
+            font-family: 'Space Mono', monospace; 
             font-weight: 700; 
-            font-size: 1.2rem; 
+            font-size: 1.1rem; 
             width: 100%; 
             display: block; 
             text-align: center; 
             text-decoration: none;
-            transition: 0.3s cubic-bezier(0.2, 1, 0.3, 1);
-            letter-spacing: 3px;
+            transition: 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+            letter-spacing: 5px;
         }
-        .buy-now-btn:hover { background: var(--neon-green); transform: scale(1.02); box-shadow: 0 10px 40px rgba(0, 255, 157, 0.2); }
+        .buy-now-btn:hover { background: var(--neon-green); letter-spacing: 8px; }
 
-        .footer { text-align: center; padding: 100px 40px; font-size: 12px; color: #333; font-family: 'Roboto Mono', monospace; border-top: 1px solid var(--border); margin-top: 120px; letter-spacing: 4px;}
+        .footer { text-align: center; padding: 150px 60px; font-size: 10px; color: #222; font-family: 'Space Mono', monospace; border-top: 1px solid #111; margin-top: 150px; letter-spacing: 5px;}
     </style>
 </head>
 <body>
     <div class="hero">
         <h1>SPACE_DUNGEON</h1>
-        <p>HI-FIDELITY_GEAR_FOR_THE_FLIGHT_DECK</p>
-        <div class="nav-links">
-            <a href="tracking.html" class="btn-outline">[SHIPMENT_TRACKER]</a>
-            <a href="support.html" class="btn-outline">[ imperial_protocol ]</a>
+        <p>HI-FIDELITY AUTOMATED EXTRACTION GEAR</p>
+        <div style="margin-top: 60px; display: flex; gap: 30px;">
+            <a href="tracking.html" class="btn-outline">LOGISTICS</a>
+            <a href="support.html" class="btn-outline">SUPPORT</a>
         </div>
     </div>
 
     <div class="container">
-        <div class="section-title">PHYSICAL_ACQUISITIONS</div>
+        <div class="section-title">01 / PHYSICAL_UNITS</div>
         <div class="grid" id="physical-grid"></div>
 
-        <div class="section-title">DIGITAL_BLUEPRINTS</div>
+        <div class="section-title">02 / CORE_BLUEPRINTS</div>
         <div class="grid" id="digital-grid"></div>
     </div>
 
     <div id="productModal" class="modal">
         <div class="modal-content">
-            <span class="close-modal" onclick="closeModal()">&times;</span>
+            <span class="close-modal" onclick="closeModal()">CLOSE</span>
             <div class="modal-grid">
                 <div>
                     <div class="modal-img-container" id="interactionZone">
                         <img id="modal-img" src="" class="modal-main-img">
                     </div>
                     <div id="thumbnail-row" class="thumbnail-row"></div>
-                    <p style="font-size: 9px; color: #444; text-align: center; margin-top: 30px; font-family: 'Roboto Mono'; letter-spacing: 3px;">DRAG TO ROTATE // OS v2.6</p>
+                    <p style="font-size: 9px; color: #222; text-align: left; margin-top: 40px; font-family: 'Space Mono'; letter-spacing: 4px;">// TACTICAL VISUAL OVERRIDE: ACTIVE</p>
                 </div>
                 <div>
-                    <h2 id="modal-title" class="modal-title">ITEM_NAME</h2>
+                    <h2 id="modal-title" class="modal-title">ITEM</h2>
                     <p id="modal-desc" class="modal-desc"></p>
                     <ul id="modal-specs" class="specs-list"></ul>
-                    <div id="modal-price" style="font-size:3.5rem; color: #fff; font-weight: 700; font-family: 'Roboto Mono'; margin-bottom: 40px;">$0.00</div>
-                    <a id="modal-buy-btn" href="#" class="buy-now-btn" onclick="initiatePurchase(event)">BUY_NOW_ACQUIRE</a>
-                    
-                    <div style="margin-top: 80px; opacity: 0.5;">
-                        <h4 style="font-size: 11px; margin-bottom: 15px;">imperial fulfillment fleet</h4>
-                        <p style="font-size: 11px; line-height: 1.8;">Active tracking link generated post-authorization. Global logistics handled by the Dungeon Extraction Fleet.</p>
-                    </div>
+                    <div id="modal-price" style="font-size:4.5rem; color: #fff; font-weight: 800; font-family: 'Space Mono'; margin-bottom: 60px; letter-spacing: -4px;">$0.00</div>
+                    <a id="modal-buy-btn" href="#" class="buy-now-btn" onclick="initiatePurchase(event)">ACQUIRE_UNIT</a>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="footer">SD_EMPIRE // CORE_OS // REF:DIEGP04.MAKER.2026</div>
+    <div class="footer">DIEGP04.MAKER // CORE_OS // 2026</div>
 
     <script>
         let isDragging = false;
@@ -191,8 +185,8 @@
             if (!isDragging) return;
             const deltaX = e.clientX - startX;
             startX = e.clientX;
-            currentRotation += deltaX * 0.5;
-            mainImg.style.transform = `perspective(1000px) rotateY(${currentRotation}deg)`;
+            currentRotation += deltaX * 0.4;
+            mainImg.style.transform = `perspective(2000px) rotateY(${currentRotation}deg)`;
         });
         window.addEventListener('mouseup', () => { isDragging = false; });
 
@@ -201,7 +195,7 @@
             document.querySelectorAll('.thumb').forEach(t => t.classList.remove('active'));
             el.classList.add('active');
             currentRotation = 0;
-            mainImg.style.transform = `perspective(1000px) rotateY(0deg)`;
+            mainImg.style.transform = `perspective(2000px) rotateY(0deg)`;
         }
 
         function openModal(id) {
