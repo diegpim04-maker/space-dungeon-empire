@@ -255,14 +255,18 @@
       "💬 <b>USER_INTEL:</b> Elite-tier build quality. This is the last tool I'll ever need for field ops."
     ]
   },
-  {
-    "id": "21",
-    "name": "BIO_FILTER_MASK",
-    "price": "65.00",
-    "status": "BEST_SELLER",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1da9/Cib-i5bVw7Mb9Xh7t1df9_kRWSWhhD.png",
-    "desc": "Advanced urban survival mask with dual-ventilation ports and replaceable PM2.5 filters to ensure clinical purity in any environment.",
+    {
+        "id": "21",
+        "name": "BIO_FILTER_MASK",
+        "price": "65.00",
+        "status": "BEST_SELLER",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1da9/Cib-i5bVw7Mb9Xh7t1df9_kRWSWhhD.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a44/7CkWD6fAa0UMTbVzEPW2t_siG1Kro3.png",
+            "https://v3b.fal.media/files/b/0a9d2a40/zOUDqbGIaqjVgR1WpMncE_u2HeqJM2.png"
+        ],
+        "desc": "Advanced urban survival mask with dual-ventilation ports and replaceable PM2.5 filters to ensure clinical purity in any environment.",
     "supplier": "USAdrop",
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
@@ -591,14 +595,18 @@
       "💬 <b>USER_INTEL:</b> I can feel the quality in every squeeze. The HUD helps me track my progress daily."
     ]
   },
-  {
-    "id": "39",
-    "name": "KINETIC_JUMP_ROPE",
-    "price": "35.00",
-    "status": "TRENDING",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1dcf/1xv_ZCIgVgQ1CnB3KrBwF_aejXu7vT.png",
-    "desc": "Weighted exercise cable featuring high-visibility neon fiber-optics and ball-bearing handles for extreme-intensity cardiovascular work.",
+    {
+        "id": "39",
+        "name": "KINETIC_JUMP_ROPE",
+        "price": "35.00",
+        "status": "TRENDING",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1dcf/1xv_ZCIgVgQ1CnB3KrBwF_aejXu7vT.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a41/wB_vIuLMpIG2uFBDqdy0j_lAAQh8ue.png",
+            "https://v3b.fal.media/files/b/0a9d2a41/_ZL2RYAxf0y6GVPZPZsQG_qS9DncDV.png"
+        ],
+        "desc": "Weighted exercise cable featuring high-visibility neon fiber-optics and ball-bearing handles for extreme-intensity cardiovascular work.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
@@ -611,14 +619,18 @@
       "💬 <b>USER_INTEL:</b> The weight distribution is perfect. The neon handle glow looks sick in low-light gym runs."
     ]
   },
-  {
-    "id": "40",
-    "name": "BIO_SYNC_STRAP",
-    "price": "65.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1dcf/PhZxOTyadGzrFYb2uiR7P_unSUeS7X.png",
-    "desc": "Electrodermal activity and heart-rate sensor worn on the bicep, broadcasting your real-time bio-data to your setup over Bluetooth 5.2.",
+    {
+        "id": "40",
+        "name": "BIO_SYNC_STRAP",
+        "price": "65.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1dcf/PhZxOTyadGzrFYb2uiR7P_unSUeS7X.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a46/jiIulDZdNX8c5YSe64gbz_eRX8SRrv.png",
+            "https://v3b.fal.media/files/b/0a9d2a42/pgvgdoSjDgQTdorGEgYAJ_6HBL67ot.png"
+        ],
+        "desc": "Electrodermal activity and heart-rate sensor worn on the bicep, broadcasting your real-time bio-data to your setup over Bluetooth 5.2.",
     "supplier": "USAdrop",
     "supplier_cost": "$17.50",
     "fulfillment_id": "PENDING_SKU",
@@ -631,14 +643,18 @@
       "💬 <b>USER_INTEL:</b> Low-profile and stays in place during truck ops. The pulse tracking is instantaneous."
     ]
   },
-  {
-    "id": "41",
-    "name": "GRID_MECH_KEYBOARD",
-    "price": "150.00",
-    "status": "ELITE_BUILD",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1dd5/qbJ3XZ6IK7yDt_djrwS27_KsY3A7ne.png",
-    "desc": "Mechanical command unit with hot-swappable switches and a forged carbon-fiber chassis, featuring localized RGB backlighting under each key.",
+    {
+        "id": "41",
+        "name": "GRID_MECH_KEYBOARD",
+        "price": "150.00",
+        "status": "ELITE_BUILD",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1dd5/qbJ3XZ6IK7yDt_djrwS27_KsY3A7ne.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a3e/O3Xi-xWWIU3h5bZxd2ZmL_JEj9HjvG.png",
+            "https://v3b.fal.media/files/b/0a9d2a3f/HGjzguspuYgmopvgAKp4X_RSMXitYF.png"
+        ],
+        "desc": "Mechanical command unit with hot-swappable switches and a forged carbon-fiber chassis, featuring localized RGB backlighting under each key.",
     "supplier": "HyperSKU",
     "supplier_cost": "$64.00",
     "fulfillment_id": "PENDING_SKU",
@@ -771,14 +787,18 @@
       "💬 <b>USER_INTEL:</b> People think it's CGI. It sits on my desk and floats silently. The most impressive item I own."
     ]
   },
-  {
-    "id": "48",
-    "name": "SYSTEM_MASTER_KEY",
-    "price": "35.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1ee0/fUqNR4fFtLPglBlS3PkuP_BlitUQd8.png",
-    "desc": "A CNC-machined titanium card tool featuring 24 critical system access and adjustment tools, designed to sit invisibly in any standard wallet.",
+    {
+        "id": "48",
+        "name": "SYSTEM_MASTER_KEY",
+        "price": "35.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1ee0/fUqNR4fFtLPglBlS3PkuP_BlitUQd8.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a47/SIenIU-vojkC1U_bd_SRJ_QfsVZ4Lh.png",
+            "https://v3b.fal.media/files/b/0a9d2a43/IeBKgdgXJocDaGrEyOrzy_RP6YOiVW.png"
+        ],
+        "desc": "A CNC-machined titanium card tool featuring 24 critical system access and adjustment tools, designed to sit invisibly in any standard wallet.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
