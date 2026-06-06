@@ -11,8 +11,8 @@
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Pair High-Dexterity Operator Gloves, 1x Microfiber cleaning cloth, 1x Security clip-lock.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Full touch-screen compatibility on all ten fingers. Reinforced palms for heavy-duty lifting or high-speed driving.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Pair Operator Gloves, 1x Tactical Carabiner, 1x Microfiber Polishing Cloth.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> No power required. Integrated conductive pads for seamless touch-screen interaction.",
       "\ud83d\udcac <b>USER_INTEL:</b> Finally gloves that actually work with my phone. I can type full messages without taking them off."
     ]
   },
@@ -28,8 +28,8 @@
     "supplier_cost": "$12.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Titanium Hydration Cell, 1x UV-Sterilization Smart Cap, 1x USB-C Charging Cable, 1x Heavy-Duty Carry Strap.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Double-tap the top cap to activate UV-C mode which kills bacteria in 60s. Vacuum sealed to keep ice frozen for up to 24 hours.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x HYDRATION_CELL, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> I stopped buying plastic bottles entirely. The purple light when it cleans the water looks like something out of a sci-fi movie."
     ]
   },
@@ -45,8 +45,8 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE OPERATOR_SLIDES, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE OPERATOR_SLIDES, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -62,8 +62,8 @@
     "supplier_cost": "$9.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Aerospace Carbon Fiber Wallet, 1x Tactical Money Clip, 1x Mini-Tool for screw adjustment.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Holds up to 12 cards wirelessly protected via RFID signal scrambling. Use the thumb cutout to fan out cards instantly.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
       "\ud83d\udcac <b>USER_INTEL:</b> Ridiculously slim. I forgot it was in my pocket. The signal blocking actually works\u2014tested it at a terminal and it was dead silent."
     ]
   },
@@ -79,8 +79,8 @@
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Holographic LED Luminary, 1x Remote Control Terminal, 1x Power Adapter, 1x 3D Space Dungeon Decal.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Fully customizable via Remote or Bluetooth App. Includes 16 million colors and active 3D Grid projection modes.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Holographic LED Luminary, 1x High-Voltage Power Adapter, 1x Remote Control (CR2032 Battery Included).",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Plugs into standard wall outlet. Control colors and grid patterns via remote or mobile app.",
       "\ud83d\udcac <b>USER_INTEL:</b> Transforms my entire room into a high-fidelity dungeon. The purple grid effect on the walls is incredible."
     ]
   },
@@ -96,8 +96,8 @@
     "supplier_cost": "$4.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE NEON_GRIP_TAPE, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE NEON_GRIP_TAPE, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -113,8 +113,8 @@
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Tactical Hardshell Case, 1x Tempered Glass Screen Guard, 1x Microfiber Polishing Shield.",
-      "\ud83d\udee1\ufe0f <b>ARMOR_LOGIC:</b> Dual-layer impact protection with raised bezel for lens security. Precision cutouts for all ports and wireless charging compatible.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE DUNGEON_CASE, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Finally a case that doesn't feel like cheap plastic. The grip is insane and the neon purple accents actually glow under UV."
     ]
   },
@@ -130,8 +130,8 @@
     "supplier_cost": "$42.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Hardshell Tactical Pack, 1x Internal Tech-Organizer, 2x External Carabiner Hooks, 1x Integrated Rain Guard.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Features a hidden USB pass-through port to charge your devices while moving. Waterproof hardshell protects up to 17-inch laptops.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE OPERATOR_PACK, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> I took this through a storm and my laptop stayed bone dry. People stop me in the street to ask where I got this."
     ]
   },
@@ -147,8 +147,8 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE NEON_DESK_MAT, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE NEON_DESK_MAT, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -164,8 +164,8 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_PLUG_ADAPTER, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_PLUG_ADAPTER, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -181,8 +181,8 @@
     "supplier_cost": "$6.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TITANIUM_SPORK_TAC, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TITANIUM_SPORK_TAC, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -198,8 +198,8 @@
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIO_FILTER_MASK, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIO_FILTER_MASK, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -215,8 +215,8 @@
     "supplier_cost": "$29.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x KINETIC_POWER_BANK, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x KINETIC_POWER_BANK, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -232,8 +232,8 @@
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x NEURAL_REST_MASK, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x NEURAL_REST_MASK, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -249,8 +249,8 @@
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x OPERATOR_POUCH, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x OPERATOR_POUCH, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -266,8 +266,8 @@
     "supplier_cost": "$17.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Titanium Hydration Cell, 1x UV-Sterilization Smart Cap, 1x USB-C Charging Cable, 1x Heavy-Duty Carry Strap.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Double-tap the top cap to activate UV-C mode which kills bacteria in 60s. Vacuum sealed to keep ice frozen for up to 24 hours.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x HYDRATION_JUG_ARMOR, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> I stopped buying plastic bottles entirely. The purple light when it cleans the water looks like something out of a sci-fi movie."
     ]
   },
@@ -283,8 +283,8 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Turbo-Cool Turbine, 1x Industrial Belt Clip, 1x USB-C Tactical Charger, 1x Neck Lanyard (for dual-use).",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> 10,000 RPM Brushless Motor. 3 Speed settings. 12-hour battery life. Acts as a 5000mAh Power Bank to charge your devices via USB-C.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Turbo-Cool Turbine, 1x Extra-Strength Belt Clip, 1x 5000mAh Battery (Installed), 1x High-Speed USB-C Charging Cable.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Clips to waist or neck via lanyard. Power on via side toggle. Acts as an emergency power bank.",
       "\ud83d\udcac <b>USER_INTEL:</b> Mandatory gear for summer nomad ops. The high-velocity airflow under the shirt is a game changer. Industrial build quality."
     ]
   },
@@ -300,8 +300,8 @@
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Hardshell Tactical Pack, 1x Internal Tech-Organizer, 2x External Carabiner Hooks, 1x Integrated Rain Guard.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Features a hidden USB pass-through port to charge your devices while moving. Waterproof hardshell protects up to 17-inch laptops.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TACTICAL_TOTE_V3, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> I took this through a storm and my laptop stayed bone dry. People stop me in the street to ask where I got this."
     ]
   },
@@ -317,8 +317,8 @@
     "supplier_cost": "$26.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Neural Gesture Ring (Version 4), 1x Magnetic Rapid-Charge Dock, 1x USB-C Uplink Cable, 1x Calibration Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connects via <b>Bluetooth Low Energy (BLE)</b>. Uses a 6-axis IMU sensor to track hand position in 3D space. Map air-gestures to any PC/Mac keyboard command for cordless control.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Gesture Control Ring, 1x Magnetic inductive charging dock, 1x USB-C Power Cable, 1x Bluetooth dongle (for non-BT PCs).",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Place on dock to charge. Pair via Bluetooth to control gestures, scrolling, and volume.",
       "\ud83d\udcac <b>USER_INTEL:</b> Absolute wizardry. I have it mapped to my Roblox setup to scroll through truck upgrades with a flick of my wrist. Extremely responsive."
     ]
   },
@@ -334,8 +334,8 @@
     "supplier_cost": "$21.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_EYE_GLASSES, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -351,8 +351,8 @@
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x MAG_LOCK_KEYCHAIN, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -368,8 +368,8 @@
     "supplier_cost": "$50.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Tactical Wide-Angle Camera, 1x Magnetic Pivot Mount, 1x 10ft Braided Power Cable, 1x Security System Decal.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> High-fidelity 4K streaming via <b>Wi-Fi 6</b>. Features real-time AI movement detection and infrared Night-Vision. Link it directly to your smartphone dashboard.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
       "\ud83d\udcac <b>USER_INTEL:</b> The magnetic mount makes setup a breeze. I use it to guard my physical workspace and the night-vision clarity is scary-good."
     ]
   },
@@ -385,8 +385,8 @@
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x DOOR_LOCK_ENFORCER, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -402,8 +402,8 @@
     "supplier_cost": "$33.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SIGNAL_SCRAMBLER, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SIGNAL_SCRAMBLER, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -419,8 +419,8 @@
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Holographic LED Luminary, 1x Remote Control Terminal, 1x Power Adapter, 1x 3D Space Dungeon Decal.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Fully customizable via Remote or Bluetooth App. Includes 16 million colors and active 3D Grid projection modes.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Holographic LED Luminary, 1x High-Voltage Power Adapter, 1x Remote Control (CR2032 Battery Included).",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Plugs into standard wall outlet. Control colors and grid patterns via remote or mobile app.",
       "\ud83d\udcac <b>USER_INTEL:</b> Transforms my entire room into a high-fidelity dungeon. The purple grid effect on the walls is incredible."
     ]
   },
@@ -436,8 +436,8 @@
     "supplier_cost": "$72.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Heavy-Duty Recovery Gun, 5x Specialized Massage Heads, 1x Charging Dock, 1x Portable Carbon Fiber Carry Case.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Wireless operation with 6-hour battery life. Features a Smart Pressure LCD HUD. Just pick a head, power on, and apply to muscle groups for deep-tissue relief.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Recovery Gun, 5x Head attachments, 1x Dedicated Wall Charger, 1x Internal Rechargeable Battery, 1x Heavy-Duty Case.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Battery powered. Change heads for different muscle groups. Power level toggle on the rear LCD.",
       "\ud83d\udcac <b>USER_INTEL:</b> This is a lifesaver after a long day at the desk. It hits harder than the commercial ones and the carbon case looks insane."
     ]
   },
@@ -453,8 +453,8 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x NEURAL_GRIP_STRENGTH, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x NEURAL_GRIP_STRENGTH, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -470,8 +470,8 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x KINETIC_JUMP_ROPE, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x KINETIC_JUMP_ROPE, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -487,8 +487,8 @@
     "supplier_cost": "$17.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIO_SYNC_STRAP, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIO_SYNC_STRAP, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -504,8 +504,8 @@
     "supplier_cost": "$64.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Ultra-Slim Carbon Keyboard, 1x Wireless High-Precision Mouse, 1x Braided USB-C Fast Charger, 1x Premium Wrist Rest, 2x Spare Mechanical Switches.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Fully Wireless via 2.4GHz USB Dongle or Bluetooth 5.0. Connects to 3 devices simultaneously with instant-switch toggles. Mouse features 12,000 DPI tracking.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Grid Mechanical Keyboard, 1x Wireless 2.4GHz USB Dongle, 1x Braided USB-C Charging Cable, 1x Keycap Puller, 1x Precision Mouse.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect via Bluetooth 5.0 or use the included USB Dongle for zero-latency gaming. Rechargeable via USB-C.",
       "\ud83d\udcac <b>USER_INTEL:</b> The click-clack sound is addictive. Being able to switch from my PC to my tablet with one button makes this the ultimate mobile command station."
     ]
   },
@@ -521,8 +521,8 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TACTICAL_CAR_MOUNT, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>ARMOR_SPECS:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Precision Snap-On Integration.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TACTICAL_CAR_MOUNT, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -538,8 +538,8 @@
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Tactical Hardshell Case, 1x Tempered Glass Screen Guard, 1x Microfiber Polishing Shield.",
-      "\ud83d\udee1\ufe0f <b>ARMOR_LOGIC:</b> Dual-layer impact protection with raised bezel for lens security. Precision cutouts for all ports and wireless charging compatible.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x DUNGEON_SSD_CASE, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Finally a case that doesn't feel like cheap plastic. The grip is insane and the neon purple accents actually glow under UV."
     ]
   },
@@ -555,8 +555,8 @@
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIOMETRIC_PADLOCK, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Connect to Wi-Fi via the Space Dungeon app. Mount using included magnetic hardware.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -572,8 +572,8 @@
     "supplier_cost": "$12.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_HEADPHONE_STAND, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_HEADPHONE_STAND, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -589,8 +589,8 @@
     "supplier_cost": "$72.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Tactical Hardshell Case, 1x Tempered Glass Screen Guard, 1x Microfiber Polishing Shield.",
-      "\ud83d\udee1\ufe0f <b>ARMOR_LOGIC:</b> Dual-layer impact protection with raised bezel for lens security. Precision cutouts for all ports and wireless charging compatible.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x DUNGEON_CASE_ULTRA, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Finally a case that doesn't feel like cheap plastic. The grip is insane and the neon purple accents actually glow under UV."
     ]
   },
@@ -606,8 +606,8 @@
     "supplier_cost": "$100.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Holographic LED Luminary, 1x Remote Control Terminal, 1x Power Adapter, 1x 3D Space Dungeon Decal.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Fully customizable via Remote or Bluetooth App. Includes 16 million colors and active 3D Grid projection modes.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Holographic LED Luminary, 1x High-Voltage Power Adapter, 1x Remote Control (CR2032 Battery Included).",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Plugs into standard wall outlet. Control colors and grid patterns via remote or mobile app.",
       "\ud83d\udcac <b>USER_INTEL:</b> Transforms my entire room into a high-fidelity dungeon. The purple grid effect on the walls is incredible."
     ]
   },
@@ -623,8 +623,8 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_MASTER_KEY, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_MASTER_KEY, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -640,8 +640,8 @@
     "supplier_cost": "$140.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x GLOBAL_SIGNAL_BOOST, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x GLOBAL_SIGNAL_BOOST, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -657,8 +657,8 @@
     "supplier_cost": "$42.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x IMPERIAL_DESK_MAT, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x IMPERIAL_DESK_MAT, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -708,8 +708,8 @@
     "supplier_cost": "$6.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Hardshell Tactical Pack, 1x Internal Tech-Organizer, 2x External Carabiner Hooks, 1x Integrated Rain Guard.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Features a hidden USB pass-through port to charge your devices while moving. Waterproof hardshell protects up to 17-inch laptops.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE_OPERATOR_PACK, 1x Necessary Power/Sync cables, 1x Authentication ID, 1x Setup Manual.",
+      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Check manual for sector-specific initialization protocols.",
       "\ud83d\udcac <b>USER_INTEL:</b> I took this through a storm and my laptop stayed bone dry. People stop me in the street to ask where I got this."
     ]
   },
