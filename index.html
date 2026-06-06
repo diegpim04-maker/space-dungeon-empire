@@ -13,9 +13,9 @@
         .close-modal { position: absolute; right: 20px; top: 10px; color: var(--neon-green); font-size: 30px; cursor: pointer; }
         .modal-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; }
         .modal-img-container { width: 100%; position: relative; border: 1px solid #333; height: 400px; background: #000; overflow: hidden; display: flex; flex-direction: column; }
-        .modal-main-img { width: 100%; height: 320px; object-fit: contain; border-bottom: 1px solid #222; }
-        .thumbnail-row { display: flex; gap: 10px; padding: 10px; background: #050505; justify-content: center; }
-        .thumb { width: 60px; height: 60px; border: 1px solid #333; cursor: pointer; opacity: 0.5; transition: 0.3s; }
+        .modal-main-img { width: 100%; height: 320px; object-fit: contain; border-bottom: 1px solid #222; background: #050505; }
+        .thumbnail-row { display: flex; gap: 10px; padding: 10px; background: #000; justify-content: center; }
+        .thumb { width: 60px; height: 60px; border: 1px solid #333; cursor: pointer; opacity: 0.5; transition: 0.3s; object-fit: cover; }
         .thumb:hover, .thumb.active { opacity: 1; border-color: var(--neon-green); }
 
         .specs-list { list-style: none; padding: 0; font-size: 13px; opacity: 0.8; }
@@ -27,12 +27,12 @@
         .container { max-width: 1100px; margin: 40px auto; padding: 20px; }
         .section-title { font-size: 1.5rem; color: var(--neon-purple); border-left: 5px solid var(--neon-green); padding-left: 15px; margin: 60px 0 30px 0; letter-spacing: 5px; text-transform: uppercase;}
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 30px; }
-        .card { border: 1px solid rgba(157,0,255,0.3); background: rgba(255,255,255,0.02); padding: 20px; transition: 0.3s; position: relative; }
+        .card { border: 1px solid rgba(157,0,255,0.3); background: rgba(255,255,255,0.02); padding: 20px; transition: 0.3s; position: relative; cursor: pointer; }
         .card:hover { border-color: var(--neon-green); transform: translateY(-5px); box-shadow: 0 0 20px rgba(0,255,157,0.1); }
         .img-box { width: 100%; height: 250px; background: #000; margin-bottom: 15px; border: 1px solid #222; overflow: hidden; }
         .img-box img { width: 100%; height: 100%; object-fit: cover; }
         .price { font-size: 1.5rem; color: #fff; margin: 15px 0; }
-        .buy-btn { background: var(--neon-green); color: #000; padding: 12px; text-decoration: none; display: block; text-align: center; font-weight: bold; clip-path: polygon(10% 0, 100% 0, 90% 100%, 0 100%); cursor: pointer; }
+        .buy-btn { background: var(--neon-green); color: #000; padding: 12px; text-decoration: none; display: block; text-align: center; font-weight: bold; clip-path: polygon(10% 0, 100% 0, 90% 100%, 0 100%); }
         .footer { text-align: center; padding: 40px; font-size: 10px; opacity: 0.3; border-top: 1px solid #222; margin-top: 100px;}
     </style>
 </head>
@@ -66,12 +66,6 @@
     </div>
     <div class="footer">OPERATED BY SPACE_DUNGEON_OS // SECURE ACCESS ONLY</div>
 
-    <!-- LIVE_FOMO_TRANSMISSION -->
-    <div id="fomo-box" style="position: fixed; bottom: 20px; left: 20px; background: rgba(0,0,0,0.9); border: 1px solid var(--neon-purple); padding: 15px; display: none; z-index: 1000; box-shadow: 0 0 15px var(--neon-purple); font-size: 10px; width: 250px;">
-        <div style="color:var(--neon-green); font-weight:bold; margin-bottom:5px;">[SECURE_ACQUISITION_DETECTED]</div>
-        <div id="fomo-text" style="color:#fff;"></div>
-    </div>
-
     <!-- PRODUCT_DETAIL_MODAL -->
     <div id="productModal" class="modal">
         <div class="modal-content">
@@ -80,21 +74,17 @@
                 <div>
                     <div class="modal-img-container">
                         <img id="modal-img" src="" class="modal-main-img">
-                        <div id="thumbnail-row" class="thumbnail-row">
-                            <!-- INJECTED BY JS -->
-                        </div>
+                        <div id="thumbnail-row" class="thumbnail-row"></div>
                     </div>
                     <p style="font-size: 10px; color: var(--neon-purple); text-align: center; margin-top: 10px;">[MULTI_ANGLE_VISUAL_ARRAY] - SELECT TO INSPECT</p>
                 </div>
-
-                    <h2 id="modal-title" style="color:var(--neon-green); letter-spacing:5px;">ITEM_NAME</h2>
+                <div>
+                    <h2 id="modal-title" style="color:var(--neon-green); letter-spacing:5px; margin-top: 0;">ITEM_NAME</h2>
                     <p id="modal-desc" style="font-size:14px; opacity:0.8; margin-bottom:20px;"></p>
                     
                     <div style="background:#0a0a0d; padding:20px; border:1px solid #222;">
                         <h4 style="color:var(--neon-purple); margin-top:0;">DATA_SPECIFICATIONS</h4>
-                        <ul id="modal-specs" class="specs-list">
-                            <!-- INJECTED BY JS -->
-                        </ul>
+                        <ul id="modal-specs" class="specs-list"></ul>
                     </div>
 
                     <div id="modal-price" style="font-size:2rem; margin:20px 0;">$0.00</div>
@@ -112,32 +102,27 @@
         }
 
         function openModal(id) {
-
+            const p = window.allProducts.find(item => item.id === id);
             if(!p) return;
 
             document.getElementById('modal-title').innerText = p.name;
             document.getElementById('modal-desc').innerText = p.desc;
             document.getElementById('modal-price').innerText = p.price;
+            document.getElementById('modal-img').src = p.img;
             
-            const mainImg = document.getElementById('modal-img');
-            mainImg.src = p.img;
-            
-            // Build Angle Gallery
             const thumbRow = document.getElementById('thumbnail-row');
             const gallery = [p.img, ...(p.gallery || [])];
             thumbRow.innerHTML = gallery.map((src, i) => `
                 <img src="${src}" class="thumb ${i===0?'active':''}" onclick="changeAngle(this, '${src}')">
             `).join('');
 
-            // Build bullets
-
+            const specsList = document.getElementById('modal-specs');
             specsList.innerHTML = p.bullets.map(b => `<li>${b}</li>`).join('') + 
                 `<li><b>YIELD_TYPE:</b> ${p.yield}</li>` +
                 `<li><b>FULFILLMENT:</b> ZENDROP_AUTOMATED</li>`;
             
-            const store_url = "checkout.html";
             const buyBtn = document.getElementById('modal-buy-btn');
-            buyBtn.href = `${store_url}?item=${encodeURIComponent(p.name)}&price=${p.price.replace('$','')}&img=${encodeURIComponent(p.img)}&id=${p.id}`;
+            buyBtn.href = `checkout.html?item=${encodeURIComponent(p.name)}&price=${p.price.replace('$','')}&img=${encodeURIComponent(p.img)}&id=${p.id}`;
             
             document.getElementById('productModal').style.display = "block";
         }
