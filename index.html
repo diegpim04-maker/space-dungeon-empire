@@ -52,24 +52,11 @@
 
     <div class="container">
         <div class="section-title">PHYSICAL_LUXURY_GOODS</div>
-        <div class="grid" id="physical-grid">
-            <!-- INJECTED BY JS -->
-        </div>
-
+        <div class="grid" id="physical-grid"></div>
         <div class="section-title">DIGITAL_COMMAND_BLUEPRINTS</div>
-        <div class="grid" id="digital-grid">
-            <!-- INJECTED BY JS -->
-        </div>
+        <div class="grid" id="digital-grid"></div>
     </div>
 
-    <div style="background: rgba(157, 0, 255, 0.1); border-top: 2px solid var(--neon-purple); padding: 50px; text-align: center; margin-top: 100px;">
-        <h3 style="color: var(--neon-green); letter-spacing: 5px;">HAVE_A_TRACKING_ID?</h3>
-        <p style="opacity: 0.6; margin-bottom: 30px;">DECRYPT_YOUR_PACKAGE_LOCATION_IN_REAL_TIME</p>
-        <a href="tracking.html" style="background: var(--neon-purple); color: #fff; padding: 20px 50px; text-decoration: none; font-weight: bold; font-size: 1.5rem; clip-path: polygon(5% 0, 100% 0, 95% 100%, 0 100%); transition: 0.3s;">TRACK_YOUR_ORDER</a>
-    </div>
-    <div class="footer">OPERATED BY SPACE_DUNGEON_OS // SECURE ACCESS ONLY</div>
-
-    <!-- PRODUCT_DETAIL_MODAL -->
     <div id="productModal" class="modal">
         <div class="modal-content">
             <span class="close-modal" onclick="closeModal()">&times;</span>
@@ -84,23 +71,20 @@
                 <div>
                     <h2 id="modal-title" style="color:var(--neon-green); letter-spacing:5px; margin-top: 0;">ITEM_NAME</h2>
                     <p id="modal-desc" style="font-size:14px; opacity:0.8; margin-bottom:20px;"></p>
-                    
                     <div style="background:#0a0a0d; padding:20px; border:1px solid #222;">
-                        <h4 style="color:var(--neon-purple); margin-top:0;">DATA_SPECIFICATIONS</h4>
                         <ul id="modal-specs" class="specs-list"></ul>
                     </div>
-
-                    <div id="modal-price" style="font-size:2.5rem; margin:30px 0; color: #fff; font-weight: bold;">$0.00</div>
-                    <a id="modal-buy-btn" href="#" class="buy-btn" style="font-size: 1.2rem; padding: 20px;">AUTHORIZE_ACQUISITION</a>
-                    
+                    <div style="display: flex; gap: 20px; align-items: center; margin: 30px 0;">
+                        <div style="background: #111; border: 1px solid var(--neon-purple); padding: 10px; display: flex; align-items: center; gap: 15px;">
+                            <label style="font-size: 10px; color: var(--neon-green);">QTY:</label>
+                            <input type="number" id="modal-qty" value="1" min="1" max="99" style="background:transparent; border:none; color:#fff; width: 40px; font-family: monospace; outline: none;">
+                        </div>
+                        <div id="modal-price" style="font-size:2.5rem; color: #fff; font-weight: bold;">$0.00</div>
+                    </div>
+                    <a id="modal-buy-btn" href="#" class="buy-btn" style="font-size: 1.2rem; padding: 20px;" onclick="initiatePurchase(event)">BUY_NOW</a>
                     <div style="margin-top: 50px; border-top: 1px solid #222; padding-top: 30px;">
                         <h4 style="color: var(--neon-green); letter-spacing: 3px;">EXTRA_INTEL_REPORT</h4>
-                        <p style="font-size: 12px; opacity: 0.7; line-height: 1.6;">Each Space Dungeon acquisition is tracked via the Global Extraction Fleet. Shipments are processed within 24 hours of authorization. Digital blueprints are delivered immediately to your secure terminal. Material integrity is guaranteed for 12 months under the Imperial Support Protocol.</p>
-                        <ul style="font-size: 11px; color: var(--neon-purple); list-style: none; padding: 0;">
-                            <li>[+] REAL-TIME TELEMETRY ENABLED</li>
-                            <li>[+] ENCRYPTED FULFILLMENT PIPE</li>
-                            <li>[+] 24/7 COMMAND CHANNEL ACCESS</li>
-                        </ul>
+                        <p style="font-size: 12px; opacity: 0.7; line-height: 1.6;">Automated fulfillment active. Shipments tracked 24/7. Integrity guaranteed.</p>
                     </div>
                 </div>
             </div>
@@ -108,7 +92,6 @@
     </div>
 
     <script>
-        // 3D ROTATION LOGIC
         let isDragging = false;
         let startX = 0;
         let currentRotation = 0;
@@ -116,11 +99,7 @@
         const zone = document.getElementById('interactionZone');
         const mainImg = document.getElementById('modal-img');
 
-        zone.addEventListener('mousedown', (e) => {
-            isDragging = true;
-            startX = e.clientX;
-        });
-
+        zone.addEventListener('mousedown', (e) => { isDragging = true; startX = e.clientX; });
         window.addEventListener('mousemove', (e) => {
             if (!isDragging) return;
             const deltaX = e.clientX - startX;
@@ -128,7 +107,6 @@
             currentRotation += deltaX * 0.5;
             mainImg.style.transform = `scale(1.2) perspective(1000px) rotateY(${currentRotation}deg) rotateX(10deg)`;
         });
-
         window.addEventListener('mouseup', () => { isDragging = false; });
 
         function changeAngle(el, src) {
@@ -142,34 +120,29 @@
         function openModal(id) {
             const p = window.allProducts.find(item => item.id === id);
             if(!p) return;
+            window.activeProduct = p;
 
             document.getElementById('modal-title').innerText = p.name;
             document.getElementById('modal-desc').innerText = p.desc;
             document.getElementById('modal-price').innerText = p.price;
             document.getElementById('modal-img').src = p.img;
             
-            currentRotation = 0;
-            mainImg.style.transform = `scale(1.2) perspective(1000px) rotateY(0deg) rotateX(10deg)`;
-
             const thumbRow = document.getElementById('thumbnail-row');
-            const gallery = [p.img, ...(p.gallery || [])];
-            thumbRow.innerHTML = gallery.map((src, i) => `
+            thumbRow.innerHTML = [p.img, ...(p.gallery || [])].map((src, i) => `
                 <img src="${src}" class="thumb ${i===0?'active':''}" onclick="changeAngle(this, '${src}')">
             `).join('');
 
-            const specsList = document.getElementById('modal-specs');
-            specsList.innerHTML = p.bullets.map(b => `<li>${b}</li>`).join('') + 
-                `<li><b>YIELD_TYPE:</b> ${p.yield}</li>` +
-                `<li><b>FULFILLMENT:</b> ZENDROP_AUTOMATED</li>`;
-            
-            const buyBtn = document.getElementById('modal-buy-btn');
-            buyBtn.href = `checkout.html?item=${encodeURIComponent(p.name)}&price=${p.price.replace('$','')}&img=${encodeURIComponent(p.img)}&id=${p.id}`;
-            
+            document.getElementById('modal-specs').innerHTML = p.bullets.map(b => `<li>${b}</li>`).join('');
             document.getElementById('productModal').style.display = "block";
         }
 
-        function closeModal() {
-            document.getElementById('productModal').style.display = "none";
+        function closeModal() { document.getElementById('productModal').style.display = "none"; }
+
+        function initiatePurchase(e) {
+            e.preventDefault();
+            const qty = document.getElementById('modal-qty').value;
+            const p = window.activeProduct;
+            window.location.href = `checkout.html?item=${encodeURIComponent(p.name)}&price=${p.price.replace('$','')}&img=${encodeURIComponent(p.img)}&id=${p.id}&qty=${qty}`;
         }
 
         async function loadStore() {
@@ -177,24 +150,19 @@
             const products = await res.json();
             window.allProducts = products;
             
-            const physGrid = document.getElementById('physical-grid');
-            const digiGrid = document.getElementById('digital-grid');
-            
-            physGrid.innerHTML = products.filter(p => p.yield === 'PHYSICAL').map(p => `
+            document.getElementById('physical-grid').innerHTML = products.filter(p => p.yield === 'PHYSICAL').map(p => `
                 <div class="card" onclick="openModal('${p.id}')">
                     <div class="img-box"><img src="${p.img}"></div>
                     <div style="font-size:12px; font-weight:bold;">${p.name}</div>
-                    <div style="font-size:10px; opacity:0.6; margin:5px 0;">${p.desc.substring(0, 60)}...</div>
                     <div class="price">${p.price}</div>
                     <div class="buy-btn">VIEW_ITEM</div>
                 </div>
             `).join('');
 
-            digiGrid.innerHTML = products.filter(p => p.yield !== 'PHYSICAL').map(p => `
+            document.getElementById('digital-grid').innerHTML = products.filter(p => p.yield !== 'PHYSICAL').map(p => `
                 <div class="card" onclick="openModal('${p.id}')">
                     <div class="img-box"><img src="${p.img}"></div>
                     <div style="font-size:12px; font-weight:bold;">${p.name}</div>
-                    <div style="font-size:10px; opacity:0.6; margin:5px 0;">${p.desc.substring(0, 60)}...</div>
                     <div class="price">${p.price}</div>
                     <div class="buy-btn">VIEW_ITEM</div>
                 </div>
