@@ -20,14 +20,18 @@
       "💬 <b>USER_INTEL:</b> Finally gloves that actually work with my phone. I can type full messages without taking them off."
     ]
   },
-  {
-    "id": "10",
-    "name": "HYDRATION_CELL",
-    "price": "35.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1d70/wJHxSXXbpgrRwP7Y0Kf81_DUK9mmsf.png",
-    "desc": "Medical-grade stainless steel flask with a light-reactive matte finish that changes color based on liquid temperature.",
+    {
+        "id": "10",
+        "name": "HYDRATION_CELL",
+        "price": "35.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1d70/wJHxSXXbpgrRwP7Y0Kf81_DUK9mmsf.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29f6/R3-ewekxrddFwdow6Ls72_QURXovmB.png",
+            "https://v3b.fal.media/files/b/0a9d29f7/eZEzFvoJhKzSmVeJG9HzI_QND2kpkR.png"
+        ],
+        "desc": "Medical-grade stainless steel flask with a light-reactive matte finish that changes color based on liquid temperature.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$12.00",
     "fulfillment_id": "PENDING_SKU",
@@ -37,14 +41,18 @@
       "💬 <b>USER_INTEL:</b> The color-shift finish is insane in person. Keeps my water ice-cold even in a hot truck."
     ]
   },
-  {
-    "id": "11",
-    "name": "THE OPERATOR_SLIDES",
-    "price": "35.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1d7b/c2F4unzyVV0Io_vwZlizw_gSESSTBn.png",
-    "desc": "High-density EVA foam recovery slides with deep hexagonal traction for maximum grip across any terrain or station floor.",
+    {
+        "id": "11",
+        "name": "THE OPERATOR_SLIDES",
+        "price": "35.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1d7b/c2F4unzyVV0Io_vwZlizw_gSESSTBn.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29f7/dnHpdZWBooOWWI0xbNIUF_nAHwobfn.png",
+            "https://v3b.fal.media/files/b/0a9d29f8/uPlMxcuPq6POq_XtsWB9l_1tk6KHgO.png"
+        ],
+        "desc": "High-density EVA foam recovery slides with deep hexagonal traction for maximum grip across any terrain or station floor.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
@@ -126,14 +134,18 @@
       "💬 <b>USER_INTEL:</b> The 3D grid texture on the back feels premium. Doesn't add bulk but feels indestructible."
     ]
   },
-  {
-    "id": "17",
-    "name": "THE OPERATOR_PACK",
-    "price": "150.00",
-    "status": "ELITE_TIER",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1d95/UDgv4lr4OkfLB6JmmbMyD_th49SZMJ.png",
-    "desc": "Full-hardshell tactical backpack designed to withstand water and physical impact, featuring modular internal storage for sensitive tech.",
+    {
+        "id": "17",
+        "name": "THE OPERATOR_PACK",
+        "price": "150.00",
+        "status": "ELITE_TIER",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1d95/UDgv4lr4OkfLB6JmmbMyD_th49SZMJ.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29f8/OnwbiiDlYWs9XB_FdyFoH_5jLyuKXn.png",
+            "https://v3b.fal.media/files/b/0a9d29fd/V0UbRgej40mY69d31p6o-_34Qc27K6.png"
+        ],
+        "desc": "Full-hardshell tactical backpack designed to withstand water and physical impact, featuring modular internal storage for sensitive tech.",
     "supplier": "USAdrop",
     "supplier_cost": "$42.00",
     "fulfillment_id": "PENDING_SKU",
