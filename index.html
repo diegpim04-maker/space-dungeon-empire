@@ -3,51 +3,116 @@
 <head>
     <meta charset="UTF-8">
     <title>SPACE_DUNGEON_COLLECTION // PHYSICAL_&_DIGITAL</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Roboto+Mono:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
-        :root { --neon-green: #00ff9d; --neon-purple: #9d00ff; --deep-bg: #030305; }
-        body { background: var(--deep-bg); color: #fff; font-family: 'Courier New', monospace; margin: 0; padding: 0; overflow-x: hidden; }
-        
-        /* MODAL STYLES */
-        .modal { display: none; position: fixed; z-index: 2000; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.95); backdrop-filter: blur(5px); overflow-y: auto; }
-        .modal-content { background: #000; margin: 2% auto; padding: 40px; border: 1px solid var(--neon-purple); width: 90%; max-width: 1000px; position: relative; box-shadow: 0 0 50px rgba(157,0,255,0.2); }
-        .close-modal { position: absolute; right: 25px; top: 15px; color: var(--neon-green); font-size: 35px; cursor: pointer; z-index: 10; }
-        .modal-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; }
-        @media (max-width: 800px) { .modal-grid { grid-template-columns: 1fr; } }
+        :root { 
+            --neon-green: #00ff9d; 
+            --neon-purple: #9d00ff; 
+            --deep-bg: #030305; 
+            --text-main: #e0e0e0;
+            --text-dim: #888;
+        }
 
-        .modal-img-container { width: 100%; position: relative; border: 1px solid #333; height: 400px; background: #000; overflow: hidden; display: flex; flex-direction: column; cursor: grab; }
-        .modal-img-container:active { cursor: grabbing; }
-        .modal-main-img { width: 100%; height: 320px; object-fit: contain; border-bottom: 1px solid #222; background: #050505; transition: transform 0.1s linear; pointer-events: none; }
-        .thumbnail-row { display: flex; gap: 10px; padding: 10px; background: #000; justify-content: center; min-height: 80px; flex-wrap: wrap; }
-        .thumb { width: 60px; height: 60px; border: 1px solid #333; cursor: pointer; opacity: 0.5; transition: 0.3s; object-fit: cover; }
+        body { 
+            background: var(--deep-bg); 
+            color: var(--text-main); 
+            font-family: 'Inter', sans-serif; 
+            margin: 0; 
+            padding: 0; 
+            overflow-x: hidden; 
+            line-height: 1.6;
+        }
+
+        /* TYPOGRAPHY */
+        h1, h2, h3, h4, .mono { 
+            font-family: 'Roboto Mono', monospace; 
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .hero { height: 40vh; display: flex; flex-direction: column; justify-content: center; align-items: center; border-bottom: 1px solid #111; text-align:center;}
+        .hero h1 { 
+            font-size: 3.5rem; 
+            font-weight: 700;
+            letter-spacing: 15px; 
+            color: var(--neon-green);
+            margin: 0;
+        }
+        .hero p { font-family: 'Roboto Mono', monospace; font-size: 0.8rem; color: var(--neon-purple); letter-spacing: 5px; }
+
+        .container { max-width: 1200px; margin: 40px auto; padding: 20px; }
+        .section-title { 
+            font-size: 1.1rem; 
+            color: #fff; 
+            border-left: 4px solid var(--neon-green); 
+            padding-left: 15px; 
+            margin: 80px 0 30px 0; 
+            letter-spacing: 5px;
+        }
+
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 40px; }
+        
+        .card { 
+            border: 1px solid #111; 
+            background: #08080a; 
+            padding: 25px; 
+            transition: 0.4s cubic-bezier(0.165, 0.84, 0.44, 1); 
+            position: relative; 
+            cursor: pointer; 
+        }
+        .card:hover { border-color: var(--neon-green); transform: translateY(-5px); box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        
+        .img-box { width: 100%; height: 280px; background: #000; margin-bottom: 20px; overflow: hidden; border: 1px solid #111; }
+        .img-box img { width: 100%; height: 100%; object-fit: cover; transition: 0.5s; }
+        .card:hover .img-box img { transform: scale(1.05); }
+
+        .price { font-family: 'Roboto Mono', monospace; font-size: 1.5rem; color: #fff; margin: 15px 0; }
+        .buy-btn { 
+            background: transparent; 
+            border: 1px solid var(--neon-green); 
+            color: var(--neon-green); 
+            padding: 15px; 
+            text-decoration: none; 
+            display: block; 
+            text-align: center; 
+            font-weight: bold; 
+            letter-spacing: 2px;
+            transition: 0.3s;
+        }
+        .buy-btn:hover { background: var(--neon-green); color: #000; }
+
+        /* MODAL STYLES */
+        .modal { display: none; position: fixed; z-index: 2000; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.98); backdrop-filter: blur(10px); overflow-y: auto; }
+        .modal-content { background: #000; margin: 2% auto; padding: 50px; border: 1px solid #222; width: 90%; max-width: 1100px; position: relative; }
+        .close-modal { position: absolute; right: 30px; top: 20px; color: #fff; font-size: 40px; cursor: pointer; opacity: 0.5; }
+        .close-modal:hover { opacity: 1; }
+        
+        .modal-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: 60px; }
+        @media (max-width: 900px) { .modal-grid { grid-template-columns: 1fr; } }
+
+        .modal-img-container { width: 100%; position: relative; border: 1px solid #111; height: 500px; background: #000; overflow: hidden; display: flex; flex-direction: column; cursor: grab; }
+        .modal-main-img { width: 100%; height: 400px; object-fit: contain; background: #050505; transition: transform 0.1s linear; pointer-events: none; }
+        .thumbnail-row { display: flex; gap: 15px; padding: 15px; background: #000; justify-content: center; }
+        .thumb { width: 70px; height: 70px; border: 1px solid #222; cursor: pointer; opacity: 0.3; transition: 0.3s; object-fit: cover; }
         .thumb:hover, .thumb.active { opacity: 1; border-color: var(--neon-green); }
 
-        .specs-list { list-style: none; padding: 0; font-size: 13px; opacity: 0.8; }
-        .specs-list li { margin-bottom: 10px; border-bottom: 1px solid #111; padding-bottom: 5px; }
-        .specs-list li b { color: var(--neon-green); }
+        .specs-list { list-style: none; padding: 0; font-size: 14px; color: #aaa; }
+        .specs-list li { margin-bottom: 12px; border-bottom: 1px solid #111; padding-bottom: 8px; }
+        .specs-list li b { color: var(--neon-green); font-family: 'Roboto Mono', monospace; font-size: 11px; }
 
-        .hero { height: 40vh; display: flex; flex-direction: column; justify-content: center; align-items: center; border-bottom: 2px solid var(--neon-purple); text-align:center;}
-        .hero h1 { font-size: 3rem; color: var(--neon-green); letter-spacing: 15px; margin:0;}
-        .container { max-width: 1100px; margin: 40px auto; padding: 20px; }
-        .section-title { font-size: 1.5rem; color: var(--neon-purple); border-left: 5px solid var(--neon-green); padding-left: 15px; margin: 60px 0 30px 0; letter-spacing: 5px; text-transform: uppercase;}
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 30px; }
-        .card { border: 1px solid rgba(157,0,255,0.3); background: rgba(255,255,255,0.02); padding: 20px; transition: 0.3s; position: relative; cursor: pointer; }
-        .card:hover { border-color: var(--neon-green); transform: translateY(-5px); box-shadow: 0 0 20px rgba(0,255,157,0.1); }
-        .img-box { width: 100%; height: 250px; background: #000; margin-bottom: 15px; border: 1px solid #222; overflow: hidden; }
-        .img-box img { width: 100%; height: 100%; object-fit: cover; }
-        .price { font-size: 1.5rem; color: #fff; margin: 15px 0; }
-        .buy-btn { background: var(--neon-green); color: #000; padding: 12px; text-decoration: none; display: block; text-align: center; font-weight: bold; clip-path: polygon(10% 0, 100% 0, 90% 100%, 0 100%); }
-        .footer { text-align: center; padding: 40px; font-size: 10px; opacity: 0.3; border-top: 1px solid #222; margin-top: 100px;}
+        .footer { text-align: center; padding: 60px; font-size: 11px; color: #444; border-top: 1px solid #111; margin-top: 100px; letter-spacing: 3px;}
     </style>
 </head>
 <body>
     <div class="hero">
-        <div style="font-size:10px; color:var(--neon-purple);">[TRANSMISSION_LIVE]</div>
         <h1>SPACE_DUNGEON</h1>
-        <div style="text-align:center; padding:20px;">
-            <a href="tracking.html" style="color:var(--neon-green); font-weight:bold; letter-spacing:3px; text-decoration:none; border:1px solid var(--neon-green); padding:10px 20px; display:inline-block; margin: 10px;">[SHIPMENT_TRACKER]</a>
-            <a href="support.html" style="color:var(--neon-purple); font-weight:bold; letter-spacing:3px; text-decoration:none; border:1px solid var(--neon-purple); padding:10px 20px; display:inline-block; margin: 10px;">[SUPPORT_PROTOCOL]</a>
+        <p>OFFICIAL MERCHANDISE & AGENT BLUEPRINTS</p>
+        <div style="margin-top: 30px;">
+            <a href="tracking.html" style="color:var(--neon-green); font-family:'Roboto Mono'; text-decoration:none; border:1px solid var(--neon-green); padding:10px 25px; font-size:12px; margin: 10px;">[SHIPMENT_TRACKER]</a>
+            <a href="support.html" style="color:#666; font-family:'Roboto Mono'; text-decoration:none; border:1px solid #333; padding:10px 25px; font-size:12px; margin: 10px;">[SUPPORT_PROTOCOL]</a>
         </div>
-        <p>OFFICIAL_MERCHANDISE_&_AGENT_BLUEPRINTS</p>
     </div>
 
     <div class="container">
@@ -66,38 +131,40 @@
                         <img id="modal-img" src="" class="modal-main-img">
                         <div id="thumbnail-row" class="thumbnail-row"></div>
                     </div>
-                    <p style="font-size: 10px; color: var(--neon-purple); text-align: center; margin-top: 10px;">[3D_PERSPECTIVE_OS_ACTIVE] - DRAG TO ROTATE</p>
+                    <p style="font-size: 10px; color: #444; text-align: center; margin-top: 20px; font-family: 'Roboto Mono'; letter-spacing: 2px;">[3D_PERSPECTIVE_OS_ACTIVE] - DRAG TO ROTATE</p>
                 </div>
                 <div>
-                    <h2 id="modal-title" style="color:var(--neon-green); letter-spacing:5px; margin-top: 0;">ITEM_NAME</h2>
-                    <p id="modal-desc" style="font-size:14px; opacity:0.8; margin-bottom:20px;"></p>
-                    <div style="background:#0a0a0d; padding:20px; border:1px solid #222;">
+                    <h2 id="modal-title" style="color:#fff; font-size: 2.2rem; margin-top: 0;">ITEM_NAME</h2>
+                    <p id="modal-desc" style="font-size:15px; color:#888; line-height: 1.8; margin-bottom:30px;"></p>
+                    <div style="background:#0a0a0d; padding:30px; border:1px solid #111; margin-bottom: 30px;">
                         <ul id="modal-specs" class="specs-list"></ul>
                     </div>
-                    <div style="display: flex; gap: 20px; align-items: center; margin: 30px 0;">
-                        <div style="background: #111; border: 1px solid var(--neon-purple); padding: 10px; display: flex; align-items: center; gap: 15px;">
-                            <label style="font-size: 10px; color: var(--neon-green);">QTY:</label>
-                            <input type="number" id="modal-qty" value="1" min="1" max="99" style="background:transparent; border:none; color:#fff; width: 40px; font-family: monospace; outline: none;">
+                    <div style="display: flex; gap: 30px; align-items: center; margin-bottom: 40px;">
+                        <div style="background: #111; border: 1px solid #333; padding: 12px 20px; display: flex; align-items: center; gap: 20px;">
+                            <label style="font-size: 11px; color: var(--neon-green); font-family: 'Roboto Mono';">QTY:</label>
+                            <input type="number" id="modal-qty" value="1" min="1" max="99" style="background:transparent; border:none; color:#fff; width: 40px; font-family: 'Roboto Mono'; outline: none; font-size: 1.2rem;">
                         </div>
-                        <div id="modal-price" style="font-size:2.5rem; color: #fff; font-weight: bold;">$0.00</div>
+                        <div id="modal-price" style="font-size:2.8rem; color: #fff; font-weight: 700; font-family: 'Roboto Mono';">$0.00</div>
                     </div>
-                    <a id="modal-buy-btn" href="#" class="buy-btn" style="font-size: 1.2rem; padding: 20px;" onclick="initiatePurchase(event)">BUY_NOW</a>
-                    <div style="margin-top: 50px; border-top: 1px solid #222; padding-top: 30px;">
-                        <h4 style="color: var(--neon-green); letter-spacing: 3px;">EXTRA_INTEL_REPORT</h4>
-                        <p style="font-size: 12px; opacity: 0.7; line-height: 1.6;">Automated fulfillment active. Shipments tracked 24/7. Integrity guaranteed.</p>
+                    <a id="modal-buy-btn" href="#" class="buy-btn" style="font-size: 1.3rem; padding: 25px; background: var(--neon-green); color: #000;" onclick="initiatePurchase(event)">BUY_NOW</a>
+                    
+                    <div style="margin-top: 60px; border-top: 1px solid #111; padding-top: 40px;">
+                        <h4 style="color: #444; font-size: 12px; margin-bottom: 15px;">EXTRA_INTEL_REPORT</h4>
+                        <p style="font-size: 12px; color: #666; line-height: 1.8;">Automated fulfillment active via the Imperial Extraction Fleet. Physical goods are dispatched within 24 standard cycles. Global tracking enabled.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
+    <div class="footer">OPERATED BY SPACE_DUNGEON_OS // SECURE ACCESS LOG // 2026 REF: DIEGP04</div>
+
     <script>
         let isDragging = false;
         let startX = 0;
         let currentRotation = 0;
-
-        const zone = document.getElementById('interactionZone');
         const mainImg = document.getElementById('modal-img');
+        const zone = document.getElementById('interactionZone');
 
         zone.addEventListener('mousedown', (e) => { isDragging = true; startX = e.clientX; });
         window.addEventListener('mousemove', (e) => {
@@ -105,33 +172,29 @@
             const deltaX = e.clientX - startX;
             startX = e.clientX;
             currentRotation += deltaX * 0.5;
-            mainImg.style.transform = `scale(1.2) perspective(1000px) rotateY(${currentRotation}deg) rotateX(10deg)`;
+            mainImg.style.transform = `scale(1.1) perspective(1000px) rotateY(${currentRotation}deg) rotateX(5deg)`;
         });
         window.addEventListener('mouseup', () => { isDragging = false; });
 
         function changeAngle(el, src) {
-            document.getElementById('modal-img').src = src;
+            mainImg.src = src;
             document.querySelectorAll('.thumb').forEach(t => t.classList.remove('active'));
             el.classList.add('active');
             currentRotation = 0;
-            mainImg.style.transform = `scale(1.2) perspective(1000px) rotateY(0deg) rotateX(10deg)`;
+            mainImg.style.transform = `scale(1.1) perspective(1000px) rotateY(0deg) rotateX(5deg)`;
         }
 
         function openModal(id) {
             const p = window.allProducts.find(item => item.id === id);
             if(!p) return;
             window.activeProduct = p;
-
             document.getElementById('modal-title').innerText = p.name;
             document.getElementById('modal-desc').innerText = p.desc;
             document.getElementById('modal-price').innerText = p.price;
-            document.getElementById('modal-img').src = p.img;
-            
-            const thumbRow = document.getElementById('thumbnail-row');
-            thumbRow.innerHTML = [p.img, ...(p.gallery || [])].map((src, i) => `
+            mainImg.src = p.img;
+            document.getElementById('thumbnail-row').innerHTML = [p.img, ...(p.gallery || [])].map((src, i) => `
                 <img src="${src}" class="thumb ${i===0?'active':''}" onclick="changeAngle(this, '${src}')">
             `).join('');
-
             document.getElementById('modal-specs').innerHTML = p.bullets.map(b => `<li>${b}</li>`).join('');
             document.getElementById('productModal').style.display = "block";
         }
@@ -153,7 +216,7 @@
             document.getElementById('physical-grid').innerHTML = products.filter(p => p.yield === 'PHYSICAL').map(p => `
                 <div class="card" onclick="openModal('${p.id}')">
                     <div class="img-box"><img src="${p.img}"></div>
-                    <div style="font-size:12px; font-weight:bold;">${p.name}</div>
+                    <div style="font-family:'Roboto Mono'; font-size:13px; color:#fff;">${p.name}</div>
                     <div class="price">${p.price}</div>
                     <div class="buy-btn">VIEW_ITEM</div>
                 </div>
@@ -162,7 +225,7 @@
             document.getElementById('digital-grid').innerHTML = products.filter(p => p.yield !== 'PHYSICAL').map(p => `
                 <div class="card" onclick="openModal('${p.id}')">
                     <div class="img-box"><img src="${p.img}"></div>
-                    <div style="font-size:12px; font-weight:bold;">${p.name}</div>
+                    <div style="font-family:'Roboto Mono'; font-size:13px; color:#fff;">${p.name}</div>
                     <div class="price">${p.price}</div>
                     <div class="buy-btn">VIEW_ITEM</div>
                 </div>
