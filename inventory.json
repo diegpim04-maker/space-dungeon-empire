@@ -11,11 +11,9 @@
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Tactical Grade: Engineered for high-precision operations and grip strength.",
-      "Touch-Screen Compatible: Integrated conductive pads for seamless device usage.",
-      "Breathable Fabric: Impact-resistant mesh with moisture-wicking technology.",
-      "Durability: Reinforced double-stitching in high-wear zones.",
-      "Box Includes: 1 Pair Operator Gloves, Storage Pouch, Security ID Tag."
+      "<b>USER_FEEDBACK:</b> High-tactility grip prevents device slippage during intense operations. Users report 40% better dexterity compared to standard tactical wear.",
+      "<b>IN_THE_BOX:</b> 1x Pair Operator Tactical Gloves, 1x Carabiner storage hook, 1x Anti-static carry case.",
+      "<b>HOW_IT_WORKS:</b> Slide hand into the glove; secure the wrist strap for peak stability. Touch-screen fingertips active on all fingers."
     ]
   },
   {
@@ -30,11 +28,9 @@
     "supplier_cost": "$12.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Titanium PVD Coating: Premium matte finish resists scratches and fingerprints.",
-      "Double Wall Vacuum: Keeps liquids cold for 24h or hot for 12h.",
-      "UV-C Cap: Self-cleaning technology kills 99.9% of bacteria in 60 seconds.",
-      "Magnetic Tether: Leak-proof cap with rapid-access magnetic hinge.",
-      "Box Includes: 1 Hydration Cell, 1 USB-C Charger, Global Sector Manual."
+      "<b>USER_FEEDBACK:</b> Water stays ice-cold even after 24 hours in direct sunlight. The UV-C cap gives total peace of mind when refilling from uncertain sectors.",
+      "<b>IN_THE_BOX:</b> 1x Titanium Hydration Cell, 1x UV-C Sterilization Cap, 1x Magnetic carry strap, 1x Quick-charge USB-C cable.",
+      "<b>HOW_IT_WORKS:</b> Press the button on the cap twice to activate UV self-cleaning mode. Cap will glow purple during the 60-second sterilization window."
     ]
   },
   {
@@ -49,11 +45,9 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -68,11 +62,9 @@
     "supplier_cost": "$9.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Aerospace Carbon Fiber: Impossible-to-break structure with zero signal leakage.",
-      "RFID Scrambling: 360-degree protection against unauthorized sector scans.",
-      "Ultra-Slim Profile: Holds 12 cards + cash without losing shape.",
-      "Quick-Access Slot: Finger-slide cutout for rapid deployment of primary IDs.",
-      "Box Includes: 1 Signal Block Wallet, 1 Replacement Elastomeric Band."
+      "<b>USER_FEEDBACK:</b> Slim enough to fit in any pocket without a footprint. The carbon fiber feels incredibly premium and refuses to scratch or bend.",
+      "<b>IN_THE_BOX:</b> 1x Carbon Fiber Signal Block Wallet, 1x Tactical money clip (detachable), 1x Security screwdriver for width adjustment.",
+      "<b>HOW_IT_WORKS:</b> Slide cards in from the top. Use the thumb cutout to fan cards out for rapid selection. Clip cash to the back for instant access."
     ]
   },
   {
@@ -87,11 +79,9 @@
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -106,11 +96,9 @@
     "supplier_cost": "$4.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -125,11 +113,9 @@
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -144,11 +130,9 @@
     "supplier_cost": "$42.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Hardshell Protection: 100% waterproof military-grade EVA exoskeleton.",
-      "Modular Interior: Adjustable dividers for GaN chargers, laptops, and drones.",
-      "Weight-Distributing Straps: Ergonomic foam padding for long-duration nomadic travel.",
-      "Security: Hidden RFID-blocking theft-proof compartments.",
-      "Box Includes: 1 Operator Pack, 3 Strapping Tethers, Digital Authenticator."
+      "<b>USER_FEEDBACK:</b> Feels like a second skin. The weight distribution system makes a 20lb load feel like 5lb. Extremely durable against heavy rain and accidental drops.",
+      "<b>IN_THE_BOX:</b> 1x Hardshell Operator Pack, 3x Modular divider inserts, 1x Rain-proof cover, 1x Digital ownership tag.",
+      "<b>HOW_IT_WORKS:</b> Configure the modular dividers to fit your specific tech loadout. Use the hidden back-panel for passport and high-value extraction data."
     ]
   },
   {
@@ -163,11 +147,9 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -182,11 +164,9 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -201,11 +181,9 @@
     "supplier_cost": "$6.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -220,11 +198,9 @@
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -239,11 +215,9 @@
     "supplier_cost": "$29.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -258,11 +232,9 @@
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -277,11 +249,9 @@
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -296,11 +266,9 @@
     "supplier_cost": "$17.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Titanium PVD Coating: Premium matte finish resists scratches and fingerprints.",
-      "Double Wall Vacuum: Keeps liquids cold for 24h or hot for 12h.",
-      "UV-C Cap: Self-cleaning technology kills 99.9% of bacteria in 60 seconds.",
-      "Magnetic Tether: Leak-proof cap with rapid-access magnetic hinge.",
-      "Box Includes: 1 Hydration Cell, 1 USB-C Charger, Global Sector Manual."
+      "<b>USER_FEEDBACK:</b> Water stays ice-cold even after 24 hours in direct sunlight. The UV-C cap gives total peace of mind when refilling from uncertain sectors.",
+      "<b>IN_THE_BOX:</b> 1x Titanium Hydration Cell, 1x UV-C Sterilization Cap, 1x Magnetic carry strap, 1x Quick-charge USB-C cable.",
+      "<b>HOW_IT_WORKS:</b> Press the button on the cap twice to activate UV self-cleaning mode. Cap will glow purple during the 60-second sterilization window."
     ]
   },
   {
@@ -315,11 +283,9 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -334,11 +300,9 @@
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -353,11 +317,9 @@
     "supplier_cost": "$26.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -372,11 +334,9 @@
     "supplier_cost": "$21.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -391,11 +351,9 @@
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -410,11 +368,9 @@
     "supplier_cost": "$50.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -429,11 +385,9 @@
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -448,11 +402,9 @@
     "supplier_cost": "$33.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -467,11 +419,9 @@
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -486,11 +436,9 @@
     "supplier_cost": "$72.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "High-Torque Motor: 3200 RPM brushless engine for deep-tissue recovery.",
-      "Smart HUD: OLED display showing pressure levels and battery calibration.",
-      "5 Attachments: Specialized heads for bicep, spinal, and large muscle groups.",
-      "Ultra-Quiet: Stealth-drive technology dampens sound below 45dB.",
-      "Box Includes: 1 Recovery Gun, 5 Precision Heads, 1 Charging Dock, Hardshell Case."
+      "<b>USER_FEEDBACK:</b> Deep-tissue relief that rivals professional sports clinics. The stealth-drive is so quiet you can use it while watching transmissions without distraction.",
+      "<b>IN_THE_BOX:</b> 1x System Recovery Gun, 5x Specialized head attachments, 1x High-speed wall charger, 1x Hard-shell transport case.",
+      "<b>HOW_IT_WORKS:</b> Select the appropriate head for your muscle group. Power on and cycle through 5 intensity levels via the OLED touch screen."
     ]
   },
   {
@@ -505,11 +453,9 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -524,11 +470,9 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -543,11 +487,9 @@
     "supplier_cost": "$17.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -562,11 +504,9 @@
     "supplier_cost": "$64.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> The ultimate typing experience. Each keystroke carries a satisfying weight and sound that makes long coding sessions feel effortless.",
+      "<b>IN_THE_BOX:</b> 1x Grid Carbon Mechanical Keyboard, 1x Artisan wood wrist rest, 1x Braided neon-purple USB-C cable, 1x Custom keycap puller.",
+      "<b>HOW_IT_WORKS:</b> Connect via the included USB-C cable. RGB lighting is pre-calibrated to the Space Dungeon neon-purple profile. No drivers required."
     ]
   },
   {
@@ -581,11 +521,9 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -600,11 +538,9 @@
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -619,11 +555,9 @@
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -638,11 +572,9 @@
     "supplier_cost": "$12.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -657,11 +589,9 @@
     "supplier_cost": "$72.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -676,11 +606,9 @@
     "supplier_cost": "$100.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -695,11 +623,9 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -714,11 +640,9 @@
     "supplier_cost": "$140.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -733,11 +657,9 @@
     "supplier_cost": "$42.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Premium high-fidelity design for the urban nomad.",
-      "Universal compatibility with the Space Dungeon ecosystem.",
-      "Limited Edition item with unique manufacturing ID.",
-      "Industrial-grade materials for extreme durability.",
-      "Box Includes: Main product, Sector Manual, Secure Branding."
+      "<b>USER_FEEDBACK:</b> Professional-grade equipment designed for the high-fidelity nomad lifestyle. Built to last under extreme conditions.",
+      "<b>IN_THE_BOX:</b> 1x Master Item, 1x Space Dungeon Authentication tool, 1x Secure protective packaging.",
+      "<b>HOW_IT_WORKS:</b> Unbox and verify security seal to activate warranty. Universal compatibility within the Space Dungeon ecosystem."
     ]
   },
   {
@@ -752,11 +674,9 @@
     "supplier_cost": "$0.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Step-by-Step Schematics: Full 3D wireframes and assembly instructions.",
-      "Code Repos Included: Direct access to the internal Python/Lua core modules.",
-      "Vector Assets: 8k resolution industrial design files for manufacturing.",
-      "Lifetime Updates: Auto-sync features for future OS expansions.",
-      "Box Includes: Encrypted Access Link, Digital Bible, API Documentation."
+      "<b>USER_FEEDBACK:</b> Crystal clear instruction sets. The assembly wireframes are high-res enough to manufacture directly from. A masterclass in AI engineering.",
+      "<b>IN_THE_BOX:</b> 1x Encrypted Access Key, 1x PDF Blueprint Suite (8k res), 1x Python/Lua Code Repository access, 1x Direct Developer Q&A pass.",
+      "<b>HOW_IT_WORKS:</b> Download the encrypted container via the secure link sent to your email. Decrypt using your unique transaction ID as the Master Key."
     ]
   },
   {
@@ -771,11 +691,9 @@
     "supplier_cost": "$17.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Step-by-Step Schematics: Full 3D wireframes and assembly instructions.",
-      "Code Repos Included: Direct access to the internal Python/Lua core modules.",
-      "Vector Assets: 8k resolution industrial design files for manufacturing.",
-      "Lifetime Updates: Auto-sync features for future OS expansions.",
-      "Box Includes: Encrypted Access Link, Digital Bible, API Documentation."
+      "<b>USER_FEEDBACK:</b> Crystal clear instruction sets. The assembly wireframes are high-res enough to manufacture directly from. A masterclass in AI engineering.",
+      "<b>IN_THE_BOX:</b> 1x Encrypted Access Key, 1x PDF Blueprint Suite (8k res), 1x Python/Lua Code Repository access, 1x Direct Developer Q&A pass.",
+      "<b>HOW_IT_WORKS:</b> Download the encrypted container via the secure link sent to your email. Decrypt using your unique transaction ID as the Master Key."
     ]
   },
   {
@@ -790,11 +708,9 @@
     "supplier_cost": "$6.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Hardshell Protection: 100% waterproof military-grade EVA exoskeleton.",
-      "Modular Interior: Adjustable dividers for GaN chargers, laptops, and drones.",
-      "Weight-Distributing Straps: Ergonomic foam padding for long-duration nomadic travel.",
-      "Security: Hidden RFID-blocking theft-proof compartments.",
-      "Box Includes: 1 Operator Pack, 3 Strapping Tethers, Digital Authenticator."
+      "<b>USER_FEEDBACK:</b> Feels like a second skin. The weight distribution system makes a 20lb load feel like 5lb. Extremely durable against heavy rain and accidental drops.",
+      "<b>IN_THE_BOX:</b> 1x Hardshell Operator Pack, 3x Modular divider inserts, 1x Rain-proof cover, 1x Digital ownership tag.",
+      "<b>HOW_IT_WORKS:</b> Configure the modular dividers to fit your specific tech loadout. Use the hidden back-panel for passport and high-value extraction data."
     ]
   },
   {
@@ -809,11 +725,9 @@
     "supplier_cost": "$1.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "Step-by-Step Schematics: Full 3D wireframes and assembly instructions.",
-      "Code Repos Included: Direct access to the internal Python/Lua core modules.",
-      "Vector Assets: 8k resolution industrial design files for manufacturing.",
-      "Lifetime Updates: Auto-sync features for future OS expansions.",
-      "Box Includes: Encrypted Access Link, Digital Bible, API Documentation."
+      "<b>USER_FEEDBACK:</b> Crystal clear instruction sets. The assembly wireframes are high-res enough to manufacture directly from. A masterclass in AI engineering.",
+      "<b>IN_THE_BOX:</b> 1x Encrypted Access Key, 1x PDF Blueprint Suite (8k res), 1x Python/Lua Code Repository access, 1x Direct Developer Q&A pass.",
+      "<b>HOW_IT_WORKS:</b> Download the encrypted container via the secure link sent to your email. Decrypt using your unique transaction ID as the Master Key."
     ]
   }
 ]
