@@ -729,5 +729,145 @@
       "🕹️ <b>CORE_LOGIC:</b> Digital delivery. High-fidelity blueprints for robotics construction and AI integration.",
       "💬 <b>USER_INTEL:</b> Extremely detailed. It allowed me to build my first AI robot core in a single weekend."
     ]
+  },
+  {
+    "id": "56",
+    "name": "THE_COMMAND_HEADSET",
+    "price": "150.00",
+    "status": "ELITE_COMM",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1ee1/TU22EHX6mkgj1COt5NlNM_QChEJu3o.png",
+    "desc": "Active noise-canceling tactical headset with a high-fidelity boom mic and multi-channel monitoring for intense sector coordination.",
+    "bullets": [
+      "🎁 <b>IN_THE_BOX:</b> 1x Command Headset, 1x Detachable Boom Mic, 1x USB-C Charging Cable, 1x Hard Shell Transit Case.",
+      "🕹️ <b>CORE_LOGIC:</b> Dual-driver audio architecture with localized sound-mapping. Syncs via Bluetooth 5.3 or Direct-Wired protocol.",
+      "💬 <b>USER_INTEL:</b> The clarity is unmatched. I can hear the subtle shift in truck engines and keep comms crystal clear with the fleet."
+    ]
+  },
+  {
+    "id": "57",
+    "name": "NEON_DASH_OPTIK",
+    "price": "150.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/k/0a9d1dee/8-t9_e-O6S_6V4_O_2-1_N.png",
+    "desc": "Ultrawide 4K dash camera featuring thermal night vision and AI incident detection, optimized for high-speed towing maneuvers.",
+    "bullets": [
+      "🎁 <b>IN_THE_BOX:</b> 1x 4K Dash Camera, 1x 128GB High-Speed SD Card, 1x Magnetic Dash Mount, 1x Stealth Wiring Kit.",
+      "🕹️ <b>CORE_LOGIC:</b> Continuous loop recording with G-sensor emergency lockout. Neural-engine processing for license plate recognition.",
+      "💬 <b>USER_INTEL:</b> Caught a insurance scammer perfectly. The thermal vision mode makes night towing in the city feel like a video game."
+    ]
+  },
+  {
+    "id": "58",
+    "name": "GRID_COMMAND_VEST",
+    "price": "150.00",
+    "status": "ELITE_GEAR",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/p/0a9d1dec/8-t9_e-O6S_6V4_O_2-1_N.png",
+    "desc": "Lightweight tactical chest rig with integrated Molle panels and a flip-down hardshell dashboard for secure mobile device operation.",
+    "bullets": [
+      "🎁 <b>IN_THE_BOX:</b> 1x Grid Command Vest, 2x Modular Tech Pouches, 1x Universal Phone Harness.",
+      "🕹️ <b>CORE_LOGIC:</b> Reinforced nylon construction with laser-cut attachment points for modular grid expansion.",
+      "💬 <b>USER_INTEL:</b> I have my phone and tablet mounted right on my chest. I can dispatch trucks while keeping my hands free for loading."
+    ]
+  },
+  {
+    "id": "59",
+    "name": "NOMAD_ENERGY_STATION",
+    "price": "500.00",
+    "status": "IMPERIAL_POWER",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1edb/V1yAq-lVFN0N8UxMfe-wu_TcOfJ3RJ.png",
+    "desc": "100,000mAh portable energy vault featuring high-voltage AC outlets and specialized GaN rapid-charging ports for elite field setups.",
+    "bullets": [
+      "🎁 <b>IN_THE_BOX:</b> 1x Nomad Energy Station, 1x 100W Wall Charger, 1x Tactical Carrying Case, 1x DC-to-AC Adapter.",
+      "🕹️ <b>CORE_LOGIC:</b> Smart BMS (Battery Management System) with real-time HUD status and overload protection circuitry.",
+      "💬 <b>USER_INTEL:</b> Ran my entire 3-monitor setup for 12 hours straight in the middle of nowhere. This is the heart of my operation."
+    ]
+  },
+  {
+    "id": "60",
+    "name": "CYBER_NOMAD_BOOTS",
+    "price": "150.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1d7b/c2F4unzyVV0Io_vwZlizw_gSESSTBn.png",
+    "desc": "Impact-resistant carbon-fiber sneakers with high-traction soles and integrated purple LED feedback for low-light night-ops.",
+    "bullets": [
+      "🎁 <b>IN_THE_BOX:</b> 1x Pair Cyber Nomad Boots, 1x Wireless Charging Mat for LEDs, 1x Waterproof Storage Bag.",
+      "🕹️ <b>CORE_LOGIC:</b> Memory foam interior with localized grid-ventilation. Pressure-sensitive LEDs that glow with every step.",
+      "💬 <b>USER_INTEL:</b> Most comfortable boots I've ever owned. The purple glow in the garage at night is a serious vibe."
+    ]
+  },
+  {
+    "id": "61",
+    "name": "THE_AI_FLEET_LOGIC",
+    "price": "500.00",
+    "status": "GOD_TIER",
+    "yield": "DIGITAL",
+    "img": "assets/THE_AI_FLEET_LOGIC.png",
+    "desc": "An advanced autonomous script framework designed to bridge multiple vehicle agents, optimizing tow routes and fleet efficiency.",
+    "bullets": [
+      "🎁 <b>IN_THE_BOX:</b> 1x Source Code Repository Access, 1x Advanced Logic Documentation, 1x Setup Orchestration Script.",
+      "🕹️ <b>CORE_LOGIC:</b> Multi-agent coordination algorithm. Syncs your entire Roblox fleet for maximum profit extraction.",
+      "💬 <b>USER_INTEL:</b> This turned my 5-truck operation into a 50-truck empire in a week. The autonomous pathfinding is flawless."
+    ]
+  },
+  {
+    "id": "62",
+    "name": "SECTOR_SCAN_PENDANT",
+    "price": "65.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1dbb/2XOG3yIcyhNBMcghRblLN_0NRSn6iR.png",
+    "desc": "CNC-machined titanium necklace with an integrated NFC/RFID transceiver, capable of storing all your digital access keys and cold wallets.",
+    "bullets": [
+      "🎁 <b>IN_THE_BOX:</b> 1x Titanium Pendant, 1x Braided Steel Chain, 1x Secure Key Initialization Tool.",
+      "🕹️ <b>CORE_LOGIC:</b> Dual-sector storage chips with AES-256 encryption. Unlock doors or authorize payments with a tap.",
+      "💬 <b>USER_INTEL:</b> It's my literal master key. I tap my necklace on my truck to start it. Looks incredible, works perfectly."
+    ]
+  },
+  {
+    "id": "63",
+    "name": "TACTICAL_DRONE_EYE",
+    "price": "150.00",
+    "status": "TRENDING",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1dcb/DX11_urOJKrYB3VjKadlQ_h7V4kJQq.png",
+    "desc": "Ultra-portable micro-drone with AI-follow technology, designed to provide high-fidelity overhead reconnaissance during field ops.",
+    "bullets": [
+      "🎁 <b>IN_THE_BOX:</b> 1x Micro-Drone, 1x Gesture Controller Interface, 2x Battery Cells, 1x Rapid Multi-Charger.",
+      "🕹️ <b>CORE_LOGIC:</b> Autonomous tethering logic. Follows the operator via signal-locking or visual AI tracking.",
+      "💬 <b>USER_INTEL:</b> I use it to spot traffic blocks ahead of my tow truck. The follow-mode is like having a person always watching my back."
+    ]
+  },
+  {
+    "id": "64",
+    "name": "HYPER_SYNC_MODULE",
+    "price": "65.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1d91/rRztwnwtAqGDeeGuwugbN_4tW0Q6Si.png",
+    "desc": "A zero-latency Bluetooth/Wifi bridge that allows you to sync your mobile devices directly to your vehicle's HUD systems.",
+    "bullets": [
+      "🎁 <b>IN_THE_BOX:</b> 1x Hyper-Sync Module, 1x Universal OBD-II Adapter, 1x Mobile Mounting Bracket.",
+      "🕹️ <b>CORE_LOGIC:</b> High-speed data-pass protocol. Mirrored telemetry and 3D navigation mapping to any dashboard.",
+      "💬 <b>USER_INTEL:</b> Finally, I can see my Roblox stats on my phone while I'm out in the real world. Integrates with the Space Dungeon perfectly."
+    ]
+  },
+  {
+    "id": "65",
+    "name": "THE_ROBOTICS_CORE_V2",
+    "price": "500.00",
+    "status": "ELITE_BUILD",
+    "yield": "DIGITAL",
+    "img": "assets/THE_ROBOTICS_CORE_V2.png",
+    "desc": "The upgraded blueprint series for building high-fidelity AI robotics, featuring advanced motor-logic and visual sensor integration scripts.",
+    "bullets": [
+      "🎁 <b>IN_THE_BOX:</b> 1x Professional CAD Blueprint Set, 1x AI Sensor Mesh Library, 1x Beta-Access to Fleet-OS.",
+      "🕹️ <b>CORE_LOGIC:</b> Next-gen robotics architecture. Focuses on fluid motion and real-world environmental interaction.",
+      "💬 <b>USER_INTEL:</b> V1 was good, but V2 is god-tier. My prototype robot is now navigating the workshop autonomously thanks to these blueprints."
+    ]
   }
 ]
