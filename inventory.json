@@ -1,106 +1,121 @@
 [
-    {
-        "id": "09",
-        "name": "THE OPERATOR_GLOVES",
-        "price": "35.00",
-        "status": "IN_STOCK",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1d6f/IPogxikqTZsyLmXc0Zc50_kZn0OkmB.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d29e9/6Wm2KywaP6dwHcYjTXl_a_TbeGRzxx.png",
-            "https://v3b.fal.media/files/b/0a9d29ee/F8K8Eihsej0Nwg9fellus_PYBARnBC.png"
-        ],
-        "desc": "Armored tactical gloves featuring conductive fingertips for high-precision screen operation and impact-resistant knuckle plating.",
+  {
+    "id": "09",
+    "name": "THE OPERATOR_GLOVES",
+    "price": "35.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1d6f/IPogxikqTZsyLmXc0Zc50_kZn0OkmB.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d29e9/6Wm2KywaP6dwHcYjTXl_a_TbeGRzxx.png",
+      "https://v3b.fal.media/files/b/0a9d29ee/F8K8Eihsej0Nwg9fellus_PYBARnBC.png"
+    ],
+    "desc": "Armored tactical gloves featuring conductive fingertips for high-precision screen operation and impact-resistant knuckle plating.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Pair Operator Gloves, 1x Tactical Carabiner, 1x Microfiber Polishing Cloth.",
       "🕹️ <b>CORE_LOGIC:</b> No power required. Integrated conductive pads for seamless touch-screen interaction.",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: 1000D Ballistic Nylon + Carbon knuckle plating",
+      "⚙️ <b>TECH_SPECS:</b> OS: Passive Conductivity Mesh (Touch-Sync)",
+      "⚙️ <b>TECH_SPECS:</b> RUNTIME: Unlimited (No Power Required)",
       "💬 <b>USER_INTEL:</b> Finally gloves that actually work with my phone. I can type full messages without taking them off."
     ]
   },
-    {
-        "id": "10",
-        "name": "HYDRATION_CELL",
-        "price": "35.00",
-        "status": "IN_STOCK",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1d70/wJHxSXXbpgrRwP7Y0Kf81_DUK9mmsf.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d29f6/R3-ewekxrddFwdow6Ls72_QURXovmB.png",
-            "https://v3b.fal.media/files/b/0a9d29f7/eZEzFvoJhKzSmVeJG9HzI_QND2kpkR.png"
-        ],
-        "desc": "Medical-grade stainless steel flask with a light-reactive matte finish that changes color based on liquid temperature.",
+  {
+    "id": "10",
+    "name": "HYDRATION_CELL",
+    "price": "35.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1d70/wJHxSXXbpgrRwP7Y0Kf81_DUK9mmsf.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d29f6/R3-ewekxrddFwdow6Ls72_QURXovmB.png",
+      "https://v3b.fal.media/files/b/0a9d29f7/eZEzFvoJhKzSmVeJG9HzI_QND2kpkR.png"
+    ],
+    "desc": "Medical-grade stainless steel flask with a light-reactive matte finish that changes color based on liquid temperature.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$12.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x HYDRATION_CELL, 1x Silicone Seal Kit, 1x Cleaning Brush.",
       "🕹️ <b>CORE_LOGIC:</b> Double-wall vacuum insulation. Thermal retention for 24h (cold) / 12h (hot).",
+      "⚙️ <b>TECH_SPECS:</b> CORE: Vacuum-sealed 316 Stainless Steel",
+      "⚙️ <b>TECH_SPECS:</b> OS: Thermal-Reactive Pigment OS",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: 24h Cold / 12h Hot retention",
       "💬 <b>USER_INTEL:</b> The color-shift finish is insane in person. Keeps my water ice-cold even in a hot truck."
     ]
   },
-    {
-        "id": "11",
-        "name": "THE OPERATOR_SLIDES",
-        "price": "35.00",
-        "status": "IN_STOCK",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1d7b/c2F4unzyVV0Io_vwZlizw_gSESSTBn.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d29f7/dnHpdZWBooOWWI0xbNIUF_nAHwobfn.png",
-            "https://v3b.fal.media/files/b/0a9d29f8/uPlMxcuPq6POq_XtsWB9l_1tk6KHgO.png"
-        ],
-        "desc": "High-density EVA foam recovery slides with deep hexagonal traction for maximum grip across any terrain or station floor.",
+  {
+    "id": "11",
+    "name": "THE OPERATOR_SLIDES",
+    "price": "35.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1d7b/c2F4unzyVV0Io_vwZlizw_gSESSTBn.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d29f7/dnHpdZWBooOWWI0xbNIUF_nAHwobfn.png",
+      "https://v3b.fal.media/files/b/0a9d29f8/uPlMxcuPq6POq_XtsWB9l_1tk6KHgO.png"
+    ],
+    "desc": "High-density EVA foam recovery slides with deep hexagonal traction for maximum grip across any terrain or station floor.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Pair Operator Slides, 1x Travel Mesh Bag.",
       "🕹️ <b>CORE_LOGIC:</b> High-density EVA foam with deep-grid traction patterns for maximum grip.",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: High-density Laser-Cut EVA + Carbon reinforcement",
+      "⚙️ <b>TECH_SPECS:</b> RUNTIME: Passive Recovery Module",
+      "⚙️ <b>TECH_SPECS:</b> TRACTION: Hex-Grid Alpha Sole",
       "💬 <b>USER_INTEL:</b> Like walking on a localized gravity field. The purple grid isn't just for show, the grip is real."
     ]
   },
-    {
-        "id": "12",
-        "name": "SIGNAL_BLOCK_WALLET",
-        "price": "35.00",
-        "status": "IN_STOCK",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1796/lI2X7d0FzV8u5q7S9M_K8_f7tWhmQR.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d2a0a/f0F8DNsqVhm5uAFg8xNot_p1Uiirm9.png",
-            "https://v3b.fal.media/files/b/0a9d2a0b/ewfSzvGcbrlt3ET1TsDlY_zmoQS5tf.png"
-        ],
-        "desc": "Forged carbon fiber wallet designed to neutralize RFID/NFC scanning, keeping your digital identity and credentials locked down.",
+  {
+    "id": "12",
+    "name": "SIGNAL_BLOCK_WALLET",
+    "price": "35.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1796/lI2X7d0FzV8u5q7S9M_K8_f7tWhmQR.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d2a0a/f0F8DNsqVhm5uAFg8xNot_p1Uiirm9.png",
+      "https://v3b.fal.media/files/b/0a9d2a0b/ewfSzvGcbrlt3ET1TsDlY_zmoQS5tf.png"
+    ],
+    "desc": "Forged carbon fiber wallet designed to neutralize RFID/NFC scanning, keeping your digital identity and credentials locked down.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$9.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Carbon Shield Wallet, 1x Replacement Elastic Band, 1x Mini Adjustment Tool.",
       "🕹️ <b>CORE_LOGIC:</b> Dual-plate construction with integrated RFID/NFC blocking shield.",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: Grade 5 Titanium + Forged Carbon",
+      "⚙️ <b>TECH_SPECS:</b> OS: RFID Signal Neutralization Bridge",
+      "⚙️ <b>TECH_SPECS:</b> CAPACITY: 12 Module ID Slots",
       "💬 <b>USER_INTEL:</b> Ridiculously slim. I forgot it was in my pocket. The signal blocking actually works."
     ]
   },
-    {
-        "id": "13",
-        "name": "AMBIENT_GRID_LAMP",
-        "price": "65.00",
-        "status": "LIMITED",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1d7c/z_1jnx4Q0UyElqKSYTqN6_GU7u7aDo.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d29ef/cVttvCFJyn3Snm1amwUf5_81SN2dYw.png",
-            "https://v3b.fal.media/files/b/0a9d29ec/tjT8ia7BzOcCmsHQQA1tP_1j8aKOQj.png"
-        ],
-        "desc": "Atmospheric lighting projector that maps a high-fidelity 3D laser grid across your walls, transforming any room into a command center.",
+  {
+    "id": "13",
+    "name": "AMBIENT_GRID_LAMP",
+    "price": "65.00",
+    "status": "LIMITED",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1d7c/z_1jnx4Q0UyElqKSYTqN6_GU7u7aDo.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d29ef/cVttvCFJyn3Snm1amwUf5_81SN2dYw.png",
+      "https://v3b.fal.media/files/b/0a9d29ec/tjT8ia7BzOcCmsHQQA1tP_1j8aKOQj.png"
+    ],
+    "desc": "Atmospheric lighting projector that maps a high-fidelity 3D laser grid across your walls, transforming any room into a command center.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Ambient Grid Lamp, 1x USB-C Power Cable, 1x Remote Control (Battery Included).",
       "🕹️ <b>CORE_LOGIC:</b> Multi-mode RGB controller with reactive grid projection. Plug into any 5V USB port.",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Dual-Mode RGB Laser Controller",
+      "⚙️ <b>TECH_SPECS:</b> POWER: 5V/2A USB-C Intake",
+      "⚙️ <b>TECH_SPECS:</b> LUMENS: 12,000 Reactive Luminary Grid",
       "💬 <b>USER_INTEL:</b> Transforms my entire room into a high-fidelity dungeon. The glow is perfect for night gaming."
     ]
   },
@@ -118,90 +133,105 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Tactical Grip Tape Roll (2 Meters), 1x Precision Cutting Blade.",
       "🕹️ <b>CORE_LOGIC:</b> Industrial adhesive backing. Hex-grid texture provides 400% more surface friction.",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Ultra-High Friction Composite",
+      "⚙️ <b>TECH_SPECS:</b> ADHESION: Industrial 3M Grade-A Backup",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: Sweat-Wicking Anti-Slip Surface",
       "💬 <b>USER_INTEL:</b> Applied this to my mouse and truck steering wheel. The sweat-wicking texture is a total game changer."
     ]
   },
-    {
-        "id": "16",
-        "name": "THE DUNGEON_CASE",
-        "price": "35.00",
-        "status": "IN_STOCK",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1d75/eHGgdGCxZTHRSWj5UYDJ__bZhJZnol.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d2a10/yCygcuaJKjV15uzZELTn8_u1apIYC7.png",
-            "https://v3b.fal.media/files/b/0a9d2a0c/-nGaG0MsgTwzxZKz4LOFx_VXhi75Gj.png"
-        ],
-        "desc": "Impact-resistant hardshell phone armor with raised 3D grid lines for superior grip and heat dissipation during high-spec mobile sessions.",
+  {
+    "id": "16",
+    "name": "THE DUNGEON_CASE",
+    "price": "35.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1d75/eHGgdGCxZTHRSWj5UYDJ__bZhJZnol.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d2a10/yCygcuaJKjV15uzZELTn8_u1apIYC7.png",
+      "https://v3b.fal.media/files/b/0a9d2a0c/-nGaG0MsgTwzxZKz4LOFx_VXhi75Gj.png"
+    ],
+    "desc": "Impact-resistant hardshell phone armor with raised 3D grid lines for superior grip and heat dissipation during high-spec mobile sessions.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Dungeon Case, 1x Tempered Glass Screen Protector Kit.",
       "🕹️ <b>CORE_LOGIC:</b> Military-spec drop protection (10ft). Precision cutouts for all system ports.",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: Reinforced Polycarbonate + TPU Armor",
+      "⚙️ <b>TECH_SPECS:</b> OS: Impact-Diffusing Grid OS",
+      "⚙️ <b>TECH_SPECS:</b> DROP_RATING: 10ft / 3m Lab-Tested",
       "💬 <b>USER_INTEL:</b> The 3D grid texture on the back feels premium. Doesn't add bulk but feels indestructible."
     ]
   },
-    {
-        "id": "17",
-        "name": "THE OPERATOR_PACK",
-        "price": "150.00",
-        "status": "ELITE_TIER",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1d95/UDgv4lr4OkfLB6JmmbMyD_th49SZMJ.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d29f8/OnwbiiDlYWs9XB_FdyFoH_5jLyuKXn.png",
-            "https://v3b.fal.media/files/b/0a9d29fd/V0UbRgej40mY69d31p6o-_34Qc27K6.png"
-        ],
-        "desc": "Full-hardshell tactical backpack designed to withstand water and physical impact, featuring modular internal storage for sensitive tech.",
+  {
+    "id": "17",
+    "name": "THE OPERATOR_PACK",
+    "price": "150.00",
+    "status": "ELITE_TIER",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1d95/UDgv4lr4OkfLB6JmmbMyD_th49SZMJ.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d29f8/OnwbiiDlYWs9XB_FdyFoH_5jLyuKXn.png",
+      "https://v3b.fal.media/files/b/0a9d29fd/V0UbRgej40mY69d31p6o-_34Qc27K6.png"
+    ],
+    "desc": "Full-hardshell tactical backpack designed to withstand water and physical impact, featuring modular internal storage for sensitive tech.",
     "supplier": "USAdrop",
     "supplier_cost": "$42.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Operator Hardshell Pack, 1x Waterproof Rain Cover, 1x Detachable Shoulder Strap.",
       "🕹️ <b>CORE_LOGIC:</b> Water-resistant hardshell exterior with modular internal organization panels.",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: IP67-Rated Hardshell Polymer",
+      "⚙️ <b>TECH_SPECS:</b> CAPACITY: 40L Multi-Tier Array",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: Anti-Static Tech-Storage Liners",
       "💬 <b>USER_INTEL:</b> The hardshell is legit. I dropped it while biking and my gear didn't even shift. Looks tactical."
     ]
   },
-    {
-        "id": "18",
-        "name": "THE NEON_DESK_MAT",
-        "price": "35.00",
-        "status": "IN_STOCK",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1d95/c7DhjwegROqyXUvlHg7pA_LwOvOnU6.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d2a0c/h5P0JmLjv3fbnESWPtwa5_ngXgksDV.png",
-            "https://v3b.fal.media/files/b/0a9d2a0d/zozA5Npi2qMr8EF2UTz-9_CKKnE9yg.png"
-        ],
-        "desc": "Liquid-resistant workspace pad with a micro-woven surface optimized for high-fidelity optical sensors and zero-latency mouse movement.",
+  {
+    "id": "18",
+    "name": "THE NEON_DESK_MAT",
+    "price": "35.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1d95/c7DhjwegROqyXUvlHg7pA_LwOvOnU6.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d2a0c/h5P0JmLjv3fbnESWPtwa5_ngXgksDV.png",
+      "https://v3b.fal.media/files/b/0a9d2a0d/zozA5Npi2qMr8EF2UTz-9_CKKnE9yg.png"
+    ],
+    "desc": "Liquid-resistant workspace pad with a micro-woven surface optimized for high-fidelity optical sensors and zero-latency mouse movement.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Neon Grid Desk Mat, 1x Microfiber Cable Strap.",
       "🕹️ <b>CORE_LOGIC:</b> Low-friction surface optimized for high-DPI optical sensors. Spill-proof nano-coating.",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Micro-Woven Low-Friction Textile",
+      "⚙️ <b>TECH_SPECS:</b> OS: Spill-Proof Nano-Coating",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: 1200mm x 600mm Command Surface",
       "💬 <b>USER_INTEL:</b> My mouse glides like it's on ice. The purple grid lines help with layout alignment too."
     ]
   },
-    {
-        "id": "19",
-        "name": "SYSTEM_PLUG_ADAPTER",
-        "price": "35.00",
-        "status": "IN_STOCK",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1d91/rRztwnwtAqGDeeGuwugbN_4tW0Q6Si.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d2a0d/trwDaZ1FW0Uq7gJWzw6uH_havL6YaI.png",
-            "https://v3b.fal.media/files/b/0a9d2a0e/CHnj-7fUqpnQXtFwdypUD_KhPUrTwz.png"
-        ],
-        "desc": "Ultra-efficient GaN charger that delivers 65W of power in a transparent heat-resistant chassis, supporting simultaneous multi-device rapid charging.",
+  {
+    "id": "19",
+    "name": "SYSTEM_PLUG_ADAPTER",
+    "price": "35.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1d91/rRztwnwtAqGDeeGuwugbN_4tW0Q6Si.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d2a0d/trwDaZ1FW0Uq7gJWzw6uH_havL6YaI.png",
+      "https://v3b.fal.media/files/b/0a9d2a0e/CHnj-7fUqpnQXtFwdypUD_KhPUrTwz.png"
+    ],
+    "desc": "Ultra-efficient GaN charger that delivers 65W of power in a transparent heat-resistant chassis, supporting simultaneous multi-device rapid charging.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x GaN Power Adapter, 1x Global Adapter Kit (EU/UK/US).",
       "🕹️ <b>CORE_LOGIC:</b> Next-gen GaN technology. High-speed 65W power delivery with smart heat dissipation.",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Integrated GaN-Flash Power Processor",
+      "⚙️ <b>TECH_SPECS:</b> OUTPUT: 65W Max Multi-Port Bridge",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: Transparent Heat-Shield Polymer",
       "💬 <b>USER_INTEL:</b> Finally a charger that doesn't get hot. Powers my laptop and phone at the same time."
     ]
   },
@@ -219,6 +249,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Titanium Tool, 1x Protective Sheath.",
       "🕹️ <b>CORE_LOGIC:</b> PVD-coated Grade 5 Titanium. Lightweight, corrosion-resistant, and biologically inert.",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Grade 5 Titanium Alloy",
+      "⚙️ <b>TECH_SPECS:</b> WEIGHT: 18g Ultra-Light Array",
+      "⚙️ <b>TECH_SPECS:</b> OS: PVD Anti-Corrosive Coating",
       "💬 <b>USER_INTEL:</b> Elite-tier build quality. This is the last tool I'll ever need for field ops."
     ]
   },
@@ -236,6 +269,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Bio-Filter Mask, 3x Replaceable PM2.5 Filters, 1x Carry Case.",
       "🕹️ <b>CORE_LOGIC:</b> Ergonomic 3D fit with dual convection airflow valves. Particulate filtration tech.",
+      "⚙️ <b>TECH_SPECS:</b> FILTRATION: Triple-Layer PM2.5 Grid",
+      "⚙️ <b>TECH_SPECS:</b> OS: Convection Breathing Logic",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Medical-Grade Silicone + Nylon",
       "💬 <b>USER_INTEL:</b> Cleanest air I've breathed in the city. Doesn't fog up my glasses and looks futuristic."
     ]
   },
@@ -253,6 +289,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Kinetic Power Bank, 1x Braided USB-C Cable, 1x Storage Pouch.",
       "🕹️ <b>CORE_LOGIC:</b> High-capacity lithium polymer cell. Supports bidirectional 20W PD charging.",
+      "⚙️ <b>TECH_SPECS:</b> CAPACITY: 20,000mAh High-Density Cell",
+      "⚙️ <b>TECH_SPECS:</b> OUTPUT: 20W Power Delivery Hub",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: Shock-Resistant Nomad Hull",
       "💬 <b>USER_INTEL:</b> Charges my phone three times over. The LED fuel gauge is bright and clear."
     ]
   },
@@ -270,6 +309,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Neural Rest Mask, 1x USB-C Power Cable, 1x Hard Shell Case, 1x Microfiber Cloth.",
       "🕹️ <b>CORE_LOGIC:</b> Blue-light filtration lenses with anti-reflective coating to reduce eye strain.",
+      "⚙️ <b>TECH_SPECS:</b> CORE: High-Density Contoured Memory Foam",
+      "⚙️ <b>TECH_SPECS:</b> OPTICS: Blue-Light Mitigation Shield",
+      "⚙️ <b>TECH_SPECS:</b> OS: Deep-Sleep Recovery Logic",
       "💬 <b>USER_INTEL:</b> Stopped the headaches immediately. I can pull 8-hour sessions with no fatigue."
     ]
   },
@@ -287,6 +329,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Fireproof Operator Pouch, 1x Tactical Carabiner.",
       "🕹️ <b>CORE_LOGIC:</b> Double-layered flame-retardant fiberglass. Silicon coating for water resistance.",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Dual-Layer Flame-Retardant Fiberglass",
+      "⚙️ <b>TECH_SPECS:</b> COATING: Liquid-Resistant Silicon Skin",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: Temperature Shielding (Up to 1000°F)",
       "💬 <b>USER_INTEL:</b> Testing this with a lighter—it's legit. Fits my passport and sensitive documents perfectly."
     ]
   },
@@ -304,6 +349,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Hydration Jug Sleeve, 1x Detachable Nylon Strap.",
       "🕹️ <b>CORE_LOGIC:</b> Insulated internal lining with modular molle attachment points.",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Reinforced 1000D Nylon + Neoprene",
+      "⚙️ <b>TECH_SPECS:</b> OS: Modular Molle Grid Interface",
+      "⚙️ <b>TECH_SPECS:</b> INSULATION: Thermal Guard Internal Foil",
       "💬 <b>USER_INTEL:</b> I stopped using plastic bottles. This sleeve turns my big jug into a tactical container."
     ]
   },
@@ -321,6 +369,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Turbo-Cool Turbine, 1x Extra-Strength Belt Clip, 1x 5000mAh Battery (Installed), 1x High-Speed USB-C Charging Cable.",
       "🕹️ <b>CORE_LOGIC:</b> Clips to waist or neck via lanyard. High-velocity turbine tech. Acts as emergency power bank.",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Brushless High-Velocity Turbine",
+      "⚙️ <b>TECH_SPECS:</b> POWER: 5000mAh Lithium Backup Cell",
+      "⚙️ <b>TECH_SPECS:</b> SPEED: 11,000 RPM Airflow Extract",
       "💬 <b>USER_INTEL:</b> Mandatory gear for summer nomad ops. The high-velocity airflow is a total game changer."
     ]
   },
@@ -338,27 +389,33 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Tactical Tote V3, 1x Detachable Shoulder Strap.",
       "🕹️ <b>CORE_LOGIC:</b> Puncture-resistant recycled polymer with reinforced webbing handles.",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Puncture-Resistant Recycled Polymer",
+      "⚙️ <b>TECH_SPECS:</b> CAPACITY: 40L Multi-Sector Payload",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: Heavy-Duty Webbing Reinforcement",
       "💬 <b>USER_INTEL:</b> I took this through a storm and my laptop stayed bone dry. People always ask where I got this."
     ]
   },
-    {
-        "id": "29",
-        "name": "GESTURE_CONTROLLER",
-        "price": "150.00",
-        "status": "ELITE_TECH",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1dbb/2XOG3yIcyhNBMcghRblLN_0NRSn6iR.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d29c3/g6aS3cAY0tCftml1FNDat_8YhOKRr2.png",
-            "https://v3b.fal.media/files/b/0a9d29c3/aerAdhz1_NG4JRI_Vwwji_qMszmsJU.png"
-        ],
-        "desc": "Touchless interface ring that uses 6-axis gyro sensors to control your desktop, tablet, or vehicle systems with precise hand gestures.",
+  {
+    "id": "29",
+    "name": "GESTURE_CONTROLLER",
+    "price": "150.00",
+    "status": "ELITE_TECH",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1dbb/2XOG3yIcyhNBMcghRblLN_0NRSn6iR.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d29c3/g6aS3cAY0tCftml1FNDat_8YhOKRr2.png",
+      "https://v3b.fal.media/files/b/0a9d29c3/aerAdhz1_NG4JRI_Vwwji_qMszmsJU.png"
+    ],
+    "desc": "Touchless interface ring that uses 6-axis gyro sensors to control your desktop, tablet, or vehicle systems with precise hand gestures.",
     "supplier": "USAdrop",
     "supplier_cost": "$26.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Gesture Control Ring, 1x Magnetic inductive charging dock, 1x USB-C Power Cable, 1x Bluetooth dongle.",
       "🕹️ <b>CORE_LOGIC:</b> Place on dock to charge. Pair via Bluetooth to control gestures, scrolling, and volume.",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: AGI-Ready 6-Axis Motion Processor",
+      "⚙️ <b>TECH_SPECS:</b> PROTOCOLS: Bluetooth 5.2 / 2.4GHz Zero-Latency",
+      "⚙️ <b>TECH_SPECS:</b> BATTERY: 50h Active Gesture Cycle",
       "💬 <b>USER_INTEL:</b> Absolute wizardry. I have it mapped to my Roblox setup to scroll through truck upgrades with a flick."
     ]
   },
@@ -376,6 +433,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x System Eye Glasses, 1x Hard Shell Case, 1x Microfiber Polishing Cloth.",
       "🕹️ <b>CORE_LOGIC:</b> Precision-engineered blue-light filtration lenses with zero-distortion optical coating.",
+      "⚙️ <b>TECH_SPECS:</b> OPTICS: Zero-Distortion Blue-Light Shield",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: Lightweight Flexible Polymer",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: Anti-Glare Reflective Coating",
       "💬 <b>USER_INTEL:</b> Stopped the headaches immediately. I can pull long coding sessions with no fatigue."
     ]
   },
@@ -393,27 +453,33 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Mag-Lock Keychain, 2x Quick-Release Rings.",
       "🕹️ <b>CORE_LOGIC:</b> Neodymium magnet core with 10kg pull rating. Instant mechanical separation.",
+      "⚙️ <b>TECH_SPECS:</b> CORE: Permanent Neodymium N52 Magnet",
+      "⚙️ <b>TECH_SPECS:</b> RATING: 10kg Mechanical Separation Threshold",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: CNC-Machined Aerospace Aluminum",
       "💬 <b>USER_INTEL:</b> Solid build. I use it for my keys and my tactical flashlight. Never drops but detaches instantly."
     ]
   },
-    {
-        "id": "33",
-        "name": "PERIMETER_EYE",
-        "price": "150.00",
-        "status": "BEST_SELLER",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1dcb/DX11_urOJKrYB3VjKadlQ_h7V4kJQq.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d29ee/eONZAPVmV6P1zPfuh---o_q34jszBC.png",
-            "https://v3b.fal.media/files/b/0a9d29eb/S6DrUDGbojdoSnUHZuR7C_fvF63hub.png"
-        ],
-        "desc": "Autonomous 360-degree security camera with AI person tracking and thermal night vision, designed to monitor your sector with absolute precision.",
+  {
+    "id": "33",
+    "name": "PERIMETER_EYE",
+    "price": "150.00",
+    "status": "BEST_SELLER",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1dcb/DX11_urOJKrYB3VjKadlQ_h7V4kJQq.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d29ee/eONZAPVmV6P1zPfuh---o_q34jszBC.png",
+      "https://v3b.fal.media/files/b/0a9d29eb/S6DrUDGbojdoSnUHZuR7C_fvF63hub.png"
+    ],
+    "desc": "Autonomous 360-degree security camera with AI person tracking and thermal night vision, designed to monitor your sector with absolute precision.",
     "supplier": "USAdrop",
     "supplier_cost": "$50.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Smart Perimeter Device, 1x Wall/Desk Mount kit, 1x Long-reach power cable, 1x Startup Activation Key.",
       "🕹️ <b>CORE_LOGIC:</b> Connect to Wi-Fi via app. Mount using included magnetic hardware. 360 AI tracking.",
+      "⚙️ <b>TECH_SPECS:</b> SENSOR: 4K Neural-Link Thermal CMOS",
+      "⚙️ <b>TECH_SPECS:</b> OS: AI Person-Tracking Fleet Logic",
+      "⚙️ <b>TECH_SPECS:</b> STREAM: Encrypted 128-bit Signal Bridge",
       "💬 <b>USER_INTEL:</b> The night-vision clarity is scary-good. I use it to guard my physical workspace."
     ]
   },
@@ -431,6 +497,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Smart Door Lock, 2x Physical Backup Keys, 1x Mounting Hardware Kit.",
       "🕹️ <b>CORE_LOGIC:</b> Reinforced steel deadbolt with biometric fingerprint scanner (0.3s response).",
+      "⚙️ <b>TECH_SPECS:</b> SENSOR: High-Speed Biometric Capacitive Scanner",
+      "⚙️ <b>TECH_SPECS:</b> OS: Zero-Latency Auth Protocol",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: Hardened S304 Stainless Steel",
       "💬 <b>USER_INTEL:</b> Installs in minutes. The biometric sensor hasn't failed once. Real peace of mind."
     ]
   },
@@ -448,48 +517,57 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Signal Scrambler, 1x USB-C Power Cable, 1x Faraday Pouch.",
       "🕹️ <b>CORE_LOGIC:</b> Ultrasonic white-noise generator. Shields voice data from digital intruders.",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Integrated Ultrasonic Frequency Scrambler",
+      "⚙️ <b>TECH_SPECS:</b> RANGE: 5m Radius Shield Zone",
+      "⚙️ <b>TECH_SPECS:</b> POWER: 12h Active Mission Runtime",
       "💬 <b>USER_INTEL:</b> Tested it with a recording device—all it picked up was silence. Essential for private meetings."
     ]
   },
-    {
-        "id": "36",
-        "name": "TACTICAL_FLASHLIGHT_V4",
-        "price": "65.00",
-        "status": "IN_STOCK",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1dcd/7DngQIw3Zt0Sw9_Swi3rw_X2OnMiSs.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d2a0e/e_sPxanLB0teo-zYTk_fE_VOVuEdMN.png",
-            "https://v3b.fal.media/files/b/0a9d2a0f/eMsU1vDk7lUh3gbupM09y_E6EhRMDt.png"
-        ],
-        "desc": "10,000 Lumen handheld searchlight with a high-intensity grid beam and a rechargeable power core that lasts through 48 hours of operation.",
+  {
+    "id": "36",
+    "name": "TACTICAL_FLASHLIGHT_V4",
+    "price": "65.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1dcd/7DngQIw3Zt0Sw9_Swi3rw_X2OnMiSs.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d2a0e/e_sPxanLB0teo-zYTk_fE_VOVuEdMN.png",
+      "https://v3b.fal.media/files/b/0a9d2a0f/eMsU1vDk7lUh3gbupM09y_E6EhRMDt.png"
+    ],
+    "desc": "10,000 Lumen handheld searchlight with a high-intensity grid beam and a rechargeable power core that lasts through 48 hours of operation.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Tactical Flashlight V4, 1x High-Voltage Power Adapter, 1x 5000mAh Battery.",
       "🕹️ <b>CORE_LOGIC:</b> 10,000 Lumen output with adjustable focus. Recharges via integrated USB-C port.",
+      "⚙️ <b>TECH_SPECS:</b> LUMENS: 10,000 High-Intensity Grid Beam",
+      "⚙️ <b>TECH_SPECS:</b> POWER: 5000mAh Rechargeable Mission Cell",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: CNC-Machined Aerospace Aluminum",
       "💬 <b>USER_INTEL:</b> This thing is like holding a piece of the sun. The beam distance is insane. Solid metal build."
     ]
   },
-    {
-        "id": "37",
-        "name": "SYSTEM_RECOVERY_GUN",
-        "price": "150.00",
-        "status": "PREMIUM",
-        "yield": "PHYSICAL",
-        "img": "https://v3b.fal.media/files/b/0a9d1dcc/5Kvj4yl9MmL6g_n5VBfuv_lR6GPO6V.png",
-        "gallery": [
-            "https://v3b.fal.media/files/b/0a9d29c4/FIBpnWKk_MkMA3qvH7VVd_Psj6rd5R.png",
-            "https://v3b.fal.media/files/b/0a9d29c4/g7gu9chARDY-0ABhojiNd_Acc6kxb0.png"
-        ],
-        "desc": "High-torque percussion massager designed for deep muscle recovery, featuring 5 specialized attachments and carbon-fiber reinforcement.",
+  {
+    "id": "37",
+    "name": "SYSTEM_RECOVERY_GUN",
+    "price": "150.00",
+    "status": "PREMIUM",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9d1dcc/5Kvj4yl9MmL6g_n5VBfuv_lR6GPO6V.png",
+    "gallery": [
+      "https://v3b.fal.media/files/b/0a9d29c4/FIBpnWKk_MkMA3qvH7VVd_Psj6rd5R.png",
+      "https://v3b.fal.media/files/b/0a9d29c4/g7gu9chARDY-0ABhojiNd_Acc6kxb0.png"
+    ],
+    "desc": "High-torque percussion massager designed for deep muscle recovery, featuring 5 specialized attachments and carbon-fiber reinforcement.",
     "supplier": "HyperSKU",
     "supplier_cost": "$72.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Recovery Gun, 5x Head attachments, 1x Dedicated Wall Charger, 1x Internal Rechargeable Battery.",
       "🕹️ <b>CORE_LOGIC:</b> High-torque percussion tech with adjustable intensity levels. Long-life battery.",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: High-Torque Brushless Reset-Drive",
+      "⚙️ <b>TECH_SPECS:</b> SPEED: 3200 RPM Variable Pulse",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: Carbon-Fiber + Anti-Vibration Hull",
       "💬 <b>USER_INTEL:</b> This hits harder than the commercial ones. Carbon case looks insane. Essential after a long drive."
     ]
   },
@@ -507,6 +585,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Digital Grip Trainer, 1x Carry Bag, 1x Battery Set.",
       "🕹️ <b>CORE_LOGIC:</b> Adjustable resistance with integrated digital HUD for force tracking.",
+      "⚙️ <b>TECH_SPECS:</b> SENSOR: High-Fidelity Pressure-Sensitive Array",
+      "⚙️ <b>TECH_SPECS:</b> OS: Real-Time HUD Bio-Feedback",
+      "⚙️ <b>TECH_SPECS:</b> RANGE: 5kg - 100kg Resistance Variable",
       "💬 <b>USER_INTEL:</b> I can feel the quality in every squeeze. The HUD helps me track my progress daily."
     ]
   },
@@ -524,6 +605,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Kinetic Jump Rope, 1x Weighted Handle Set, 1x Carry Pouch.",
       "🕹️ <b>CORE_LOGIC:</b> Precision ball-bearing pivot with adjustable weighted cable for high-intensity bio-conditioning.",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Weighted Fiber-Optic Cable",
+      "⚙️ <b>TECH_SPECS:</b> PIVOT: 360-Degree Ball-Bearing Array",
+      "⚙️ <b>TECH_SPECS:</b> OS: Integrated Rep-Counter Logic (Manual)",
       "💬 <b>USER_INTEL:</b> The weight distribution is perfect. The neon handle glow looks sick in low-light gym runs."
     ]
   },
@@ -541,6 +625,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Bio-Sync Strap, 1x Magnetic Charging Cable, 1x Setup Manual.",
       "🕹️ <b>CORE_LOGIC:</b> High-fidelity optical heart rate sensor. Syncs with most fitness OS via Bluetooth.",
+      "⚙️ <b>TECH_SPECS:</b> SENSOR: High-Fidelity Optical Bio-Scanner",
+      "⚙️ <b>TECH_SPECS:</b> PROTOCOLS: Bluetooth 5.2 Low-Energy Sync",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Breathable Passive Mesh + Silicon",
       "💬 <b>USER_INTEL:</b> Low-profile and stays in place during truck ops. The pulse tracking is instantaneous."
     ]
   },
@@ -558,6 +645,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Grid Mechanical Keyboard, 1x Braided USB-C Cable, 1x Keycap Puller.",
       "🕹️ <b>CORE_LOGIC:</b> Hot-swappable mechanical switches. RGB backlight with 18 localized patterns.",
+      "⚙️ <b>TECH_SPECS:</b> KEYS: Tactical Mechanical Hot-Swap",
+      "⚙️ <b>TECH_SPECS:</b> OS: 18 Localized Lighting Patterns",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Dual-Core Input Switch (Mac/OS/Mobile)",
       "💬 <b>USER_INTEL:</b> The thock sound is amazing. The low-profile build makes it my daily driver for scripting."
     ]
   },
@@ -575,6 +665,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Tactical Car Mount, 1x Extra-Stick Dash Pad, 2x Magnetic Plates.",
       "🕹️ <b>CORE_LOGIC:</b> Ultra-strong neodymium magnet array. 360-degree ball joint for optimal viewing angles.",
+      "⚙️ <b>TECH_SPECS:</b> CORE: Permanent Neodymium Magnet Array",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: Forged Carbon Fiber + ABS Armor",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: 360-Degree Ball-Joint Interaction",
       "💬 <b>USER_INTEL:</b> My phone doesn't budge even on rough towing routes. The carbon fiber look is very premium."
     ]
   },
@@ -592,6 +685,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x NVMe SSD Case, 1x USB-C High-Speed Data Cable, 1x Thermal Silicone Pad.",
       "🕹️ <b>CORE_LOGIC:</b> Tool-free installation. Supports USB 3.2 Gen 2 for 10Gbps data transfer speeds.",
+      "⚙️ <b>TECH_SPECS:</b> INTERFACE: USB 3.2 Gen 2 (10Gbps Bridge)",
+      "⚙️ <b>TECH_SPECS:</b> COMPATIBILITY: NVMe M-Key / B+M Key 2280",
+      "⚙️ <b>TECH_SPECS:</b> COOLING: Integrated High-RPM Micro-Fan",
       "💬 <b>USER_INTEL:</b> The transparent look with the internal LED is perfect for my setup. Blazing fast transfer."
     ]
   },
@@ -609,6 +705,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Biometric Padlock, 1x Micro-USB Charging Cable, 2x Spare Access Keys.",
       "🕹️ <b>CORE_LOGIC:</b> Stores up to 10 unique fingerprints. Weather-resistant zinc alloy construction.",
+      "⚙️ <b>TECH_SPECS:</b> SENSOR: Surgical-Grade Biometric Capacitive",
+      "⚙️ <b>TECH_SPECS:</b> CAPACITY: 10 Fingerprint Storage Profile",
+      "⚙️ <b>TECH_SPECS:</b> CHARGE: 6-Month Mission Standby",
       "💬 <b>USER_INTEL:</b> Using this on my gear vault. No more fumbling with keys or codes. Instant unlock."
     ]
   },
@@ -626,6 +725,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Headphone Stand, 1x Lighting Cable.",
       "🕹️ <b>CORE_LOGIC:</b> Dual USB output ports for accessory charging. Integrated RGB grid lighting.",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Anodized Aerospace Aluminum",
+      "⚙️ <b>TECH_SPECS:</b> OUTPUT: Dual USB 2.0 Charge-Pass Ports",
+      "⚙️ <b>TECH_SPECS:</b> WEIGHT: Weighted Base for Sector Stability",
       "💬 <b>USER_INTEL:</b> Solid base doesn't tip. The purple glow matches the rest of the Space Dungeon line perfectly."
     ]
   },
@@ -643,6 +745,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Dungeon Case Ultra, 1x Internal Foam Divider Kit.",
       "🕹️ <b>CORE_LOGIC:</b> Forged carbon fiber shell with reinforced impact-resistant polymer edges. Waterproof latches.",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: Forged Carbon Fiber + Impact Polymer",
+      "⚙️ <b>TECH_SPECS:</b> RATING: IP68 Waterproof Dust-Shield",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: Manual Pressure Equalization Valve",
       "💬 <b>USER_INTEL:</b> This is the ultimate vault. I drove over it with my truck and everything inside was pristine."
     ]
   },
@@ -660,6 +765,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Levitating Orb, 1x Magnetic Base, 1x Power Adapter, 1x Setup Guide.",
       "🕹️ <b>CORE_LOGIC:</b> Magnetic levitation system. Induction-powered wireless lighting. Touch-toggle aura.",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Dual-Coil Induction Levitation Engine",
+      "⚙️ <b>TECH_SPECS:</b> POWER: 12V High-Voltage Magnetic Base",
+      "⚙️ <b>TECH_SPECS:</b> LUMENS: 4,000 High-Density Aura Glow",
       "💬 <b>USER_INTEL:</b> People think it's CGI. It sits on my desk and floats silently. The most impressive item I own."
     ]
   },
@@ -677,6 +785,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Master Key Card, 1x Protective RFID Sleeve.",
       "🕹️ <b>CORE_LOGIC:</b> Grade 5 Titanium construction. 24 integrated tools: hex keys, screwdrivers, bottle opener.",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Grade 5 Aerospace Titanium",
+      "⚙️ <b>TECH_SPECS:</b> TOOLS: 24-in-1 CNC Precision Array",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: PVD Anti-Reflective Stealth Finish",
       "💬 <b>USER_INTEL:</b> Sits in my wallet like a credit card. It's saved me on site more times than I can count."
     ]
   },
@@ -694,6 +805,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Signal Boost Bridge, 2x High-Gain Antennas, 1x Power Adapter, 1x LAN Cable.",
       "🕹️ <b>CORE_LOGIC:</b> High-gain signal amplification with multi-band support. Reaches dead zones with 400% boost.",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: 4-Antenna Signal Array (Wi-Fi 7 Ready)",
+      "⚙️ <b>TECH_SPECS:</b> RANGE: 5km Linear Signal Translation",
+      "⚙️ <b>TECH_SPECS:</b> OS: Low-Latency Signal Decryption OS",
       "💬 <b>USER_INTEL:</b> I get full bars in the back of my workshop where I used to get nothing. Essential for remote ops."
     ]
   },
@@ -711,6 +825,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Imperial Desk Mat, 1x Power Cable for Edge Glow.",
       "🕹️ <b>CORE_LOGIC:</b> Micro-textured synthetic leather surface. Integrated fiber-optic edge with 12 color modes.",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Hand-Crafted Micro-Textured Leather",
+      "⚙️ <b>TECH_SPECS:</b> OPTICS: Fibre-Optic Edge Array (12 Modes)",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: Waterproof Anti-Fray Stitching",
       "💬 <b>USER_INTEL:</b> The leather feels premium and the green glow is perfect. Makes the whole room feel like a cockpit."
     ]
   },
@@ -728,6 +845,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Professional License, 1x API Hub Access, 1x Setup Script.",
       "🕹️ <b>CORE_LOGIC:</b> Cloud-based serverless extraction. Link your domain and let the fleet automate product sourcing.",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Automated Multi-Agent Web Scraper",
+      "⚙️ <b>TECH_SPECS:</b> ARCHITECTURE: Serverless Cloud Function Engine",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: 1,000 SKU / Hour Extraction Speed",
       "💬 <b>USER_INTEL:</b> This essentially runs my business for me. Set and forget automation for massive scaling."
     ]
   },
@@ -745,6 +865,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Digital License, 1x Encrypted Download Link.",
       "🕹️ <b>CORE_LOGIC:</b> Instant digital activation. Multi-sector bypass capability for high-fidelity system access.",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Multi-OS Memory Injection Protocol",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: Encrypted 256-bit Connection Bridge",
+      "⚙️ <b>TECH_SPECS:</b> COMPATIBILITY: Universal System Bypass API",
       "💬 <b>USER_INTEL:</b> Fast, secure, and incredibly powerful. This saved me months of dev work on my own OS."
     ]
   },
@@ -762,6 +885,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Operator Pack, 1x Patch Set.",
       "🕹️ <b>CORE_LOGIC:</b> High-impact hardshell construction for maximum device safety.",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: Reinforced IP65 Hardshell",
+      "⚙️ <b>TECH_SPECS:</b> MATERIAL: Impact-Shield Internal Padding",
+      "⚙️ <b>TECH_SPECS:</b> CAPACITY: Modular Tech Rigging System",
       "💬 <b>USER_INTEL:</b> The best pack I've ever owned. Durable, waterproof, and looks incredible in stealth ops."
     ]
   },
@@ -779,6 +905,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Encrypted Master PDF, 1x Asset Library (3D).",
       "🕹️ <b>CORE_LOGIC:</b> Digital delivery. High-fidelity blueprints for robotics construction and AI integration.",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: 8K High-Resolution CAD Logic",
+      "⚙️ <b>TECH_SPECS:</b> OS: Full Logic Tree for Motor Actuation",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Integrated Neural-Net Blueprinting",
       "💬 <b>USER_INTEL:</b> Extremely detailed. It allowed me to build my first AI robot core in a single weekend."
     ]
   },
@@ -793,6 +922,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Command Headset, 1x Detachable Boom Mic, 1x USB-C Charging Cable, 1x Hard Shell Transit Case.",
       "🕹️ <b>CORE_LOGIC:</b> Dual-driver audio architecture with localized sound-mapping. Syncs via Bluetooth 5.3 or Direct-Wired protocol.",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Dual-Driver Acoustic Processor",
+      "⚙️ <b>TECH_SPECS:</b> MIC: Active Noise-Canceling Array",
+      "⚙️ <b>TECH_SPECS:</b> BATTERY: 40h Mission Deployment Time",
       "💬 <b>USER_INTEL:</b> The clarity is unmatched. I can hear the subtle shift in truck engines and keep comms crystal clear with the fleet."
     ]
   },
@@ -807,21 +939,31 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x 4K Dash Camera, 1x 128GB High-Speed SD Card, 1x Magnetic Dash Mount, 1x Stealth Wiring Kit.",
       "🕹️ <b>CORE_LOGIC:</b> Continuous loop recording with G-sensor emergency lockout. Neural-engine processing for license plate recognition.",
+      "⚙️ <b>TECH_SPECS:</b> OPTICS: 4K Ultra-Wide Thermal Lens",
+      "⚙️ <b>TECH_SPECS:</b> OS: AI License Plate Recognition Engine",
+      "⚙️ <b>TECH_SPECS:</b> STORAGE: 128GB Internal Loop Array",
       "💬 <b>USER_INTEL:</b> Caught a insurance scammer perfectly. The thermal vision mode makes night towing in the city feel like a video game."
     ]
   },
-  {
-    "id": "58",
-    "name": "GRID_COMMAND_VEST",
-    "price": "150.00",
-    "status": "ELITE_GEAR",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d2996/p1Oy2HnkjgRw2DCBeCsfL_HPrElA0C.png",
-    "desc": "Lightweight tactical chest rig with integrated Molle panels and a flip-down hardshell dashboard for secure mobile device operation.",
+    {
+        "id": "58",
+        "name": "GRID_COMMAND_VEST",
+        "price": "150.00",
+        "status": "ELITE_GEAR",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/p/0a9d1dec/8-t9_e-O6S_6V4_O_2-1_N.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29f9/zTiFOTuMKzP4hDaLdErjk_UyYKoYAF.png",
+            "https://v3b.fal.media/files/b/0a9d29fa/THTeaf3aBeUajzXgcCTTC_sUs9HR9i.png"
+        ],
+        "desc": "Lightweight tactical chest rig with integrated Molle panels and a flip-down hardshell dashboard for secure mobile device operation.",
     "bullets": [
-      "🎁 <b>IN_THE_BOX:</b> 1x Grid Command Vest, 2x Modular Tech Pouches, 1x Universal Phone Harness.",
-      "🕹️ <b>CORE_LOGIC:</b> Reinforced nylon construction with laser-cut attachment points for modular grid expansion.",
-      "💬 <b>USER_INTEL:</b> I have my phone and tablet mounted right on my chest. I can dispatch trucks while keeping my hands free for loading."
+        "🎁 <b>IN_THE_BOX:</b> 1x Grid Command Vest, 2x Modular Tech Pouches, 1x Universal Phone Harness.",
+        "🕹️ <b>CORE_LOGIC:</b> Reinforced nylon construction with laser-cut attachment points for modular grid expansion.",
+        "⚙️ <b>TECH_SPECS:</b> CHASSIS: 1000D Reinforced Ballistic Nylon",
+        "⚙️ <b>TECH_SPECS:</b> MOUNTING: Laser-Cut Molle Interaction Grid",
+        "⚙️ <b>TECH_SPECS:</b> SPECS: Integrated Hardshell Technical Dashboard",
+        "💬 <b>USER_INTEL:</b> I have my phone and tablet mounted right on my chest. I can dispatch trucks while keeping my hands free for loading."
     ]
   },
     {
@@ -839,6 +981,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Nomad Energy Station, 1x 100W Wall Charger, 1x Tactical Carrying Case, 1x DC-to-AC Adapter.",
       "🕹️ <b>CORE_LOGIC:</b> Smart BMS (Battery Management System) with real-time HUD status and overload protection circuitry.",
+      "⚙️ <b>TECH_SPECS:</b> CORE: 100,000mAh High-Density Li-Po Cell",
+      "⚙️ <b>TECH_SPECS:</b> OUTPUT: Dual 100W GaN Rapid Ports + AC Outlet",
+      "⚙️ <b>TECH_SPECS:</b> HUD: Real-Time Telemetry Display",
       "💬 <b>USER_INTEL:</b> Ran my entire 3-monitor setup for 12 hours straight in the middle of nowhere. This is the heart of my operation."
     ]
   },
@@ -857,6 +1002,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Pair Cyber Nomad Boots, 1x Wireless Charging Mat for LEDs, 1x Waterproof Storage Bag.",
       "🕹️ <b>CORE_LOGIC:</b> Memory foam interior with localized grid-ventilation. Pressure-sensitive LEDs that glow with every step.",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: High-density Laser-Cut EVA + Carbon reinforcement",
+      "⚙️ <b>TECH_SPECS:</b> RUNTIME: 120h LED standby",
+      "⚙️ <b>TECH_SPECS:</b> TRACTION: Hex-Grid Alpha Sole",
       "💬 <b>USER_INTEL:</b> Most comfortable boots I've ever owned. The purple glow in the garage at night is a serious vibe."
     ]
   },
@@ -871,6 +1019,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Source Code Repository Access, 1x Advanced Logic Documentation, 1x Setup Orchestration Script.",
       "🕹️ <b>CORE_LOGIC:</b> Multi-agent coordination algorithm. Syncs your entire Roblox fleet for maximum profit extraction.",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Automated Multi-Agent Pathfinding OS",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: 1,000 Vehicle Nodes / Minute Throughput",
+      "⚙️ <b>TECH_SPECS:</b> PROTOCOLS: Encrypted Decentralized Data Bridge",
       "💬 <b>USER_INTEL:</b> This turned my 5-truck operation into a 50-truck empire in a week. The autonomous pathfinding is flawless."
     ]
   },
@@ -885,20 +1036,30 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Titanium Pendant, 1x Braided Steel Chain, 1x Secure Key Initialization Tool.",
       "🕹️ <b>CORE_LOGIC:</b> Dual-sector storage chips with AES-256 encryption. Unlock doors or authorize payments with a tap.",
+      "⚙️ <b>TECH_SPECS:</b> CHASSIS: CNC-Machined Grade 5 Titanium",
+      "⚙️ <b>TECH_SPECS:</b> OS: RFID / NFC Signal Emulation Logic",
+      "⚙️ <b>TECH_SPECS:</b> CAPACITY: 4-Core Encrypted Key Sectors",
       "💬 <b>USER_INTEL:</b> It's my literal master key. I tap my necklace on my truck to start it. Looks incredible, works perfectly."
     ]
   },
-  {
-    "id": "63",
-    "name": "TACTICAL_DRONE_EYE",
-    "price": "150.00",
-    "status": "TRENDING",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d299d/nIYfJY8b3g5i9pltOuYbg_QZiqWQBO.png",
-    "desc": "Ultra-portable micro-drone with AI-follow technology, designed to provide high-fidelity overhead reconnaissance during field ops.",
+    {
+        "id": "63",
+        "name": "TACTICAL_DRONE_EYE",
+        "price": "150.00",
+        "status": "TRENDING",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1dcb/DX11_urOJKrYB3VjKadlQ_h7V4kJQq.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29ff/VtyRVyEXpc-b8CLAreFpl_dSIf9TBa.png",
+            "https://v3b.fal.media/files/b/0a9d29ff/0M6QA1wJoIIHaPPPiIK1k_KoCZ5Nd0.png"
+        ],
+        "desc": "Ultra-portable micro-drone with AI-follow technology, designed to provide high-fidelity overhead reconnaissance during field ops.",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Micro-Drone, 1x Gesture Controller Interface, 2x Battery Cells, 1x Rapid Multi-Charger.",
       "🕹️ <b>CORE_LOGIC:</b> Autonomous tethering logic. Follows the operator via signal-locking or visual AI tracking.",
+      "⚙️ <b>TECH_SPECS:</b> SENSOR: 4K Neural-Link Recon Lens",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Gesture-Interface Control Mesh",
+      "⚙️ <b>TECH_SPECS:</b> BATTERY: 30m Mission Flight Time / Cell",
       "💬 <b>USER_INTEL:</b> I use it to spot traffic blocks ahead of my tow truck. The follow-mode is like having a person always watching my back."
     ]
   },
@@ -913,6 +1074,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Hyper-Sync Module, 1x Universal OBD-II Adapter, 1x Mobile Mounting Bracket.",
       "🕹️ <b>CORE_LOGIC:</b> High-speed data-pass protocol. Mirrored telemetry and 3D navigation mapping to any dashboard.",
+      "⚙️ <b>TECH_SPECS:</b> PROTOCOLS: Bluetooth 5.4 / Wi-Fi 7 Data Bridge",
+      "⚙️ <b>TECH_SPECS:</b> LOGIC: Real-Time Telemetry Mirroring OS",
+      "⚙️ <b>TECH_SPECS:</b> COMPATIBILITY: Universal OBD-II Vehicle Systems",
       "💬 <b>USER_INTEL:</b> Finally, I can see my Roblox stats on my phone while I'm out in the real world. Integrates with the Space Dungeon perfectly."
     ]
   },
@@ -927,6 +1091,9 @@
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Professional CAD Blueprint Set, 1x AI Sensor Mesh Library, 1x Beta-Access to Fleet-OS.",
       "🕹️ <b>CORE_LOGIC:</b> Next-gen robotics architecture. Focuses on fluid motion and real-world environmental interaction.",
+      "⚙️ <b>TECH_SPECS:</b> ARCHITECTURE: ARM Cortex-M7 Neural Rigging",
+      "⚙️ <b>TECH_SPECS:</b> OS: Fluid-Motion Motor Logic (Ver. 2.0)",
+      "⚙️ <b>TECH_SPECS:</b> SPECS: Visual-Sensor Integration Script Array",
       "💬 <b>USER_INTEL:</b> V1 was good, but V2 is god-tier. My prototype robot is now navigating the workshop autonomously thanks to these blueprints."
     ]
   }
