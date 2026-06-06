@@ -80,11 +80,8 @@
                     
                     <div style="background:#0a0a0d; padding:20px; border:1px solid #222;">
                         <h4 style="color:var(--neon-purple); margin-top:0;">DATA_SPECIFICATIONS</h4>
-                        <ul class="specs-list">
-                            <li><b>YIELD_TYPE:</b> <span id="modal-yield"></span></li>
-                            <li><b>CONDITION:</b> ENCRYPTED / NEW</li>
-                            <li><b>FULFILLMENT:</b> ZENDROP_AUTOMATED</li>
-                            <li><b>WHAT_INCLUDED:</b> Secure packaging, High-fidelity asset, Digital authentication token.</li>
+                        <ul id="modal-specs" class="specs-list">
+                            <!-- INJECTED BY JS -->
                         </ul>
                     </div>
 
@@ -97,16 +94,24 @@
 
     <script>
         // MODAL LOGIC
-        function openModal(name, desc, price, img, yield, id) {
-            document.getElementById('modal-title').innerText = name;
-            document.getElementById('modal-desc').innerText = desc;
-            document.getElementById('modal-price').innerText = price;
-            document.getElementById('modal-img').src = img;
-            document.getElementById('modal-yield').innerText = yield;
+        function openModal(id) {
+            const p = window.allProducts.find(item => item.id === id);
+            if(!p) return;
+
+            document.getElementById('modal-title').innerText = p.name;
+            document.getElementById('modal-desc').innerText = p.desc;
+            document.getElementById('modal-price').innerText = p.price;
+            document.getElementById('modal-img').src = p.img;
+            
+            // Build Amazon-style bullets
+            const specsList = document.getElementById('modal-specs');
+            specsList.innerHTML = p.bullets.map(b => `<li>${b}</li>`).join('') + 
+                `<li><b>YIELD_TYPE:</b> ${p.yield}</li>` +
+                `<li><b>FULFILLMENT:</b> ZENDROP_AUTOMATED</li>`;
             
             const store_url = "checkout.html";
             const buyBtn = document.getElementById('modal-buy-btn');
-            buyBtn.href = `${store_url}?item=${encodeURIComponent(name)}&price=${price.replace('$','')}&img=${encodeURIComponent(img)}&id=${id}`;
+            buyBtn.href = `${store_url}?item=${encodeURIComponent(p.name)}&price=${p.price.replace('$','')}&img=${encodeURIComponent(p.img)}&id=${p.id}`;
             
             document.getElementById('productModal').style.display = "block";
         }
@@ -136,6 +141,7 @@
         async function loadStore() {
             const res = await fetch('inventory.json');
             const products = await res.json();
+            window.allProducts = products; // Global storage for modal
             
             const physGrid = document.getElementById('physical-grid');
             const digiGrid = document.getElementById('digital-grid');
@@ -143,7 +149,7 @@
             const store_url = "checkout.html";
 
             physGrid.innerHTML = products.filter(p => p.yield === 'PHYSICAL').map(p => `
-                <div class="card" onclick="openModal('${p.name}', '${p.desc.replace("'","\\'")}', '${p.price}', '${p.img}', '${p.yield}', '${p.id}')">
+                <div class="card" onclick="openModal('${p.id}')">
                     <div class="img-box"><img src="${p.img}"></div>
                     <div style="font-size:12px; font-weight:bold;">${p.name}</div>
                     <div style="font-size:10px; opacity:0.6; margin:5px 0;">${p.desc}</div>
@@ -153,7 +159,7 @@
             `).join('');
 
             digiGrid.innerHTML = products.filter(p => p.yield !== 'PHYSICAL').map(p => `
-                <div class="card" onclick="openModal('${p.name}', '${p.desc.replace("'","\\'")}', '${p.price}', '${p.img}', '${p.yield}', '${p.id}')">
+                <div class="card" onclick="openModal('${p.id}')">
                     <div class="img-box"><img src="${p.img || 'https://v3b.fal.media/files/b/0a9d1cf8/41fy9teZUKdXCZswVd47v_3rX4DMNS.png'}"></div>
                     <div style="font-size:12px; font-weight:bold;">${p.name}</div>
                     <div style="font-size:10px; opacity:0.6; margin:5px 0;">${p.desc || 'Encrypted Blueprint'}</div>

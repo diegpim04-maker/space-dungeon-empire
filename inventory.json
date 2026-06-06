@@ -9,7 +9,14 @@
     "desc": "High-grip tactical gloves.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Tactical Grade: Engineered for high-precision operations and grip strength.",
+      "Touch-Screen Compatible: Integrated conductive pads for seamless device usage.",
+      "Breathable Fabric: Impact-resistant mesh with moisture-wicking technology.",
+      "Durability: Reinforced double-stitching in high-wear zones.",
+      "Box Includes: 1 Pair Operator Gloves, Storage Pouch, Security ID Tag."
+    ]
   },
   {
     "id": "10",
@@ -21,7 +28,14 @@
     "desc": "Stainless steel color-shifting bottle.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$12.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Titanium PVD Coating: Premium matte finish resists scratches and fingerprints.",
+      "Double Wall Vacuum: Keeps liquids cold for 24h or hot for 12h.",
+      "UV-C Cap: Self-cleaning technology kills 99.9% of bacteria in 60 seconds.",
+      "Magnetic Tether: Leak-proof cap with rapid-access magnetic hinge.",
+      "Box Includes: 1 Hydration Cell, 1 USB-C Charger, Global Sector Manual."
+    ]
   },
   {
     "id": "11",
@@ -33,7 +47,14 @@
     "desc": "Ergonomic matte black foam with neon-purple grid.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "12",
@@ -45,7 +66,14 @@
     "desc": "Minimalist carbon-fiber RFID protection.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$9.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Aerospace Carbon Fiber: Impossible-to-break structure with zero signal leakage.",
+      "RFID Scrambling: 360-degree protection against unauthorized sector scans.",
+      "Ultra-Slim Profile: Holds 12 cards + cash without losing shape.",
+      "Quick-Access Slot: Finger-slide cutout for rapid deployment of primary IDs.",
+      "Box Includes: 1 Signal Block Wallet, 1 Replacement Elastomeric Band."
+    ]
   },
   {
     "id": "13",
@@ -57,7 +85,14 @@
     "desc": "Cylindrical lamp projecting a 3D neon grid.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "14",
@@ -69,7 +104,14 @@
     "desc": "Industrial strength honeycomb adhesive grip.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$4.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "16",
@@ -81,7 +123,14 @@
     "desc": "Armored 3D grid phone case.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "17",
@@ -93,7 +142,14 @@
     "desc": "Hardshell waterproof tactical armor for tech.",
     "supplier": "USAdrop",
     "supplier_cost": "$42.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Hardshell Protection: 100% waterproof military-grade EVA exoskeleton.",
+      "Modular Interior: Adjustable dividers for GaN chargers, laptops, and drones.",
+      "Weight-Distributing Straps: Ergonomic foam padding for long-duration nomadic travel.",
+      "Security: Hidden RFID-blocking theft-proof compartments.",
+      "Box Includes: 1 Operator Pack, 3 Strapping Tethers, Digital Authenticator."
+    ]
   },
   {
     "id": "18",
@@ -105,7 +161,14 @@
     "desc": "Extra-large liquid-resistant setup pad.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "19",
@@ -117,7 +180,14 @@
     "desc": "Transparent GaN high-speed universal charger.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$13.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "20",
@@ -129,7 +199,14 @@
     "desc": "PVD-coated black titanium field gear.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$6.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "21",
@@ -141,7 +218,14 @@
     "desc": "Advanced urban air-filtration masking.",
     "supplier": "USAdrop",
     "supplier_cost": "$22.75",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "22",
@@ -153,7 +237,14 @@
     "desc": "Capture energy from movement.",
     "supplier": "USAdrop",
     "supplier_cost": "$29.75",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "23",
@@ -165,7 +256,14 @@
     "desc": "Cyber-meditation sleep mask.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "24",
@@ -177,7 +275,14 @@
     "desc": "Fireproof tactical storage.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "25",
@@ -189,7 +294,14 @@
     "desc": "Tactical hardshell sleeve for jugs.",
     "supplier": "USAdrop",
     "supplier_cost": "$17.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Titanium PVD Coating: Premium matte finish resists scratches and fingerprints.",
+      "Double Wall Vacuum: Keeps liquids cold for 24h or hot for 12h.",
+      "UV-C Cap: Self-cleaning technology kills 99.9% of bacteria in 60 seconds.",
+      "Magnetic Tether: Leak-proof cap with rapid-access magnetic hinge.",
+      "Box Includes: 1 Hydration Cell, 1 USB-C Charger, Global Sector Manual."
+    ]
   },
   {
     "id": "26",
@@ -201,7 +313,14 @@
     "desc": "Waist-mounted cooling turbine.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "28",
@@ -213,7 +332,14 @@
     "desc": "Massive waterproof recycled tote.",
     "supplier": "USAdrop",
     "supplier_cost": "$22.75",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "29",
@@ -225,7 +351,14 @@
     "desc": "Touchless command orb.",
     "supplier": "USAdrop",
     "supplier_cost": "$26.25",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "31",
@@ -237,7 +370,14 @@
     "desc": "Focus-enhancing gaming glasses.",
     "supplier": "USAdrop",
     "supplier_cost": "$21.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "32",
@@ -249,7 +389,14 @@
     "desc": "Magnetic quick-release system.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "33",
@@ -261,7 +408,14 @@
     "desc": "360 security AI tracking.",
     "supplier": "USAdrop",
     "supplier_cost": "$50.75",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "34",
@@ -273,7 +427,14 @@
     "desc": "Smart vault lock.",
     "supplier": "USAdrop",
     "supplier_cost": "$22.75",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "35",
@@ -285,7 +446,14 @@
     "desc": "Portable privacy shield.",
     "supplier": "USAdrop",
     "supplier_cost": "$33.25",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "36",
@@ -297,7 +465,14 @@
     "desc": "10k Lumen grid beam torch.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "37",
@@ -309,7 +484,14 @@
     "desc": "High-torque recovery gun.",
     "supplier": "HyperSKU",
     "supplier_cost": "$72.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "High-Torque Motor: 3200 RPM brushless engine for deep-tissue recovery.",
+      "Smart HUD: OLED display showing pressure levels and battery calibration.",
+      "5 Attachments: Specialized heads for bicep, spinal, and large muscle groups.",
+      "Ultra-Quiet: Stealth-drive technology dampens sound below 45dB.",
+      "Box Includes: 1 Recovery Gun, 5 Precision Heads, 1 Charging Dock, Hardshell Case."
+    ]
   },
   {
     "id": "38",
@@ -321,7 +503,14 @@
     "desc": "Digital grip trainer HUD.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$13.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "39",
@@ -333,7 +522,14 @@
     "desc": "Weighted neon rep rope.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "40",
@@ -345,7 +541,14 @@
     "desc": "Bicep heart-pulse grid.",
     "supplier": "USAdrop",
     "supplier_cost": "$17.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "41",
@@ -357,7 +560,14 @@
     "desc": "Carbon fiber custom mechanical keyboard.",
     "supplier": "HyperSKU",
     "supplier_cost": "$64.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "42",
@@ -369,7 +579,14 @@
     "desc": "Magnetic carbon fiber tracking mount.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$13.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "43",
@@ -381,7 +598,14 @@
     "desc": "Transparent glow NVMe enclosure.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "44",
@@ -393,7 +617,14 @@
     "desc": "Fingerprint tactical padlock.",
     "supplier": "USAdrop",
     "supplier_cost": "$22.75",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "45",
@@ -405,7 +636,14 @@
     "desc": "Vertical charging neon grid stand.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$12.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "46",
@@ -417,7 +655,14 @@
     "desc": "Forged carbon fiber hardshell with neon green latches.",
     "supplier": "HyperSKU",
     "supplier_cost": "$72.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "47",
@@ -429,7 +674,14 @@
     "desc": "Floating levitating orb lamp with neon purple aura.",
     "supplier": "HyperSKU",
     "supplier_cost": "$100.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "48",
@@ -441,7 +693,14 @@
     "desc": "Solid titanium PVD card tool with neon purple etching.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$13.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "49",
@@ -453,7 +712,14 @@
     "desc": "Long-range portable Wi-Fi 7 bridge for elite nomads.",
     "supplier": "HyperSKU",
     "supplier_cost": "$140.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "50",
@@ -465,7 +731,14 @@
     "desc": "Luxury black leather mat with glowing neon green edge.",
     "supplier": "USAdrop",
     "supplier_cost": "$42.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Premium high-fidelity design for the urban nomad.",
+      "Universal compatibility with the Space Dungeon ecosystem.",
+      "Limited Edition item with unique manufacturing ID.",
+      "Industrial-grade materials for extreme durability.",
+      "Box Includes: Main product, Sector Manual, Secure Branding."
+    ]
   },
   {
     "id": "51",
@@ -477,7 +750,14 @@
     "desc": "Automated e-commerce extraction engine for massive fleet operations.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$0.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Step-by-Step Schematics: Full 3D wireframes and assembly instructions.",
+      "Code Repos Included: Direct access to the internal Python/Lua core modules.",
+      "Vector Assets: 8k resolution industrial design files for manufacturing.",
+      "Lifetime Updates: Auto-sync features for future OS expansions.",
+      "Box Includes: Encrypted Access Link, Digital Bible, API Documentation."
+    ]
   },
   {
     "id": "52",
@@ -489,7 +769,14 @@
     "desc": "Elite bypass and system access utility. God-tier clearance.",
     "supplier": "USAdrop",
     "supplier_cost": "$17.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Step-by-Step Schematics: Full 3D wireframes and assembly instructions.",
+      "Code Repos Included: Direct access to the internal Python/Lua core modules.",
+      "Vector Assets: 8k resolution industrial design files for manufacturing.",
+      "Lifetime Updates: Auto-sync features for future OS expansions.",
+      "Box Includes: Encrypted Access Link, Digital Bible, API Documentation."
+    ]
   },
   {
     "id": "54",
@@ -501,7 +788,14 @@
     "desc": "Tactical hardshell gear for field operations. Advanced protection.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$6.00",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Hardshell Protection: 100% waterproof military-grade EVA exoskeleton.",
+      "Modular Interior: Adjustable dividers for GaN chargers, laptops, and drones.",
+      "Weight-Distributing Straps: Ergonomic foam padding for long-duration nomadic travel.",
+      "Security: Hidden RFID-blocking theft-proof compartments.",
+      "Box Includes: 1 Operator Pack, 3 Strapping Tethers, Digital Authenticator."
+    ]
   },
   {
     "id": "55",
@@ -513,6 +807,13 @@
     "desc": "Complete visual guide to high-fidelity robotics and OS construction.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$1.50",
-    "fulfillment_id": "PENDING_SKU"
+    "fulfillment_id": "PENDING_SKU",
+    "bullets": [
+      "Step-by-Step Schematics: Full 3D wireframes and assembly instructions.",
+      "Code Repos Included: Direct access to the internal Python/Lua core modules.",
+      "Vector Assets: 8k resolution industrial design files for manufacturing.",
+      "Lifetime Updates: Auto-sync features for future OS expansions.",
+      "Box Includes: Encrypted Access Link, Digital Bible, API Documentation."
+    ]
   }
 ]
