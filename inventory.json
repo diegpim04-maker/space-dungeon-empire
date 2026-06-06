@@ -287,14 +287,18 @@
       "💬 <b>USER_INTEL:</b> Cleanest air I've breathed in the city. Doesn't fog up my glasses and looks futuristic."
     ]
   },
-  {
-    "id": "22",
-    "name": "KINETIC_POWER_BANK",
-    "price": "65.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1da9/fCGVGYUqGf61G20N8ehD4_ulqN3OjX.png",
-    "desc": "High-capacity external battery featuring bidirectional 20W power delivery, housed in a shock-resistant hardshell made for the nomad lifestyle.",
+    {
+        "id": "22",
+        "name": "KINETIC_POWER_BANK",
+        "price": "65.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1da9/fCGVGYUqGf61G20N8ehD4_ulqN3OjX.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a8b/bQrt8SFvYUJG5TGM5RNtS_qsirnsJL.png",
+            "https://v3b.fal.media/files/b/0a9d2a8b/cvD5LKV5MPyDke1Qemibt_XEKH0krE.png"
+        ],
+        "desc": "High-capacity external battery featuring bidirectional 20W power delivery, housed in a shock-resistant hardshell made for the nomad lifestyle.",
     "supplier": "USAdrop",
     "supplier_cost": "$29.75",
     "fulfillment_id": "PENDING_SKU",
@@ -307,14 +311,18 @@
       "💬 <b>USER_INTEL:</b> Charges my phone three times over. The LED fuel gauge is bright and clear."
     ]
   },
-  {
-    "id": "23",
-    "name": "NEURAL_REST_MASK",
-    "price": "65.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1daa/ubwTn38oPPEgAR2nrkKtx_2o5rL4wj.png",
-    "desc": "Contoured memory foam mask with integrated blue-light filtration lenses designed to optimize recovery and focus during short transit sleep.",
+    {
+        "id": "23",
+        "name": "NEURAL_REST_MASK",
+        "price": "65.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1daa/ubwTn38oPPEgAR2nrkKtx_2o5rL4wj.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a90/3omYOAUy_Pi_iAB_TcB-b_ssuVfNVe.png",
+            "https://v3b.fal.media/files/b/0a9d2a8c/5TSrkWuvIkqePxiDNDtan_dQnknptE.png"
+        ],
+        "desc": "Contoured memory foam mask with integrated blue-light filtration lenses designed to optimize recovery and focus during short transit sleep.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
