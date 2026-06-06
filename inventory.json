@@ -45,7 +45,7 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE OPERATOR_SLIDES, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE OPERATOR_SLIDES, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -96,7 +96,7 @@
     "supplier_cost": "$4.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE NEON_GRIP_TAPE, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE NEON_GRIP_TAPE, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -113,9 +113,9 @@
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE DUNGEON_CASE, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Tactical Hardshell Case, 1x Tempered Glass Screen Guard, 1x Microfiber Polishing Shield.",
+      "\ud83d\udee1\ufe0f <b>ARMOR_LOGIC:</b> Dual-layer impact protection with raised bezel for lens security. Precision cutouts for all ports and wireless charging compatible.",
+      "\ud83d\udcac <b>USER_INTEL:</b> Finally a case that doesn't feel like cheap plastic. The grip is insane and the neon purple accents actually glow under UV."
     ]
   },
   {
@@ -147,7 +147,7 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE NEON_DESK_MAT, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x THE NEON_DESK_MAT, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -164,7 +164,7 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_PLUG_ADAPTER, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_PLUG_ADAPTER, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -181,7 +181,7 @@
     "supplier_cost": "$6.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TITANIUM_SPORK_TAC, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TITANIUM_SPORK_TAC, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -198,7 +198,7 @@
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIO_FILTER_MASK, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIO_FILTER_MASK, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -215,7 +215,7 @@
     "supplier_cost": "$29.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x KINETIC_POWER_BANK, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x KINETIC_POWER_BANK, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -232,7 +232,7 @@
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x NEURAL_REST_MASK, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x NEURAL_REST_MASK, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -249,7 +249,7 @@
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x OPERATOR_POUCH, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x OPERATOR_POUCH, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -283,7 +283,7 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TURBO_COOL_FAN, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TURBO_COOL_FAN, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -317,7 +317,7 @@
     "supplier_cost": "$26.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x GESTURE_CONTROLLER, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x GESTURE_CONTROLLER, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -334,7 +334,7 @@
     "supplier_cost": "$21.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_EYE_GLASSES, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_EYE_GLASSES, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -351,7 +351,7 @@
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x MAG_LOCK_KEYCHAIN, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x MAG_LOCK_KEYCHAIN, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -368,7 +368,7 @@
     "supplier_cost": "$50.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x PERIMETER_EYE, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x PERIMETER_EYE, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -385,7 +385,7 @@
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x DOOR_LOCK_ENFORCER, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x DOOR_LOCK_ENFORCER, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -402,7 +402,7 @@
     "supplier_cost": "$33.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SIGNAL_SCRAMBLER, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SIGNAL_SCRAMBLER, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -453,7 +453,7 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x NEURAL_GRIP_STRENGTH, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x NEURAL_GRIP_STRENGTH, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -470,7 +470,7 @@
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x KINETIC_JUMP_ROPE, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x KINETIC_JUMP_ROPE, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -487,7 +487,7 @@
     "supplier_cost": "$17.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIO_SYNC_STRAP, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIO_SYNC_STRAP, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -521,8 +521,8 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TACTICAL_CAR_MOUNT, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x TACTICAL_CAR_MOUNT, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83d\udd79\ufe0f <b>ARMOR_SPECS:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Precision Snap-On Integration.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
   },
@@ -538,9 +538,9 @@
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x DUNGEON_SSD_CASE, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Tactical Hardshell Case, 1x Tempered Glass Screen Guard, 1x Microfiber Polishing Shield.",
+      "\ud83d\udee1\ufe0f <b>ARMOR_LOGIC:</b> Dual-layer impact protection with raised bezel for lens security. Precision cutouts for all ports and wireless charging compatible.",
+      "\ud83d\udcac <b>USER_INTEL:</b> Finally a case that doesn't feel like cheap plastic. The grip is insane and the neon purple accents actually glow under UV."
     ]
   },
   {
@@ -555,7 +555,7 @@
     "supplier_cost": "$22.75",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIOMETRIC_PADLOCK, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x BIOMETRIC_PADLOCK, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -572,7 +572,7 @@
     "supplier_cost": "$12.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_HEADPHONE_STAND, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_HEADPHONE_STAND, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -589,9 +589,9 @@
     "supplier_cost": "$72.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x DUNGEON_CASE_ULTRA, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
-      "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
-      "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x Tactical Hardshell Case, 1x Tempered Glass Screen Guard, 1x Microfiber Polishing Shield.",
+      "\ud83d\udee1\ufe0f <b>ARMOR_LOGIC:</b> Dual-layer impact protection with raised bezel for lens security. Precision cutouts for all ports and wireless charging compatible.",
+      "\ud83d\udcac <b>USER_INTEL:</b> Finally a case that doesn't feel like cheap plastic. The grip is insane and the neon purple accents actually glow under UV."
     ]
   },
   {
@@ -623,7 +623,7 @@
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_MASTER_KEY, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x SYSTEM_MASTER_KEY, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -640,7 +640,7 @@
     "supplier_cost": "$140.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x GLOBAL_SIGNAL_BOOST, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x GLOBAL_SIGNAL_BOOST, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
@@ -657,7 +657,7 @@
     "supplier_cost": "$42.00",
     "fulfillment_id": "PENDING_SKU",
     "bullets": [
-      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x IMPERIAL_DESK_MAT, 1x Authentication Token, 1x Secure Tactical Packaging, 1x User Manual.",
+      "\ud83c\udf81 <b>IN_THE_BOX:</b> 1x IMPERIAL_DESK_MAT, 1x Unique Serial Identity Tag, 1x Secure Tactical Packaging, 1x User Manual.",
       "\ud83d\udd79\ufe0f <b>CORE_LOGIC:</b> Industrial-grade durability designed for seamless integration into your existing tech ecosystem. Plug-and-play operation.",
       "\ud83d\udcac <b>USER_INTEL:</b> Exceeded expectations. The build quality feels like military-grade hardware. Worth every penny for the aesthetic alone."
     ]
