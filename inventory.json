@@ -62,14 +62,18 @@
       "💬 <b>USER_INTEL:</b> Like walking on a localized gravity field. The purple grid isn't just for show, the grip is real."
     ]
   },
-  {
-    "id": "12",
-    "name": "SIGNAL_BLOCK_WALLET",
-    "price": "35.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1d7b/VqiTUi6mm6UZiJb3Ln_lR_vTvhthUU.png",
-    "desc": "Forged carbon fiber wallet designed to neutralize RFID/NFC scanning, keeping your digital identity and credentials locked down.",
+    {
+        "id": "12",
+        "name": "SIGNAL_BLOCK_WALLET",
+        "price": "35.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1796/lI2X7d0FzV8u5q7S9M_K8_f7tWhmQR.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a0a/f0F8DNsqVhm5uAFg8xNot_p1Uiirm9.png",
+            "https://v3b.fal.media/files/b/0a9d2a0b/ewfSzvGcbrlt3ET1TsDlY_zmoQS5tf.png"
+        ],
+        "desc": "Forged carbon fiber wallet designed to neutralize RFID/NFC scanning, keeping your digital identity and credentials locked down.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$9.00",
     "fulfillment_id": "PENDING_SKU",
@@ -117,14 +121,18 @@
       "💬 <b>USER_INTEL:</b> Applied this to my mouse and truck steering wheel. The sweat-wicking texture is a total game changer."
     ]
   },
-  {
-    "id": "16",
-    "name": "THE DUNGEON_CASE",
-    "price": "35.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1d75/eHGgdGCxZTHRSWj5UYDJ__bZhJZnol.png",
-    "desc": "Impact-resistant hardshell phone armor with raised 3D grid lines for superior grip and heat dissipation during high-spec mobile sessions.",
+    {
+        "id": "16",
+        "name": "THE DUNGEON_CASE",
+        "price": "35.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1d75/eHGgdGCxZTHRSWj5UYDJ__bZhJZnol.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a10/yCygcuaJKjV15uzZELTn8_u1apIYC7.png",
+            "https://v3b.fal.media/files/b/0a9d2a0c/-nGaG0MsgTwzxZKz4LOFx_VXhi75Gj.png"
+        ],
+        "desc": "Impact-resistant hardshell phone armor with raised 3D grid lines for superior grip and heat dissipation during high-spec mobile sessions.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
@@ -155,14 +163,18 @@
       "💬 <b>USER_INTEL:</b> The hardshell is legit. I dropped it while biking and my gear didn't even shift. Looks tactical."
     ]
   },
-  {
-    "id": "18",
-    "name": "THE NEON_DESK_MAT",
-    "price": "35.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1d95/c7DhjwegROqyXUvlHg7pA_LwOvOnU6.png",
-    "desc": "Liquid-resistant workspace pad with a micro-woven surface optimized for high-fidelity optical sensors and zero-latency mouse movement.",
+    {
+        "id": "18",
+        "name": "THE NEON_DESK_MAT",
+        "price": "35.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1d95/c7DhjwegROqyXUvlHg7pA_LwOvOnU6.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a0c/h5P0JmLjv3fbnESWPtwa5_ngXgksDV.png",
+            "https://v3b.fal.media/files/b/0a9d2a0d/zozA5Npi2qMr8EF2UTz-9_CKKnE9yg.png"
+        ],
+        "desc": "Liquid-resistant workspace pad with a micro-woven surface optimized for high-fidelity optical sensors and zero-latency mouse movement.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$10.50",
     "fulfillment_id": "PENDING_SKU",
@@ -172,14 +184,18 @@
       "💬 <b>USER_INTEL:</b> My mouse glides like it's on ice. The purple grid lines help with layout alignment too."
     ]
   },
-  {
-    "id": "19",
-    "name": "SYSTEM_PLUG_ADAPTER",
-    "price": "35.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1d91/rRztwnwtAqGDeeGuwugbN_4tW0Q6Si.png",
-    "desc": "Ultra-efficient GaN charger that delivers 65W of power in a transparent heat-resistant chassis, supporting simultaneous multi-device rapid charging.",
+    {
+        "id": "19",
+        "name": "SYSTEM_PLUG_ADAPTER",
+        "price": "35.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1d91/rRztwnwtAqGDeeGuwugbN_4tW0Q6Si.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a0d/trwDaZ1FW0Uq7gJWzw6uH_havL6YaI.png",
+            "https://v3b.fal.media/files/b/0a9d2a0e/CHnj-7fUqpnQXtFwdypUD_KhPUrTwz.png"
+        ],
+        "desc": "Ultra-efficient GaN charger that delivers 65W of power in a transparent heat-resistant chassis, supporting simultaneous multi-device rapid charging.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$13.50",
     "fulfillment_id": "PENDING_SKU",
@@ -435,14 +451,18 @@
       "💬 <b>USER_INTEL:</b> Tested it with a recording device—all it picked up was silence. Essential for private meetings."
     ]
   },
-  {
-    "id": "36",
-    "name": "TACTICAL_FLASHLIGHT_V4",
-    "price": "65.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1dcd/7DngQIw3Zt0Sw9_Swi3rw_X2OnMiSs.png",
-    "desc": "10,000 Lumen handheld searchlight with a high-intensity grid beam and a rechargeable power core that lasts through 48 hours of operation.",
+    {
+        "id": "36",
+        "name": "TACTICAL_FLASHLIGHT_V4",
+        "price": "65.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1dcd/7DngQIw3Zt0Sw9_Swi3rw_X2OnMiSs.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d2a0e/e_sPxanLB0teo-zYTk_fE_VOVuEdMN.png",
+            "https://v3b.fal.media/files/b/0a9d2a0f/eMsU1vDk7lUh3gbupM09y_E6EhRMDt.png"
+        ],
+        "desc": "10,000 Lumen handheld searchlight with a high-intensity grid beam and a rechargeable power core that lasts through 48 hours of operation.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
