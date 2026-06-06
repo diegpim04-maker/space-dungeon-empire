@@ -1,12 +1,16 @@
 [
-  {
-    "id": "09",
-    "name": "THE OPERATOR_GLOVES",
-    "price": "35.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1d6f/IPogxikqTZsyLmXc0Zc50_kZn0OkmB.png",
-    "desc": "Armored tactical gloves featuring conductive fingertips for high-precision screen operation and impact-resistant knuckle plating.",
+    {
+        "id": "09",
+        "name": "THE OPERATOR_GLOVES",
+        "price": "35.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1d6f/IPogxikqTZsyLmXc0Zc50_kZn0OkmB.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29e9/6Wm2KywaP6dwHcYjTXl_a_TbeGRzxx.png",
+            "https://v3b.fal.media/files/b/0a9d29ee/F8K8Eihsej0Nwg9fellus_PYBARnBC.png"
+        ],
+        "desc": "Armored tactical gloves featuring conductive fingertips for high-precision screen operation and impact-resistant knuckle plating.",
     "supplier": "CJ_Dropshipping",
     "supplier_cost": "$7.50",
     "fulfillment_id": "PENDING_SKU",
@@ -67,14 +71,18 @@
       "💬 <b>USER_INTEL:</b> Ridiculously slim. I forgot it was in my pocket. The signal blocking actually works."
     ]
   },
-  {
-    "id": "13",
-    "name": "AMBIENT_GRID_LAMP",
-    "price": "65.00",
-    "status": "LIMITED",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1d7c/z_1jnx4Q0UyElqKSYTqN6_GU7u7aDo.png",
-    "desc": "Atmospheric lighting projector that maps a high-fidelity 3D laser grid across your walls, transforming any room into a command center.",
+    {
+        "id": "13",
+        "name": "AMBIENT_GRID_LAMP",
+        "price": "65.00",
+        "status": "LIMITED",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1d7c/z_1jnx4Q0UyElqKSYTqN6_GU7u7aDo.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29ef/cVttvCFJyn3Snm1amwUf5_81SN2dYw.png",
+            "https://v3b.fal.media/files/b/0a9d29ec/tjT8ia7BzOcCmsHQQA1tP_1j8aKOQj.png"
+        ],
+        "desc": "Atmospheric lighting projector that maps a high-fidelity 3D laser grid across your walls, transforming any room into a command center.",
     "supplier": "USAdrop",
     "supplier_cost": "$19.25",
     "fulfillment_id": "PENDING_SKU",
@@ -360,14 +368,18 @@
       "💬 <b>USER_INTEL:</b> Solid build. I use it for my keys and my tactical flashlight. Never drops but detaches instantly."
     ]
   },
-  {
-    "id": "33",
-    "name": "PERIMETER_EYE",
-    "price": "150.00",
-    "status": "BEST_SELLER",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1dcb/DX11_urOJKrYB3VjKadlQ_h7V4kJQq.png",
-    "desc": "Autonomous 360-degree security camera with AI person tracking and thermal night vision, designed to monitor your sector with absolute precision.",
+    {
+        "id": "33",
+        "name": "PERIMETER_EYE",
+        "price": "150.00",
+        "status": "BEST_SELLER",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1dcb/DX11_urOJKrYB3VjKadlQ_h7V4kJQq.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29ee/eONZAPVmV6P1zPfuh---o_q34jszBC.png",
+            "https://v3b.fal.media/files/b/0a9d29eb/S6DrUDGbojdoSnUHZuR7C_fvF63hub.png"
+        ],
+        "desc": "Autonomous 360-degree security camera with AI person tracking and thermal night vision, designed to monitor your sector with absolute precision.",
     "supplier": "USAdrop",
     "supplier_cost": "$50.75",
     "fulfillment_id": "PENDING_SKU",
@@ -780,14 +792,18 @@
       "💬 <b>USER_INTEL:</b> I have my phone and tablet mounted right on my chest. I can dispatch trucks while keeping my hands free for loading."
     ]
   },
-  {
-    "id": "59",
-    "name": "NOMAD_ENERGY_STATION",
-    "price": "500.00",
-    "status": "IMPERIAL_POWER",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d2997/nC2kLNVvsORpRNbdZIEaN_fuIrTRf0.png",
-    "desc": "100,000mAh portable energy vault featuring high-voltage AC outlets and specialized GaN rapid-charging ports for elite field setups.",
+    {
+        "id": "59",
+        "name": "NOMAD_ENERGY_STATION",
+        "price": "500.00",
+        "status": "IMPERIAL_POWER",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d2997/nC2kLNVvsORpRNbdZIEaN_fuIrTRf0.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29ec/WvU5zflVQYQo4boNNmRHS_5lFT7ySH.png",
+            "https://v3b.fal.media/files/b/0a9d29ed/UiQf8ztWM7gcqeeyc8zU3_nJGv39QR.png"
+        ],
+        "desc": "100,000mAh portable energy vault featuring high-voltage AC outlets and specialized GaN rapid-charging ports for elite field setups.",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Nomad Energy Station, 1x 100W Wall Charger, 1x Tactical Carrying Case, 1x DC-to-AC Adapter.",
       "🕹️ <b>CORE_LOGIC:</b> Smart BMS (Battery Management System) with real-time HUD status and overload protection circuitry.",
