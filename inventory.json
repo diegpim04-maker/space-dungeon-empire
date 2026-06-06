@@ -305,14 +305,18 @@
       "💬 <b>USER_INTEL:</b> I took this through a storm and my laptop stayed bone dry. People always ask where I got this."
     ]
   },
-  {
-    "id": "29",
-    "name": "GESTURE_CONTROLLER",
-    "price": "150.00",
-    "status": "ELITE_TECH",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1dbb/2XOG3yIcyhNBMcghRblLN_0NRSn6iR.png",
-    "desc": "Touchless interface ring that uses 6-axis gyro sensors to control your desktop, tablet, or vehicle systems with precise hand gestures.",
+    {
+        "id": "29",
+        "name": "GESTURE_CONTROLLER",
+        "price": "150.00",
+        "status": "ELITE_TECH",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1dbb/2XOG3yIcyhNBMcghRblLN_0NRSn6iR.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29c3/g6aS3cAY0tCftml1FNDat_8YhOKRr2.png",
+            "https://v3b.fal.media/files/b/0a9d29c3/aerAdhz1_NG4JRI_Vwwji_qMszmsJU.png"
+        ],
+        "desc": "Touchless interface ring that uses 6-axis gyro sensors to control your desktop, tablet, or vehicle systems with precise hand gestures.",
     "supplier": "USAdrop",
     "supplier_cost": "$26.25",
     "fulfillment_id": "PENDING_SKU",
@@ -424,14 +428,18 @@
       "💬 <b>USER_INTEL:</b> This thing is like holding a piece of the sun. The beam distance is insane. Solid metal build."
     ]
   },
-  {
-    "id": "37",
-    "name": "SYSTEM_RECOVERY_GUN",
-    "price": "150.00",
-    "status": "PREMIUM",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d1dcc/5Kvj4yl9MmL6g_n5VBfuv_lR6GPO6V.png",
-    "desc": "High-torque percussion massager designed for deep muscle recovery, featuring 5 specialized attachments and carbon-fiber reinforcement.",
+    {
+        "id": "37",
+        "name": "SYSTEM_RECOVERY_GUN",
+        "price": "150.00",
+        "status": "PREMIUM",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d1dcc/5Kvj4yl9MmL6g_n5VBfuv_lR6GPO6V.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29c4/FIBpnWKk_MkMA3qvH7VVd_Psj6rd5R.png",
+            "https://v3b.fal.media/files/b/0a9d29c4/g7gu9chARDY-0ABhojiNd_Acc6kxb0.png"
+        ],
+        "desc": "High-torque percussion massager designed for deep muscle recovery, featuring 5 specialized attachments and carbon-fiber reinforcement.",
     "supplier": "HyperSKU",
     "supplier_cost": "$72.00",
     "fulfillment_id": "PENDING_SKU",
@@ -786,14 +794,18 @@
       "💬 <b>USER_INTEL:</b> Ran my entire 3-monitor setup for 12 hours straight in the middle of nowhere. This is the heart of my operation."
     ]
   },
-  {
-    "id": "60",
-    "name": "CYBER_NOMAD_BOOTS",
-    "price": "150.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9d2997/sP3mLrdD6GzPmrhS7aJTR_iJfJpGi9.png",
-    "desc": "Impact-resistant carbon-fiber sneakers with high-traction soles and integrated purple LED feedback for low-light night-ops.",
+    {
+        "id": "60",
+        "name": "CYBER_NOMAD_BOOTS",
+        "price": "150.00",
+        "status": "IN_STOCK",
+        "yield": "PHYSICAL",
+        "img": "https://v3b.fal.media/files/b/0a9d2997/sP3mLrdD6GzPmrhS7aJTR_iJfJpGi9.png",
+        "gallery": [
+            "https://v3b.fal.media/files/b/0a9d29c5/8NgaqdbECPHEGj27ShtiU_rvWu7rWk.png",
+            "https://v3b.fal.media/files/b/0a9d29c5/0jLdW8ez9JSDAuynvJGqF_1DJTty6X.png"
+        ],
+        "desc": "Impact-resistant carbon-fiber sneakers with high-traction soles and integrated purple LED feedback for low-light night-ops.",
     "bullets": [
       "🎁 <b>IN_THE_BOX:</b> 1x Pair Cyber Nomad Boots, 1x Wireless Charging Mat for LEDs, 1x Waterproof Storage Bag.",
       "🕹️ <b>CORE_LOGIC:</b> Memory foam interior with localized grid-ventilation. Pressure-sensitive LEDs that glow with every step.",
