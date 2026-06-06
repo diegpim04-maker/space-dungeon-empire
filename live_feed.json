@@ -2,7 +2,7 @@
   "minions": [
     {
       "id": 1,
-      "task": "Researching AI Bounties",
+      "task": "Targeting: QUANTUM_ENCRYPTION_RIGS",
       "status": "active",
       "profit": 850.0
     },
@@ -26,9 +26,9 @@
     },
     {
       "id": 5,
-      "task": "Sales Extraction Unit",
+      "task": "Sold: THE OPERATOR_PACK @ $185.00",
       "status": "active",
-      "profit": 4800.0
+      "profit": 4985.0
     },
     {
       "id": 6,
@@ -43,8 +43,8 @@
       "profit": 0.0
     }
   ],
-  "total_profit": 33400.0,
-  "system_status": "RED_ALERT // UNAUTHORIZED_ACCESS_DETECTED",
+  "total_profit": 33585.0,
+  "system_status": "OPERATIONAL // SECURITY_RESTORED",
   "live_visitors": 12540,
   "active_drones": 82,
   "global_hubs": 42
