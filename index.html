@@ -40,10 +40,8 @@
             <div class="modal-body">
                 <div class="modal-info">
                     <h2 id="modalTitle"></h2>
-                    <p id="modalPrice" class="price"></p>
-                    <div id="modalOverview" class="overview-section"></div>
-                    <div id="modalSpecs" class="specs-grid"></div>
-                    <div id="modalIntel" class="intel-block"></div>
+                    <div id="modal-price" class="modal-price">$0.00</div>
+                    <a id="modal-buy-btn" href="#" class="buy-now-btn" onclick="initiatePurchase(event)">ACQUIRE_UNIT</a>
                 </div>
             </div>
         </div>
@@ -75,20 +73,34 @@
         function openProduct(id) {
             const p = window.productsData.find(item => item.id === id);
             if (!p) return;
+            window.activeProduct = p;
 
             document.getElementById('modalTitle').innerText = p.name;
-            document.getElementById('modalPrice').innerText = `$${p.price}`;
+            document.getElementById('modal-price').innerText = `$${p.price}`;
             
-            // Clean bullets for modal
+            // Re-inject detailed info
             const overview = p.bullets.find(b => b.includes('OVERVIEW')) || '';
             const specs = p.bullets.find(b => b.includes('TACTICAL_SPECS')) || '';
             const intel = p.bullets.find(b => b.includes('USER_INTEL') || b.includes('OPERATOR_INTEL')) || '';
 
-            document.getElementById('modalOverview').innerHTML = `<h3>SYSTEM_OVERVIEW</h3><p>${overview}</p><p>${p.desc}</p>`;
-            document.getElementById('modalSpecs').innerHTML = `<h3>TECHNICAL_GUTS</h3><p>${specs}</p>`;
-            document.getElementById('modalIntel').innerHTML = `<div class="intel-box">${intel}</div>`;
+            // Create dynamic content areas if they don't exist
+            let infoContainer = document.querySelector('.modal-info');
+            infoContainer.innerHTML = `
+                <h2 id="modalTitle">${p.name}</h2>
+                <div id="modal-price" class="modal-price">$${p.price}</div>
+                <div id="modalOverview" class="overview-section"><h3>SYSTEM_OVERVIEW</h3><p>${overview}</p><p>${p.desc}</p></div>
+                <div id="modalSpecs" class="specs-grid"><h3>TECHNICAL_GUTS</h3><p>${specs}</p></div>
+                <div id="modalIntel" class="intel-block"><div class="intel-box">${intel}</div></div>
+                <a id="modal-buy-btn" href="#" class="buy-now-btn" onclick="initiatePurchase(event)" style="margin-top: 40px;">ACQUIRE_UNIT</a>
+            `;
 
             document.getElementById('productModal').style.display = 'flex';
+        }
+
+        function initiatePurchase(event) {
+            event.preventDefault();
+            const p = window.activeProduct;
+            window.location.href = `https://taupe-trifle-8e9dce.netlify.app/checkout.html?item=${encodeURIComponent(p.name)}&price=${p.price}&img=${encodeURIComponent(p.img)}&id=${p.id}&qty=1`;
         }
 
         document.querySelector('.close-btn').onclick = () => {
