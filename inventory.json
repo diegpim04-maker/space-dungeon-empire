@@ -1,0 +1,47 @@
+[
+  {
+    "id": "UR-01",
+    "name": "STEALTH_SENTINEL_DRONE",
+    "price": "599.00",
+    "status": "ELITE_RECON",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9d35a5/00doTB4AmzUC6Vaq-ucT5_T8qaGPs8.png",
+    "desc": "Autonomous urban perimeter security. This micro-quadcopter uses LiDAR and thermal sensors to patrol a defined sector and broadcast real-time movement alerts to your HUD. Includes the 'SHADOW_LINK' encrypted communication protocol.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Stealth-coated autonomous security drone with 4K thermal night-surveillance and LiDAR mapping.",
+      "⚙️ <b>TACTICAL_SPECS:</b> RANGE: 1.5km Signal Radius | BATTERY: 45m Mission Flight | SENSORS: 3D-LiDAR + IR-Thermal.",
+      "🕹️ <b>SYSTEM_BONUS:</b> Includes [DIGITAL_CODE] for the 'Roblox Base-Defense' monitoring script.",
+      "💬 <b>USER_INTEL:</b> 'I set it on a loop around my hotel balcony while traveling. It's like having a private security guard watching the door.'"
+    ]
+  },
+  {
+    "id": "UR-02",
+    "name": "SIGNAL_SCRAMBLER_X7",
+    "price": "149.00",
+    "status": "VIP_ONLY",
+    "yield": "PHYSICAL",
+    "img": "PENDING_IMAGE",
+    "desc": "Absolute digital privacy in any sector. The X7 generates a localized ultrasonic white-noise field that scrambles unauthorized recording devices and NFC sniffing attempts.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Localized digital privacy shield with ultrasonic signal-nullification.",
+      "⚙️ <b>TACTICAL_SPECS:</b> RADIUS: 5m Shield Zone | FREQUENCY: 20kHz - 400kHz Variable | CHASSIS: Matte Stealth Carbon.",
+      "🕹️ <b>CORE_LOGIC:</b> Passive Faraday Logic prevents all unauthorized data extraction attempts within range.",
+      "💬 <b>OPERATOR_INTEL:</b> 'I keep it on my desk. It stops the neighbors' smart-devices from picking up my conversations. Total ghost mode.'"
+    ]
+  },
+  {
+    "id": "UR-03",
+    "name": "BIOMETRIC_VAULT_DECK",
+    "price": "249.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "PENDING_IMAGE",
+    "desc": "A hardened hardshell vault for your most sensitive tech. Features a dual-sector biometric DNA scanner and electromagnetic inner lining to protect hardware from EMP or signal extraction.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Hardshell electromagnetic vault with sub-dermal biometric authentication.",
+      "⚙️ <b>TACTICAL_SPECS:</b> LOCK: Biometric DNA Helix Scanner | LINING: Grade 5 Faraday Mesh | VOLUME: 12L Secure Capacity.",
+      "🕹️ <b>CORE_LOGIC:</b> Dual-Phase Authentication requires both physical fingerprint and digital PIN to unlock.",
+      "💬 <b>USER_INTEL:</b> 'Toughest case I've ever owned. My laptop is finally safe from both physical theft and digital intrusion.'"
+    ]
+  }
+]

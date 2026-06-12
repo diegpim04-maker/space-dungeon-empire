@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URBAN_RECON // STEALTH_SECURITY</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        :root { --bg-color: #02050a; --accent-blue: #00f2ff; --dark-blue: #001a3b; --glass-bg: rgba(0, 26, 59, 0.2); --border-color: rgba(0, 242, 255, 0.3); --text-main: #e0f2ff; }
+        body { background: var(--bg-color); color: var(--text-main); font-family: 'Inter', sans-serif; margin: 0; overflow-x: hidden; }
+        .recon-grid { position: fixed; width: 100%; height: 100%; background: linear-gradient(var(--border-color) 1px, transparent 1px), linear-gradient(90deg, var(--border-color) 1px, transparent 1px); background-size: 60px 60px; opacity: 0.03; z-index: -1; }
+        header { padding: 2rem 5%; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-color); backdrop-filter: blur(10px); sticky; top: 0; z-index: 100; }
+        .logo { font-family: 'Space Mono'; font-size: 1.5rem; color: var(--accent-blue); letter-spacing: 4px; }
+        .hero { text-align: center; padding: 80px 5%; border-bottom: 1px solid var(--border-color); }
+        .hero h1 { font-size: 5rem; letter-spacing: -2px; background: linear-gradient(90deg, #fff, var(--accent-blue)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .tagline { color: var(--accent-blue); font-family: 'Space Mono'; letter-spacing: 6px; }
+        .product-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 3rem; padding: 4rem 5%; }
+        .product-card { background: var(--glass-bg); border: 1px solid var(--border-color); padding: 20px; transition: 0.4s; cursor: pointer; }
+        .product-card:hover { transform: translateY(-5px); box-shadow: 0 0 40px rgba(0, 242, 255, 0.2); }
+        .product-card img { width: 100%; aspect-ratio: 1.5; object-fit: cover; }
+        .price { color: var(--accent-blue); font-weight: 800; font-size: 1.5rem; margin-top: 20px; font-family: 'Space Mono'; }
+        nav a { color: var(--text-main); text-decoration: none; font-family: 'Space Mono'; margin-left: 20px; font-size: 0.8rem; }
+    </style>
+</head>
+<body>
+    <div class="recon-grid"></div>
+    <header>
+        <div class="logo">URBAN_RECON_AI</div>
+        <nav>
+            <a href="https://taupe-trifle-8e9dce.netlify.app">[DUNGEON_PORTAL]</a>
+            <a href="https://silver-cupcake-87f5fa.netlify.app">[SYNTH_PORTAL]</a>
+        </nav>
+    </header>
+    <main>
+        <div class="hero"><h1>STEALTH_DOMAIN</h1><p class="tagline">AUTONOMOUS SECURITY FOR THE GLOBAL NOMAD</p></div>
+        <section class="product-grid" id="grid"></section>
+    </main>
+    <script>
+        fetch('inventory.json').then(r=>r.json()).then(data => {
+            document.getElementById('grid').innerHTML = data.map(p => `
+                <div class="product-card">
+                    <img src="${p.img}">
+                    <h3>${p.name}</h3>
+                    <p>${p.desc.substring(0, 80)}...</p>
+                    <div class="price">$${p.price}</div>
+                    <a href="https://taupe-trifle-8e9dce.netlify.app/checkout.html?item=${encodeURIComponent(p.name)}&price=${p.price}&img=${encodeURIComponent(p.img)}&id=${p.id}" style="display:block; background: #fff; color:#000; text-align:center; padding:15px; margin-top:20px; text-decoration:none; font-family:'Space Mono'; font-weight:700;">BUY NOW</a>
+                </div>
+            `).join('');
+        });
+    </script>
+</body>
+</html>
