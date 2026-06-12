@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EMPIRE_COMMAND_CENTER</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet">
+</head>
+<body class="androo-style">
+    <div class="perspective-grid"></div>
+    <div class="scanlines"></div>
+    
+    <header class="top-nav">
+        <div class="logo">EMPIRE_COMMAND_CENTER <span class="version">v2.0.26</span></div>
+        <div class="status-pulse"></div>
+        <div class="system-time" id="clock">00:00:00</div>
+    </header>
+
+    <main class="dashboard-grid">
+        <!-- Left Column: Agent Neural Logs -->
+        <section class="panel logs-panel">
+            <div class="panel-header">AGENT_NEURAL_LOGS</div>
+            <div class="log-stream" id="logStream">
+                <!-- Logs injected here -->
+            </div>
+        </section>
+
+        <!-- Center Column: Global Recon -->
+        <section class="panel center-panel">
+            <div class="panel-header">CENTRAL_VISUAL_RECON</div>
+            <div class="visual-viewport">
+                <div class="hero-target">
+                    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=1000" alt="Active Scan">
+                    <div class="target-overlay">
+                        <div class="reticle"></div>
+                        <div class="data-readout">SCANNING_OBJECT_ID: WINNER_774</div>
+                    </div>
+                </div>
+            </div>
+            <div class="site-links">
+                <a href="https://taupe-trifle-8e9dce.netlify.app" target="_blank" class="cyber-btn">SPACE_DUNGEON</a>
+                <a href="https://silver-cupcake-87f5fa.netlify.app" target="_blank" class="cyber-btn">SYNTH_CORE</a>
+                <a href="#" class="cyber-btn disabled">URBAN_RECON</a>
+            </div>
+        </section>
+
+        <!-- Right Column: Capital Extraction -->
+        <section class="panel stats-panel">
+            <div class="panel-header">CAPITAL_EXTRACTION_LEDGER</div>
+            <ul class="stats-list">
+                <li><span class="label">LIVE_REVENUE:</span> <span class="value">$22,500.00</span></li>
+                <li><span class="label">INVENTORY_COUNT:</span> <span class="value">74_UNITS</span></li>
+                <li><span class="label">ACTIVE_AGENTS:</span> <span class="value">04_NODES</span></li>
+                <li><span class="label">UPTIME:</span> <span class="value">100.00%</span></li>
+            </ul>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
