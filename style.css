@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap');
+
 :root {
-    --bg-black: #000000;
-    --bg-gray: #f5f5f7;
-    --text-white: #ffffff;
-    --text-black: #1d1d1f;
-    --apple-blue: #0071e3;
-    --font-primary: system-ui, -apple-system, sans-serif;
+    --bg-void: #050507;
+    --card-carbon: #101010;
+    --accent-signal: #00d992;
+    --accent-cobalt: #306cce;
+    --border-warm: #3d3a39;
+    --text-snow: #f2f2f2;
+    --text-parchment: #b8b3b0;
+    --glow-pulse: drop-shadow(0 0 5px var(--accent-signal));
 }
 
 * {
@@ -14,16 +18,35 @@
 }
 
 body {
-    background-color: var(--bg-black);
-    color: var(--text-white);
-    font-family: var(--font-primary);
-    line-height: 1.5;
+    background-color: var(--bg-void);
+    color: var(--text-snow);
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
 }
 
+/* THE 3D PERSPECTIVE GRID */
+body::before {
+    content: "";
+    position: fixed;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background-image: 
+        linear-gradient(var(--border-warm) 0.5px, transparent 0.5px),
+        linear-gradient(90deg, var(--border-warm) 0.5px, transparent 0.5px);
+    background-size: 80px 80px;
+    transform: perspective(1000px) rotateX(60deg);
+    opacity: 0.08;
+    z-index: -1;
+    pointer-events: none;
+}
+
 header {
-    background: rgba(0, 0, 0, 0.8);
-    backdrop-filter: saturate(180%) blur(20px);
+    background: rgba(5, 5, 7, 0.85);
+    backdrop-filter: blur(20px);
+    border-bottom: 1px solid var(--border-warm);
     padding: 15px 5%;
     position: sticky;
     top: 0;
@@ -34,103 +57,118 @@ header {
 }
 
 .logo {
-    font-size: 1.25rem;
-    font-weight: 600;
-    letter-spacing: -0.5px;
+    font-family: 'Space Mono', monospace;
+    font-size: 0.9rem;
+    letter-spacing: 5px;
+    color: var(--accent-signal);
+    text-transform: uppercase;
+    text-shadow: 0 0 10px rgba(0, 217, 146, 0.5);
 }
 
 nav a {
     text-decoration: none;
-    color: #a1a1a6;
-    font-size: 0.8rem;
+    color: var(--text-parchment);
+    font-family: 'Space Mono', monospace;
+    font-size: 0.75rem;
+    letter-spacing: 2px;
     margin-left: 24px;
-    transition: color 0.2s;
+    transition: color 0.3s;
 }
 
 nav a:hover {
-    color: var(--text-white);
+    color: var(--accent-signal);
 }
 
 .hero {
-    height: 90vh;
+    height: 60vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 0 5%;
-    background: var(--bg-black);
+    border-bottom: 1px solid var(--border-warm);
 }
 
 .hero h1 {
     font-size: 4.5rem;
-    font-weight: 600;
+    font-weight: 300;
     letter-spacing: -2px;
-    line-height: 1.07;
-    margin-bottom: 12px;
+    line-height: 1;
+    margin-bottom: 10px;
+    font-family: 'Inter', sans-serif;
+    color: #fff;
 }
 
 .tagline {
-    font-size: 1.5rem;
-    color: #86868b;
-    font-weight: 400;
-    max-width: 600px;
+    font-family: 'Space Mono', monospace;
+    font-size: 0.8rem;
+    color: var(--accent-signal);
+    letter-spacing: 6px;
+    text-transform: uppercase;
 }
 
 .product-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 12px;
-    padding: 12px;
-    background: #fff;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 1px;
+    background: var(--border-warm); /* Thin wireframe grid lines */
+    padding: 0;
 }
 
 .product-card {
-    background: var(--bg-gray);
+    background: var(--bg-void);
     padding: 60px 40px;
-    border-radius: 0;
-    text-align: center;
     cursor: pointer;
-    transition: opacity 0.3s;
-    color: var(--text-black);
+    transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+    position: relative;
+    overflow: hidden;
 }
 
 .product-card:hover {
-    opacity: 0.95;
-}
-
-.product-card h3 {
-    font-size: 2.2rem;
-    font-weight: 600;
-    margin-bottom: 8px;
-    letter-spacing: -1px;
-}
-
-.price {
-    font-size: 1.2rem;
-    color: #424245;
-    margin-bottom: 24px;
+    background: var(--card-carbon);
 }
 
 .product-card img {
-    width: 80%;
-    max-height: 400px;
-    object-fit: contain;
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
     margin-bottom: 40px;
+    filter: brightness(0.8) contrast(1.2);
+    transition: transform 0.8s ease;
 }
 
-.buy-link {
-    color: var(--apple-blue);
-    text-decoration: none;
-    font-size: 1.2rem;
-    font-weight: 400;
+.product-card:hover img {
+    transform: scale(1.05);
 }
 
-.buy-link:hover {
-    text-decoration: underline;
+.card-name {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.75rem;
+    letter-spacing: 3px;
+    color: var(--text-parchment);
+    margin-bottom: 8px;
+    text-transform: uppercase;
 }
 
-/* Modal - Apple Style */
+.price {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--text-snow);
+}
+
+/* THE STATUS LIGHT */
+.status-vibe {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 6px;
+    height: 6px;
+    background: var(--accent-signal);
+    border-radius: 50%;
+    box-shadow: 0 0 10px var(--accent-signal);
+}
+
+/* Modal - Tactical Overhaul */
 .modal {
     display: none;
     position: fixed;
@@ -138,78 +176,56 @@ nav a:hover {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #fff;
+    background: rgba(0,0,0,0.95);
     z-index: 5000;
     overflow-y: auto;
-    color: var(--text-black);
 }
 
 .modal-content {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 0 auto;
-    padding: 100px 5%;
+    padding: 80px 5%;
 }
 
 .close-btn {
     position: fixed;
     top: 40px;
     right: 5%;
-    font-size: 2rem;
+    font-family: 'Space Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 4px;
+    color: var(--accent-signal);
     cursor: pointer;
-    color: #86868b;
+    border-bottom: 1px solid var(--accent-signal);
 }
 
 .modal-info h2 {
     font-size: 3.5rem;
-    font-weight: 600;
+    font-weight: 300;
     margin-bottom: 20px;
     letter-spacing: -2px;
 }
 
-.modal-price {
-    font-size: 1.8rem;
-    font-weight: 400;
-    margin-bottom: 40px;
-}
-
-.overview-section h3, .specs-grid h3 {
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    color: #86868b;
-    letter-spacing: 1px;
-    margin-bottom: 12px;
-}
-
-.overview-section p {
-    font-size: 1.3rem;
-    line-height: 1.4;
-    margin-bottom: 40px;
-}
-
-.specs-grid p {
-    font-size: 1rem;
-    color: #424245;
-    margin-bottom: 40px;
-}
-
 .buy-now-btn {
     display: inline-block;
-    background: var(--apple-blue);
-    color: #fff;
-    padding: 12px 24px;
-    border-radius: 980px;
+    background: var(--accent-signal);
+    color: #000;
+    padding: 20px 60px;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 0.8rem;
+    letter-spacing: 5px;
     text-decoration: none;
-    font-size: 1.1rem;
-    font-weight: 500;
-    transition: background 0.2s;
+    margin-top: 40px;
+    transition: all 0.3s;
 }
 
 .buy-now-btn:hover {
-    background: #0077ed;
+    box-shadow: 0 0 30px var(--accent-signal);
+    transform: scale(1.02);
 }
 
 @media (max-width: 768px) {
-    .hero h1 { font-size: 2.8rem; }
+    .hero h1 { font-size: 2.5rem; }
     .product-grid { grid-template-columns: 1fr; }
-    .modal-info h2 { font-size: 2.5rem; }
 }
