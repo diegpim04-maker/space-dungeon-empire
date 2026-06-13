@@ -100,7 +100,16 @@
         function initiatePurchase(event) {
             event.preventDefault();
             const p = window.activeProduct;
-            window.location.href = `https://taupe-trifle-8e9dce.netlify.app/checkout.html?item=${encodeURIComponent(p.name)}&price=${p.price}&img=${encodeURIComponent(p.img)}&id=${p.id}&qty=1`;
+            // ECOMM_EXTRACTION_PROTOCOL: Redirect to Etsy Marketplace for automated fulfillment
+            const etsyStoreUrl = "https://www.etsy.com/shop/YourShopName"; // User to replace with actual shop name
+            const searchUrl = `${etsyStoreUrl}/search?q=${encodeURIComponent(p.name)}`;
+            
+            // Log the extraction attempt
+            console.log(`[EXTRACTION_INITIATED]: Redirecting to Etsy unit ${p.id}`);
+            
+            // Optimal automated path: If we have a specific link, use it. Otherwise, search the store.
+            const targetUrl = p.etsy_link || searchUrl;
+            window.location.href = targetUrl;
         }
 
         document.querySelector('.close-btn').onclick = () => {
