@@ -58,5 +58,20 @@
        "🕹️ <b>CORE_LOGIC:</b> Proprietary 'Flow-Sense' algorithm tracks recovery states in real-time.",
        "💬 <b>USER_INTEL:</b> 'Cleaner than a watch. It matches my tech-wear perfectly and the battery lasts a full mission week.'"
      ]
+   },
+   {
+     "id": "SC-05",
+     "name": "NEURAL_RECOVERY_MASK_V1",
+     "price": "850.00",
+     "status": "ULTIMATE_TIER",
+     "yield": "PHYSICAL_BUNDLE",
+     "img": "https://v3b.fal.media/files/b/0a9e16ba/q8ealSSqnHIK67WeXKogZ_Y0scHttp.png",
+     "desc": "The apex of professional recovery. This carbon-fiber sleep interface utilizes Pulsed Electromagnetic Field (PEMF) technology and neural rhythmic light-pulsing to compress 8 hours of neurological recovery into a 4-hour cycle.",
+     "bullets": [
+       "🛡️ <b>OVERVIEW:</b> Aerospace-grade recovery architecture designed for executives minimizing downtime while maximizing cognitive output.",
+       "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Carbon-Fiber Mesh | TECH: Neural PEMF Coils + Red-Light Therapy | BATTERY: Inductive Charging Stand.",
+       "🕹️ <b>SYSTEM_BONUS:</b> Includes the 'Deep-Sleep Protocol' encrypted data-stream for rapid REM entry.",
+       "💬 <b>USER_INTEL:</b> 'I've cut my sleep time by 40% and my cognitive ROI has never been higher. Essential for high-stakes deal closure.'"
+     ]
    }
-]
+   ]
