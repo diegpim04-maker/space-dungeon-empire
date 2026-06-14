@@ -1,5 +1,50 @@
 [
   {
+    "id": "UR-04",
+    "name": "NEURAL_NODE_SENTRY",
+    "price": "899.00",
+    "status": "OPERATIONAL",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9e16cc/Yyy9i-_9whyfQ6Wj2Q_0X_CHznfGA9.png",
+    "desc": "Autonomous AI-surveillance node designed for hotel and temporary HQ security. Utilizes edge computing to detect unauthorized personnel and anomalous behavior in real-time. Features encrypted satellite uplink for global asset monitoring.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> AI-driven edge surveillance node with real-time behavioral analytics.",
+      "⚙️ <b>TACTICAL_SPECS:</b> AI: Neural Engine V4 | CONNECTIVITY: Encrypted Sat-Link | HOUSING: Impact-Resistant Carbon.",
+      "🕹️ <b>SYSTEM_BONUS:</b> Includes enterprise-grade 'Sector-Control' monitoring dashboard access.",
+      "💬 <b>USER_INTEL:</b> 'The Neural Node is essential for my international assignments. It provides an invisible perimeter that never sleeps.'"
+    ]
+  },
+  {
+    "id": "UR-05",
+    "name": "VORTEX_SIGNAL_NULLIFIER",
+    "price": "399.00",
+    "status": "ELITE_ONLY",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9e16cd/M_eS-2h5IKRNcly_RZbYL_kuCxY4Tc.png",
+    "desc": "Next-generation signal scrambler specifically tuned to neutralize advanced RF sniffing and localized cellular tracking. Ideal for high-stakes negotiations and secure transit in hostile digital environments.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Multi-band RF interference device for absolute signal sanitization.",
+      "⚙️ <b>TACTICAL_SPECS:</b> BANDS: 5G/LTE/Wi-Fi/Bluetooth | POWER: 24h Active Life | MODES: Silent/Active Burst.",
+      "🕹️ <b>CORE_LOGIC:</b> Dynamically adapts to local noise floors to mask operation.",
+      "💬 <b>OPERATOR_INTEL:</b> 'In the field, digital presence is a liability. The Vortex ensures I'm off the grid whenever I need to be.'"
+    ]
+  },
+  {
+    "id": "UR-06",
+    "name": "TITAN_BIO_SAFE_CASE",
+    "price": "549.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9e16cd/PcthFartSxMMnbUOpLSRN_KCbY67S0.png",
+    "desc": "Grade 5 Titanium biometric vault for high-value physical assets. Features a reinforced locking mechanism and internal environmental sensors to protect sensitive hardware from thermal or kinetic damage.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Titanium-reinforced biometric vault for extreme asset protection.",
+      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Grade 5 Titanium | LOCK: Dual-Layer Biometric | INTERIOR: Shock-Absorbent Foam.",
+      "🕹️ <b>CORE_LOGIC:</b> Hardened against physical breaching and electronic bypass.",
+      "💬 <b>USER_INTEL:</b> 'The Titan is the only case I trust with my cold-storage drives. It survived a 10ft drop without a scratch on the seal.'"
+    ]
+  },
+  {
     "id": "UR-01",
     "name": "STEALTH_SENTINEL_DRONE",
     "price": "599.00",
@@ -10,7 +55,7 @@
     "bullets": [
       "🛡️ <b>OVERVIEW:</b> Stealth-coated autonomous security drone with 4K thermal night-surveillance and LiDAR mapping.",
       "⚙️ <b>TACTICAL_SPECS:</b> RANGE: 1.5km Signal Radius | BATTERY: 45m Mission Flight | SENSORS: 3D-LiDAR + IR-Thermal.",
-      "🕹️ <b>SYSTEM_BONUS:</b> Includes [DIGITAL_CODE] for the 'Roblox Base-Defense' monitoring script.",
+      "🕹️ <b>SYSTEM_BONUS:</b> Includes internal enterprise-grade mesh-networking logic.",
       "💬 <b>USER_INTEL:</b> 'I set it on a loop around my hotel balcony while traveling. It's like having a private security guard watching the door.'"
     ]
   },
