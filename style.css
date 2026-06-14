@@ -1,0 +1,95 @@
+:root {
+    --white: #ffffff;
+    --lab-blue: #0070f3;
+    --silver: #e2e2e2;
+    --text: #050505;
+    --border: rgba(0,0,0,0.1);
+}
+
+body {
+    background-color: var(--white);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    margin: 0; padding: 0;
+    overflow-x: hidden;
+}
+
+header {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border);
+    backdrop-filter: blur(20px);
+    position: sticky; top: 0; z-index: 100;
+}
+
+.logo { font-family: 'Space Mono', monospace; font-weight: bold; color: var(--lab-blue); }
+nav a { text-decoration: none; color: var(--text); margin-left: 30px; font-size: 0.8rem; font-weight: bold; letter-spacing: 2px; }
+
+.hero-section {
+    padding: 100px 30px;
+    text-align: center;
+    background: linear-gradient(180deg, #f9f9f9 0%, #fff 100%);
+}
+
+h1 { font-family: 'Space Mono', monospace; font-size: 4rem; margin-bottom: 20px; letter-spacing: -5px; }
+.manifesto { max-width: 600px; margin: 0 auto; line-height: 1.6; opacity: 0.7; font-size: 0.9rem; }
+
+.x1-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    padding: 80px 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.visual-sector {
+    position: relative;
+    border: 1px solid var(--border);
+    padding: 20px;
+    background: #fbfbfb;
+}
+
+.visual-sector img { width: 100%; border-radius: 5px; }
+
+.scanner-line {
+    position: absolute;
+    top: 0; left: 0; right: 0; height: 1px;
+    background: var(--lab-blue);
+    box-shadow: 0 0 15px var(--lab-blue);
+    animation: scan 4s linear infinite;
+}
+
+@keyframes scan {
+    from { top: 0; }
+    to { top: 100%; }
+}
+
+.price-tag { font-size: 2.5rem; font-weight: bold; margin: 20px 0; }
+.status-tag { display: inline-block; padding: 5px 15px; background: var(--lab-blue); color: #fff; font-size: 0.7rem; font-weight: bold; border-radius: 3px; }
+
+.p-bullets { list-style: none; padding: 0; margin-top: 30px; }
+.p-bullets li { margin-bottom: 15px; font-size: 0.85rem; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px; }
+
+.buy-btn {
+    display: block;
+    width: 100%;
+    margin-top: 50px;
+    background: var(--text);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 3px;
+    transition: 0.3s;
+}
+
+.buy-btn:hover { background: var(--lab-blue); transform: scale(1.02); }
+
+@media (max-width: 900px) {
+    .x1-container { grid-template-columns: 1fr; }
+    h1 { font-size: 2.5rem; }
+}

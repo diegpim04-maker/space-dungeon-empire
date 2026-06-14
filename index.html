@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AQUA_RECON // GLOBAL_PURITY_INTEL</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono&family=Inter:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="clinical-tactical">
+    <div class="water-background"></div>
+    
+    <header>
+        <div class="logo">AQUA_RECON <span class="blink">VIGILANCE_ACTIVE</span></div>
+        <nav>
+            <a href="#lab">LAB_RECORDS</a>
+            <a href="#map">PURITY_MAP</a>
+            <a href="https://spacedungeontech.etsy.com" class="etsy-portal">SECURE_REQUISITION</a>
+        </nav>
+    </header>
+
+    <main id="app">
+        <section class="hero-section">
+            <h1 class="glitch" data-text="TRUST_NO_SOURCE.">TRUST_NO_SOURCE.</h1>
+            <p class="manifesto">WE ARE THE COUNTER-INTEL AGAINST CORPORATE POLLUTION. THE X1 UNIT REVEALS THE TRUTH THEY ARE HIDING IN YOUR WATER.</p>
+        </section>
+
+        <section id="catalog" class="product-reveal">
+            <!-- AQUA_RECON_X1 Injected Here -->
+        </section>
+    </main>
+
+    <script>
+        async function loadProduct() {
+            const resp = await fetch('inventory.json');
+            const data = await resp.json();
+            const container = document.getElementById('catalog');
+            container.innerHTML = data.map(p => `
+                <div class="x1-container">
+                    <div class="visual-sector">
+                        <img src="${p.img}" alt="X1 Unit">
+                        <div class="scanner-line"></div>
+                    </div>
+                    <div class="data-sector">
+                        <h2>${p.name}</h2>
+                        <div class="price-tag">$${p.price}</div>
+                        <div class="status-tag pulse">${p.status}</div>
+                        <p class="p-desc">${p.desc}</p>
+                        <ul class="p-bullets">
+                            ${p.bullets.map(b => `<li>${b}</li>`).join('')}
+                        </ul>
+                        <a href="https://spacedungeontech.etsy.com" class="buy-btn">ACCESS_PRE_ORDER</a>
+                    </div>
+                </div>
+            `).join('');
+        }
+        loadProduct();
+    </script>
+</body>
+</html>
