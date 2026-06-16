@@ -88,5 +88,50 @@
       "🕹️ <b>CORE_LOGIC:</b> Dual-Phase Authentication requires both physical fingerprint and digital PIN to unlock.",
       "💬 <b>USER_INTEL:</b> 'Toughest case I've ever owned. My laptop is finally safe from both physical theft and digital intrusion.'"
     ]
+  },
+  {
+    "id": "UR-07",
+    "name": "SPECTRE_RF_CLOAK",
+    "price": "450.00",
+    "status": "OPERATIONAL",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9e7c0d/-BGjoCse22bVg4gcIPeHm_6RptAd9b.png",
+    "desc": "Ultra-portable multi-spectrum signal inhibitor. Designed for high-profile assets in transit, the Spectre creates a localized dead-zone for unauthorized cellular, Wi-Fi, and Bluetooth surveillance. Essential for preventing digital trailing and eavesdropping in international hubs.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Multi-spectrum RF suppression for localized digital concealment.",
+      "⚙️ <b>TACTICAL_SPECS:</b> FREQ: 800MHz - 6GHz | BATTERY: 12h High-Output | CHASSIS: Anodized Stealth Matte.",
+      "🛡️ <b>CORE_LOGIC:</b> Intelligent hop-sequencing prevents passive detection of the jammer itself.",
+      "💬 <b>OPERATOR_INTEL:</b> 'When moving between secure sectors, the Spectre is non-negotiable. It keeps my digital footprint at zero.'"
+    ]
+  },
+  {
+    "id": "UR-08",
+    "name": "ONYX_AI_PERIMETER",
+    "price": "1250.00",
+    "status": "ELITE_ONLY",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9e7c0c/nFxtfD_HWpo8SiKQO_vKE_ZsUMhQCN.png",
+    "desc": "Advanced AI-driven surveillance unit with integrated pattern-recognition for threat pre-emption. Utilizes localized neural processing to identify surveillance tails and unauthorized personnel tracking without relying on cloud-based vulnerabilities.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Pre-emptive threat detection node with localized neural analytics.",
+      "⚙️ <b>TACTICAL_SPECS:</b> AI: Onyx-Core V2 | SENSORS: 4K Low-Light + Thermal | CONNECTIVITY: AES-256 Sat-Link.",
+      "🛡️ <b>CORE_LOGIC:</b> Detects 'surveillance-typical' patterns and alerts operators before a breach occurs.",
+      "💬 <b>USER_INTEL:</b> 'The Onyx doesn't just watch; it predicts. It flagged a tail three blocks before they reached the safehouse.'"
+    ]
+  },
+  {
+    "id": "UR-09",
+    "name": "APEX_TITAN_VAULT",
+    "price": "799.00",
+    "status": "IN_STOCK",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9e7c0d/D8juU7oERNxiFR34EVbs7_MHNe87WN.png",
+    "desc": "The pinnacle of physical asset security. This Grade 5 Titanium vault features tri-modal biometric authentication (Iris, Print, and Sub-Dermal). Reinforced with a signal-opaque alloy to prevent remote scanning or electronic tampering of internal hardware.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Tri-modal biometric vault for critical asset isolation.",
+      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Grade 5 Titanium / Ceramic Composite | LOCK: Iris + Sub-Dermal + PIN | SHIELDING: 100dB Faraday Attenuation.",
+      "🛡️ <b>CORE_LOGIC:</b> Hardened against kinetic penetration and thermal-lancing attempts.",
+      "💬 <b>OPERATOR_INTEL:</b> 'The Apex is the final word in storage. If it's in here, it effectively ceases to exist to the outside world.'"
+    ]
   }
 ]
