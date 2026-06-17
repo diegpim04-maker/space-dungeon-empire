@@ -73,5 +73,35 @@
        "🕹️ <b>SYSTEM_BONUS:</b> Includes the 'Deep-Sleep Protocol' encrypted data-stream for rapid REM entry.",
        "💬 <b>USER_INTEL:</b> 'I've cut my sleep time by 40% and my cognitive ROI has never been higher. Essential for high-stakes deal closure.'"
      ]
+   },
+   {
+     "id": "SC-06",
+     "name": "CORE_ALIGN_EXOSKELETON",
+     "price": "1450.00",
+     "status": "ELITE_TIER",
+     "yield": "PHYSICAL_BUNDLE",
+     "img": "https://v3b.fal.media/files/b/0a9e7a20/UykN7bd9uRsvWR58mZi9z_g1vsR77I.png",
+     "desc": "The ultimate stabilization architecture for the high-net-worth professional. Engineered for executive endurance, the Core-Align Exoskeleton utilizes AI-driven micro-adjustments to maintain spinal integrity during prolonged high-stakes operations. Carbon-fiber construction with bio-green neural-link diagnostics.",
+     "bullets": [
+       "🛡️ <b>OVERVIEW:</b> Industrial-grade spinal stabilizer utilizing active bio-mechanical feedback for 100% postural ROI.",
+       "⚙️ <b>TACTICAL_SPECS:</b> MATERIAL: Reinforced Carbon-Fiber / Titanium Alloy | SENSORS: Multi-Point Bio-Metric Array | POWER: 96h Operational Flux.",
+       "🕹️ <b>SYSTEM_BONUS:</b> Includes the 'Executive Endurance' data-package for optimized physical presence during negotiations.",
+       "💬 <b>USER_INTEL:</b> 'The physical ROI is undeniable. I maintain peak presence in the boardroom for 14 hours straight without a hint of fatigue.'"
+     ]
+   },
+   {
+     "id": "SC-07",
+     "name": "NEURAL_OVERDRIVE_MODULATOR",
+     "price": "1899.00",
+     "status": "VIP_ACCESS",
+     "yield": "PHYSICAL_BUNDLE",
+     "img": "https://v3b.fal.media/files/b/0a9e9bf4/ckTmaDrlMDHjyEFhiko5b_TZ8GYFvR.png",
+     "desc": "The pinnacle of cognitive optimization. This medical-industrial tDCS (transcranial Direct-Current Stimulation) interface is designed for professionals requiring sustained hyper-focus and rapid information processing. Features a carbon-fiber frame with bio-green active feedback nodes.",
+     "bullets": [
+       "🛡️ <b>OVERVIEW:</b> High-ticket neuro-modulator designed to bypass biological cognitive bottlenecks.",
+       "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Matte Carbon-Fiber | CURRENT: Precise 0.5-2.0mA modulation | NODES: 8x Silver-Chloride Integrated Sensors.",
+       "🕹️ <b>ROI_LOGIC:</b> Proprietary 'Hyper-Focus' protocols proven to increase data-processing speed by 40% in high-stakes environments.",
+       "💬 <b>USER_INTEL:</b> 'The Neural Overdrive is the difference between making the call and owning the market. My cognitive ROI has tripled since deployment.'"
+     ]
    }
    ]
