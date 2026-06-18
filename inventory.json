@@ -133,5 +133,50 @@
       "🛡️ <b>CORE_LOGIC:</b> Hardened against kinetic penetration and thermal-lancing attempts.",
       "💬 <b>OPERATOR_INTEL:</b> 'The Apex is the final word in storage. If it's in here, it effectively ceases to exist to the outside world.'"
     ]
+  },
+  {
+    "id": "UR-10",
+    "name": "ARCHON_PREDICTIVE_EYE",
+    "price": "1450.00",
+    "status": "OPERATIONAL",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9ebf96/gxxyyNcnzuuzC_HR4gpJn_W5BwrzaZ.png",
+    "desc": "Elite-tier AI surveillance unit capable of pre-emptive threat modeling. The Archon uses a deep-red optical array to track multi-vector movement patterns, identifying hostile intent before physical contact is made. Designed for high-profile asset protection in unstable urban environments.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Next-gen predictive AI node with hyper-spectral threat identification.",
+      "⚙️ <b>TACTICAL_SPECS:</b> OPTICS: 12K Hyper-Spectral | AI: Archon-Core V4 | HOUSING: Obsidian-Reinforced Ceramic.",
+      "🛡️ <b>CORE_LOGIC:</b> Autonomous behavioral flags for 'surveillance-typical' positioning and aggressive approach angles.",
+      "💬 <b>USER_INTEL:</b> 'The Archon is like having a precognitive guard. It spotted a coordinated flank attempt minute before it happened.'"
+    ]
+  },
+  {
+    "id": "UR-11",
+    "name": "QUANTUM_SIGNAL_SHADOW",
+    "price": "625.00",
+    "status": "VIP_ONLY",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9ebf96/3Hgj3BisVJ8E-jB04rhIu_Shfy7aM2.png",
+    "desc": "High-output frequency suppression system for complete digital sanitization. The Quantum Shadow targets LTE, 5G, and proprietary SAT-COM bands to shield operations from signal-based intelligence gathering. Features a carbon-fiber chassis for maximum durability during field transit.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Multi-vector frequency inhibitor for total RF occlusion.",
+      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Anodized Carbon / Aluminum | BANDS: All Cellular + L-Band Satellite | BATTERY: 18h Mission Life.",
+      "🛡️ <b>CORE_LOGIC:</b> Real-time frequency hopping ensures the device remains undetectable to passive RF scanners.",
+      "💬 <b>OPERATOR_INTEL:</b> 'In high-stakes transit, digital silence is your best armor. The Quantum Shadow ensures they can't track what they can't see.'"
+    ]
+  },
+  {
+    "id": "UR-12",
+    "name": "OMNI_BIOMETRIC_STASIS",
+    "price": "950.00",
+    "status": "ELITE_ONLY",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9ebf90/kWc6gI3kLwMb1XW_BjyLn_1uL1znkr.png",
+    "desc": "Monolithic Grade 5 Titanium vault featuring a blue-spectrum iris scanner and dual-point sub-dermal verification. The Omni vault is designed to withstand extreme kinetic impacts and thermal lancing, securing mission-critical hardware against physical extraction.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Ultimate industrial-grade vault for absolute physical asset isolation.",
+      "⚙️ <b>TACTICAL_SPECS:</b> SHELL: Grade 5 Titanium Monocoque | LOCK: Iris + Sub-Dermal Scanner | RATING: Grade 9 Kinetic-Proof.",
+      "🛡️ <b>CORE_LOGIC:</b> Internal self-destruct logic for hardware encryption keys upon brute-force detection.",
+      "💬 <b>USER_INTEL:</b> 'The Omni is essentially a black hole for assets. Once it's locked, it's not coming out until I say so.'"
+    ]
   }
 ]
