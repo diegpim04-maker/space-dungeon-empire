@@ -75,108 +75,48 @@
     ]
   },
   {
-    "id": "UR-03",
-    "name": "BIOMETRIC_VAULT_DECK",
-    "price": "249.00",
-    "status": "IN_STOCK",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9df5c1/Ah24qzCqO4aRF8fRjgAn3_43vULcIC.png",
-    "desc": "A hardened hardshell vault for your most sensitive tech. Features a dual-sector biometric DNA scanner and electromagnetic inner lining to protect hardware from EMP or signal extraction.",
-    "bullets": [
-      "🛡️ <b>OVERVIEW:</b> Hardshell electromagnetic vault with sub-dermal biometric authentication.",
-      "⚙️ <b>TACTICAL_SPECS:</b> LOCK: Biometric DNA Helix Scanner | LINING: Grade 5 Faraday Mesh | VOLUME: 12L Secure Capacity.",
-      "🕹️ <b>CORE_LOGIC:</b> Dual-Phase Authentication requires both physical fingerprint and digital PIN to unlock.",
-      "💬 <b>USER_INTEL:</b> 'Toughest case I've ever owned. My laptop is finally safe from both physical theft and digital intrusion.'"
-    ]
-  },
-  {
-    "id": "UR-07",
-    "name": "SPECTRE_RF_CLOAK",
-    "price": "450.00",
+    "id": "UR-13",
+    "name": "VOID_WAVE_INHIBITOR",
+    "price": "720.00",
     "status": "OPERATIONAL",
     "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9e7c0d/-BGjoCse22bVg4gcIPeHm_6RptAd9b.png",
-    "desc": "Ultra-portable multi-spectrum signal inhibitor. Designed for high-profile assets in transit, the Spectre creates a localized dead-zone for unauthorized cellular, Wi-Fi, and Bluetooth surveillance. Essential for preventing digital trailing and eavesdropping in international hubs.",
+    "img": "https://v3b.fal.media/files/b/0a9ee151/WtJKFbgiS5tn_Knk5gBRE_waJNDOxo.png",
+    "desc": "Commercial-grade portable signal inhibitor designed for total RF suppression in sensitive environments. The Void Wave targets ultra-wideband frequencies to neutralize advanced surveillance and remote tracking attempts.",
     "bullets": [
-      "🛡️ <b>OVERVIEW:</b> Multi-spectrum RF suppression for localized digital concealment.",
-      "⚙️ <b>TACTICAL_SPECS:</b> FREQ: 800MHz - 6GHz | BATTERY: 12h High-Output | CHASSIS: Anodized Stealth Matte.",
-      "🛡️ <b>CORE_LOGIC:</b> Intelligent hop-sequencing prevents passive detection of the jammer itself.",
-      "💬 <b>OPERATOR_INTEL:</b> 'When moving between secure sectors, the Spectre is non-negotiable. It keeps my digital footprint at zero.'"
+      "🛡️ <b>OVERVIEW:</b> High-capacity portable RF scrambler for executive asset protection.",
+      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Matte Carbon-Fiber | FREQ: 100MHz - 12GHz | MODES: Blanket Silence / Selective Null.",
+      "🕹️ <b>CORE_LOGIC:</b> Automated frequency scans neutralize new threats within 50ms of detection.",
+      "💬 <b>OPERATOR_INTEL:</b> 'The Void Wave turns any room into a digital fortress. Essential for international briefings where privacy is non-negotiable.'"
     ]
   },
   {
-    "id": "UR-08",
-    "name": "ONYX_AI_PERIMETER",
-    "price": "1250.00",
+    "id": "UR-14",
+    "name": "SPECTRE_NODE_AI",
+    "price": "1650.00",
     "status": "ELITE_ONLY",
     "yield": "PHYSICAL_BUNDLE",
-    "img": "https://v3b.fal.media/files/b/0a9e7c0c/nFxtfD_HWpo8SiKQO_vKE_ZsUMhQCN.png",
-    "desc": "Advanced AI-driven surveillance unit with integrated pattern-recognition for threat pre-emption. Utilizes localized neural processing to identify surveillance tails and unauthorized personnel tracking without relying on cloud-based vulnerabilities.",
+    "img": "https://v3b.fal.media/files/b/0a9ee151/TncAa9WCBHq5zx2YCUMru_aYoOOetP.png",
+    "desc": "Next-generation autonomous surveillance node. Features a high-definition red-spectrum optical array for thermal and kinetic threat modeling. Designed to identify and flag surveillance patterns in dense urban environments.",
     "bullets": [
-      "🛡️ <b>OVERVIEW:</b> Pre-emptive threat detection node with localized neural analytics.",
-      "⚙️ <b>TACTICAL_SPECS:</b> AI: Onyx-Core V2 | SENSORS: 4K Low-Light + Thermal | CONNECTIVITY: AES-256 Sat-Link.",
-      "🛡️ <b>CORE_LOGIC:</b> Detects 'surveillance-typical' patterns and alerts operators before a breach occurs.",
-      "💬 <b>USER_INTEL:</b> 'The Onyx doesn't just watch; it predicts. It flagged a tail three blocks before they reached the safehouse.'"
+      "🛡️ <b>OVERVIEW:</b> AI-driven predictive surveillance node with multi-vector optical tracking.",
+      "⚙️ <b>TACTICAL_SPECS:</b> OPTICS: 16K Multi-Spectrum | AI: Spectre-Core V5 | HOUSING: Obsidian Ceramic / Carbon.",
+      "🕹️ <b>CORE_LOGIC:</b> On-board neural processing identifies 'aggressive approach' profiles before contact occurs.",
+      "💬 <b>USER_INTEL:</b> 'The Spectre Node provided 360-degree security at the safehouse. It identified two unauthorized scouts before they even entered the block.'"
     ]
   },
   {
-    "id": "UR-09",
-    "name": "APEX_TITAN_VAULT",
-    "price": "799.00",
+    "id": "UR-15",
+    "name": "AEGIS_TITANIUM_CASE",
+    "price": "1150.00",
     "status": "IN_STOCK",
     "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9e7c0d/D8juU7oERNxiFR34EVbs7_MHNe87WN.png",
-    "desc": "The pinnacle of physical asset security. This Grade 5 Titanium vault features tri-modal biometric authentication (Iris, Print, and Sub-Dermal). Reinforced with a signal-opaque alloy to prevent remote scanning or electronic tampering of internal hardware.",
+    "img": "https://v3b.fal.media/files/b/0a9ee152/R52KWVWlKhkBskdVBGbSt_qOdv80OQ.png",
+    "desc": "The ultimate secure transport solution. A Grade 5 Titanium briefcase vault with multi-modal biometric authentication, including iris and sub-dermal verification. Hardened against kinetic breach and EMP attacks.",
     "bullets": [
-      "🛡️ <b>OVERVIEW:</b> Tri-modal biometric vault for critical asset isolation.",
-      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Grade 5 Titanium / Ceramic Composite | LOCK: Iris + Sub-Dermal + PIN | SHIELDING: 100dB Faraday Attenuation.",
-      "🛡️ <b>CORE_LOGIC:</b> Hardened against kinetic penetration and thermal-lancing attempts.",
-      "💬 <b>OPERATOR_INTEL:</b> 'The Apex is the final word in storage. If it's in here, it effectively ceases to exist to the outside world.'"
-    ]
-  },
-  {
-    "id": "UR-10",
-    "name": "ARCHON_PREDICTIVE_EYE",
-    "price": "1450.00",
-    "status": "OPERATIONAL",
-    "yield": "PHYSICAL_BUNDLE",
-    "img": "https://v3b.fal.media/files/b/0a9ebf96/gxxyyNcnzuuzC_HR4gpJn_W5BwrzaZ.png",
-    "desc": "Elite-tier AI surveillance unit capable of pre-emptive threat modeling. The Archon uses a deep-red optical array to track multi-vector movement patterns, identifying hostile intent before physical contact is made. Designed for high-profile asset protection in unstable urban environments.",
-    "bullets": [
-      "🛡️ <b>OVERVIEW:</b> Next-gen predictive AI node with hyper-spectral threat identification.",
-      "⚙️ <b>TACTICAL_SPECS:</b> OPTICS: 12K Hyper-Spectral | AI: Archon-Core V4 | HOUSING: Obsidian-Reinforced Ceramic.",
-      "🛡️ <b>CORE_LOGIC:</b> Autonomous behavioral flags for 'surveillance-typical' positioning and aggressive approach angles.",
-      "💬 <b>USER_INTEL:</b> 'The Archon is like having a precognitive guard. It spotted a coordinated flank attempt minute before it happened.'"
-    ]
-  },
-  {
-    "id": "UR-11",
-    "name": "QUANTUM_SIGNAL_SHADOW",
-    "price": "625.00",
-    "status": "VIP_ONLY",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9ebf96/3Hgj3BisVJ8E-jB04rhIu_Shfy7aM2.png",
-    "desc": "High-output frequency suppression system for complete digital sanitization. The Quantum Shadow targets LTE, 5G, and proprietary SAT-COM bands to shield operations from signal-based intelligence gathering. Features a carbon-fiber chassis for maximum durability during field transit.",
-    "bullets": [
-      "🛡️ <b>OVERVIEW:</b> Multi-vector frequency inhibitor for total RF occlusion.",
-      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Anodized Carbon / Aluminum | BANDS: All Cellular + L-Band Satellite | BATTERY: 18h Mission Life.",
-      "🛡️ <b>CORE_LOGIC:</b> Real-time frequency hopping ensures the device remains undetectable to passive RF scanners.",
-      "💬 <b>OPERATOR_INTEL:</b> 'In high-stakes transit, digital silence is your best armor. The Quantum Shadow ensures they can't track what they can't see.'"
-    ]
-  },
-  {
-    "id": "UR-12",
-    "name": "OMNI_BIOMETRIC_STASIS",
-    "price": "950.00",
-    "status": "ELITE_ONLY",
-    "yield": "PHYSICAL",
-    "img": "https://v3b.fal.media/files/b/0a9ebf90/kWc6gI3kLwMb1XW_BjyLn_1uL1znkr.png",
-    "desc": "Monolithic Grade 5 Titanium vault featuring a blue-spectrum iris scanner and dual-point sub-dermal verification. The Omni vault is designed to withstand extreme kinetic impacts and thermal lancing, securing mission-critical hardware against physical extraction.",
-    "bullets": [
-      "🛡️ <b>OVERVIEW:</b> Ultimate industrial-grade vault for absolute physical asset isolation.",
-      "⚙️ <b>TACTICAL_SPECS:</b> SHELL: Grade 5 Titanium Monocoque | LOCK: Iris + Sub-Dermal Scanner | RATING: Grade 9 Kinetic-Proof.",
-      "🛡️ <b>CORE_LOGIC:</b> Internal self-destruct logic for hardware encryption keys upon brute-force detection.",
-      "💬 <b>USER_INTEL:</b> 'The Omni is essentially a black hole for assets. Once it's locked, it's not coming out until I say so.'"
+      "🛡️ <b>OVERVIEW:</b> Industrial-grade biometric briefcase for high-value asset transit.",
+      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Grade 5 Titanium | LOCK: Iris + Sub-Dermal + DNA | SHIELDING: 120dB Faraday Cage.",
+      "🕹️ <b>CORE_LOGIC:</b> Anti-tamper sensors trigger instant memory wipes of connected internal devices upon breach attempt.",
+      "💬 <b>OPERATOR_INTEL:</b> 'Carrying mission-critical drives has never felt safer. The Aegis is literally bulletproof and digitally invisible.'"
     ]
   }
 ]
