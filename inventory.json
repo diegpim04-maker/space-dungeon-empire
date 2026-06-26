@@ -118,5 +118,95 @@
       "🕹️ <b>CORE_LOGIC:</b> Anti-tamper sensors trigger instant memory wipes of connected internal devices upon breach attempt.",
       "💬 <b>OPERATOR_INTEL:</b> 'Carrying mission-critical drives has never felt safer. The Aegis is literally bulletproof and digitally invisible.'"
     ]
+  },
+  {
+    "id": "UR-16",
+    "name": "PHANTOM_RF_AEGIS",
+    "price": "1290.00",
+    "status": "ELITE_ONLY",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9f6851/zxJVbZJ7A1gZ1R-czyC2U_reikYJ6f.png",
+    "desc": "Military-grade portable RF sanitization system engineered for the 2026 threat landscape. Neutralizes 5G-Advanced, Wi-Fi 7, UWB, and satellite-based tracking across 100MHz–18GHz. Designed for international executives transiting hostile digital environments where the $2.35B signal-jammer market demands enterprise-grade countermeasures.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Adaptive multi-band RF denial system with AI-driven frequency hopping countermeasures.",
+      "⚙️ <b>TACTICAL_SPECS:</b> FREQ: 100MHz–18GHz Continuous | POWER: 36h Field Operation | AI: Threat-Adaptive Null Engine v3.",
+      "🕹️ <b>CORE_LOGIC:</b> Real-time spectrum analysis identifies and neutralizes new surveillance signals within 30ms of detection.",
+      "💬 <b>OPERATOR_INTEL:</b> 'Deployed it at a high-stakes summit in Geneva. Every bug, tracker, and remote mic within 40 meters went dark in seconds. This is the future of digital sovereignty.'"
+    ]
+  },
+  {
+    "id": "UR-17",
+    "name": "CIPHER_VAULT_OMEGA",
+    "price": "2200.00",
+    "status": "ELITE_ONLY",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9f6852/ZQV75xNvnBxciDEZ8C09b_If4j8uCI.png",
+    "desc": "Next-generation biometric vault engineered for the era of biometric-specific compliance mandates (CPA 2025, EO 14117). Features 4-modal authentication (iris + vein + DNA swab + behavioral gait), EMP-hardened interior, and zero-knowledge proof architecture. The definitive solution for protecting sensitive personal data and high-value physical assets against state-level extraction.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Quad-modal biometric vault with zero-knowledge encryption for sovereign-grade data protection.",
+      "⚙️ <b>TACTICAL_SPECS:</b> AUTH: Iris + Vein + DNA + Gait | SHIELDING: 140dB EMP Faraday | CHASSIS: Titanium-Ceramic Composite.",
+      "🕹️ <b>CORE_LOGIC:</b> On-device neural authentication — no cloud dependency. Compliant with 2026 global biometric privacy mandates.",
+      "💬 <b>OPERATOR_INTEL:</b> 'After the new biometric data laws passed, this vault became non-negotiable. It's the only system I trust with classified client dossiers during international transit.'"
+    ]
+  },
+  {
+    "id": "UR-18",
+    "name": "ARGUS_PREDICTOR_AI",
+    "price": "3450.00",
+    "status": "ELITE_ONLY",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9f6853/ZdsoMGfkvmx7by7r1292B_wsYOQOcb.png",
+    "desc": "Autonomous counter-surveillance AI node designed to detect, classify, and neutralize hostile observation in real-time. Leverages 16K multi-spectrum optics and on-edge neural processing to identify surveillance patterns, drone reconnaissance, and coordinated approach vectors. Built for the DHS-era $10–20M AI-surveillance threat landscape where executive protection demands predictive, not reactive, defense.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Predictive AI counter-surveillance platform with multi-vector threat modeling and autonomous response.",
+      "⚙️ <b>TACTICAL_SPECS:</b> OPTICS: 16K Red/IR/UV Spectrum | AI: Argus-Core V7 Neural Engine | RANGE: 500m 360° Perimeter.",
+      "🕹️ <b>CORE_LOGIC:</b> Predictive behavioral analytics identify hostile surveillance teams 4–8 minutes before physical contact.",
+      "💬 <b>OPERATOR_INTEL:</b> 'The Argus flagged a coordinated three-person surveillance team approaching the safehouse six minutes before they reached the outer perimeter. It paid for itself in one deployment.'"
+    ]
+  },
+  {
+    "id": "UR-19",
+    "name": "AEGIS_PERSONAL_RFC",
+    "price": "890.00",
+    "status": "ELITE_ONLY",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9fcd93/psY6VhoCC7uQmBwNBZ2jC_O4KDlwNM.png",
+    "desc": "Wearable personal RF countermeasure engineered for the $4.98B signal-jammer market of 2026. This carbon-fiber wrist-mounted unit generates a dynamic 3-meter Faraday envelope that neutralizes 5G-Advanced, Wi-Fi 7, BLE, and UWB tracking in real-time. Designed for international executives transiting hostile digital environments where covert proximity tracking and NFC skimming are persistent threats.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Wearable personal RF denial device with adaptive frequency-hopping countermeasures.",
+      "⚙️ <b>TACTICAL_SPECS:</b> FREQ: 100MHz–12GHz | RADIUS: 3m Personal Envelope | CHASSIS: Carbon-Fiber / Ceramic | BATTERY: 18h Continuous.",
+      "🕹️ <b>CORE_LOGIC:</b> AI-driven spectrum analysis detects and neutralizes new tracking signals within 20ms. Silent mode masks operational signature.",
+      "💬 <b>OPERATOR_INTEL:</b> 'Wore it through three international airports last month. Zero tracking events, zero NFC skims. It's invisible digital armor.'"
+    ]
+  },
+  {
+    "id": "UR-20",
+    "name": "HYDRA_MODULAR_VAULT",
+    "price": "1875.00",
+    "status": "ELITE_ONLY",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9fcd94/_ASG1McXM-50alzncrQVR_SUBPEVNk.png",
+    "desc": "Modular biometric vault system designed for the era of sovereign data mandates. Hexagonal titanium modules stack and interlock to create a customizable secure storage array. Each module features independent multi-modal biometric authentication (iris + vein + behavioral gait) with zero-knowledge proof architecture. Engineered for the $963M safes-and-vaults market where 2026 compliance demands on-device authentication with no cloud dependency.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Stackable modular biometric vault with sovereign-grade zero-knowledge authentication.",
+      "⚙️ <b>TACTICAL_SPECS:</b> CHASSIS: Grade 5 Titanium Hex-Modules | AUTH: Iris + Vein + Gait (per module) | SHIELDING: 130dB EMP Faraday.",
+      "🕹️ <b>CORE_LOGIC:</b> Each module operates as an independent secure enclave. Breach attempt on one module triggers instant memory wipe across the entire array.",
+      "💬 <b>OPERATOR_INTEL:</b> 'I configured six modules for a multi-client dossier operation. Each client's data is physically and cryptographically isolated. The modularity is a game-changer for compartmentalized asset protection.'"
+    ]
+  },
+  {
+    "id": "UR-21",
+    "name": "NEXUS_SWARM_AI",
+    "price": "4200.00",
+    "status": "ELITE_ONLY",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9fcd95/ioUTy3-q1rod2LnvSbINK_fSceb3Vf.png",
+    "desc": "Autonomous AI swarm coordination hub for multi-node surveillance operations. This obsidian monolith commands up to 12 autonomous surveillance drones and ground sensors in a unified neural mesh. Leverages GPU-accelerated edge processing and 16K multi-spectrum optics to deliver predictive threat modeling across a 2km operational radius. Built for the $6.8B AI-surveillance market where 2026 executive protection demands coordinated, predictive defense — not reactive monitoring.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> AI swarm command hub with unified neural mesh for multi-node autonomous surveillance coordination.",
+      "⚙️ <b>TACTICAL_SPECS:</b> NODES: Up to 12 Autonomous Units | AI: Nexus-Core V9 GPU-Accelerated | RANGE: 2km Unified Perimeter | OPTICS: 16K Multi-Spectrum.",
+      "🕹️ <b>CORE_LOGIC:</b> Predictive behavioral analytics across all nodes identify coordinated hostile surveillance 6–10 minutes before physical contact. Autonomous repositioning of assets.",
+      "💬 <b>OPERATOR_INTEL:</b> 'Deployed a 12-node swarm around a diplomatic summit. The Nexus identified and tracked three separate reconnaissance teams before they reached the outer cordon. It's the future of autonomous executive protection.'"
+    ]
   }
 ]
