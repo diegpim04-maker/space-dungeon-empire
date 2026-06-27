@@ -208,5 +208,50 @@
       "🕹️ <b>CORE_LOGIC:</b> Predictive behavioral analytics across all nodes identify coordinated hostile surveillance 6–10 minutes before physical contact. Autonomous repositioning of assets.",
       "💬 <b>OPERATOR_INTEL:</b> 'Deployed a 12-node swarm around a diplomatic summit. The Nexus identified and tracked three separate reconnaissance teams before they reached the outer cordon. It's the future of autonomous executive protection.'"
     ]
+  },
+  {
+    "id": "UR-22",
+    "name": "CERBERUS_COUNTER_UAS",
+    "price": "2750.00",
+    "status": "ELITE_ONLY",
+    "yield": "PHYSICAL_BUNDLE",
+    "img": "https://v3b.fal.media/files/b/0a9fef52/hY52yDORJ8T8vrDvROdTk_IOvZJd1C.png",
+    "desc": "Portable counter-UAS defense system engineered for the $3.88B anti-drone market of 2026. Detects, classifies, and neutralizes hostile unmanned aerial systems within a 400m radius using AI-driven RF spectrum analysis and directional electromagnetic pulse emitters. Designed for executive protection details securing motorcades, safehouses, and diplomatic convoys against the escalating drone reconnaissance threat — where $1.8B in US federal counter-UAS funding signals the new operational baseline.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Autonomous counter-drone defense platform with AI-powered detection, classification, and non-kinetic neutralization.",
+      "⚙️ <b>TACTICAL_SPECS:</b> RANGE: 400m Detection / 200m Neutralization | AI: Cerberus-Core V4 Threat Engine | MODES: Passive Scan / Active Denial / Full Spectrum Lockdown.",
+      "🕹️ <b>CORE_LOGIC:</b> Multi-layer RF/ acoustic/ optical sensor fusion identifies drone make, model, and pilot location within 3 seconds. Directional EMP neutralizes without collateral signal disruption.",
+      "💬 <b>OPERATOR_INTEL:</b> 'Deployed it at a high-value client's residence after a commercial drone was spotted loitering at 200ft. Cerberus classified it as a DJI Mavic 3, geolocated the pilot two blocks away, and killed the feed in under 4 seconds. The $3.88B counter-UAS market earned every penny.'"
+    ]
+  },
+  {
+    "id": "UR-23",
+    "name": "ORACLE_QUANTUM_LINK",
+    "price": "3200.00",
+    "yield": "PHYSICAL_BUNDLE",
+    "status": "ELITE_ONLY",
+    "img": "https://v3b.fal.media/files/b/0a9fef52/m2ZcBWwjyYNQliPlQkg9l_1yeqYIxx.png",
+    "desc": "Portable Quantum Key Distribution (QKD) secure communications terminal leveraging 2026's certified quantum random number generation breakthroughs. Generates physically unbreakable encryption keys using photonic quantum entanglement, then establishes a tamper-evident secure channel with any Oracle-equipped node worldwide. Designed for executives transmitting classified briefings, financial authorizations, and sovereign-sensitive data through hostile networks where post-quantum decryption threats are no longer theoretical.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Quantum-encrypted portable communications terminal with device-independent key distribution and post-quantum cryptographic resilience.",
+      "⚙️ <b>TACTICAL_SPECS:</b> KEY_RATE: 10Mbps Quantum-Secure | AUTH: 5-Modal Biometric + Hardware Token | CHASSIS: Titanium-Ceramic EMP-Hardened | BATTERY: 24h Continuous Operation.",
+      "🕹️ <b>CORE_LOGIC:</b> Photonic quantum random number generator produces certified-true-random keys. Any interception attempt collapses the quantum state, instantly alerting both parties and triggering zero-knowledge key rotation.",
+      "💬 <b>OPERATOR_INTEL:</b> 'Transmitted a $400M acquisition authorization from a hotel room in a jurisdiction I don't trust. The Oracle's quantum channel made it physically impossible to intercept without detection. This is what sovereign-grade communications looks like in 2026.'"
+    ]
+  },
+  {
+    "id": "UR-24",
+    "name": "WRAITH_ADAPTIVE_CLOAK",
+    "price": "1950.00",
+    "status": "ELITE_ONLY",
+    "yield": "PHYSICAL",
+    "img": "https://v3b.fal.media/files/b/0a9fef53/EgM5UqnP24dk_7IbzNO8R_Asm0szgq.png",
+    "desc": "AI-driven digital invisibility wearable that combines adaptive metamaterial RF signature nullification with real-time biometric spoofing countermeasures. The wrist-mounted gauntlet generates a dynamic electromagnetic null-zone that defeats facial recognition cameras, thermal imaging, millimeter-wave body scanners, and BLE/UWB proximity tracking within a 2-meter radius. Engineered for the $188B data protection era where 2026's AI-surveillance infrastructure has made anonymity the ultimate executive asset.",
+    "bullets": [
+      "🛡️ <b>OVERVIEW:</b> Wearable digital-invisibility system combining metamaterial RF cloaking, AI-driven facial recognition defeat, and thermal signature masking.",
+      "⚙️ <b>TACTICAL_SPECS:</b> RADIUS: 2m Adaptive Null-Zone | DEFEATS: Facial Recognition / Thermal / mmWave / BLE-UWB Tracking | CHASSIS: Carbon-Metamaterial Composite | BATTERY: 14h Active Stealth.",
+      "🕹️ <b>CORE_LOGIC:</b> On-edge neural processor continuously scans local sensor environment and adapts cloaking patterns in real-time. Projects structured IR noise to defeat camera AI while maintaining wearer's natural thermal profile to human observers.",
+      "💬 <b>OPERATOR_INTEL:</b> 'Walked through an international terminal equipped with next-gen biometric corridors. The Wraith defeated three separate facial recognition arrays, a mmWave scanner perimeter, and a UWB asset-tracking mesh. I was a ghost. In 2026, digital invisibility isn't optional — it's survival.'"
+    ]
   }
 ]
